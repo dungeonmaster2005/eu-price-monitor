@@ -22,7 +22,7 @@ STATE_PATH = Path("data/offers_latest.json")
 FORGET_AFTER_DAYS = 30
 
 _STORED_FIELDS = ("site", "country", "name", "price", "currency", "url", "in_stock", "model", "ean",
-                  "brand", "seller", "is_official", "last_seen")
+                  "brand", "seller", "is_official", "condition", "last_seen")
 
 
 class OfferState:

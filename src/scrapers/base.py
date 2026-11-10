@@ -18,7 +18,7 @@ from bs4 import BeautifulSoup
 
 from src.http_client import BlockedError, FetchError, PoliteClient
 from src.id_cache import IdCache, ProductIds
-from src.identifiers import normalize_gtin
+from src.identifiers import detect_condition, normalize_gtin
 from src.models import Product
 
 log = logging.getLogger(__name__)
@@ -88,6 +88,7 @@ class BaseScraper(ABC):
         result = priced
         for product in result:
             product.is_official = self._is_official(product.seller)
+            product.condition = detect_condition(f"{product.name} {product.url}")
             product.ean = normalize_gtin(product.ean, context=f"({self.site_id} {product.url})")
 
         self.log.info(

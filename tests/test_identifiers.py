@@ -90,3 +90,22 @@ class TestNames:
 
     def test_base_model_keeps_distinguishing_words(self):
         assert base_model("JBL Tune 760NC czarne") != base_model("JBL Tune 760 czarne")
+
+
+@pytest.mark.parametrize(
+    ("text", "condition"),
+    [
+        ("Rozbaleno - JBL Tour One M3 latte", "open_box"),  # mironet
+        ("Słuchawki Sony WH-1000XM5 powystawowe", "open_box"),  # morele
+        ("JBL Tune 520BT B-Ware", "open_box"),  # alternate
+        ("https://www.coolblue.nl/tweedekans/product/905648", "open_box"),  # coolblue
+        ("Apple AirPods Max Generalüberholt, Kopfhörer blau", "refurbished"),
+        ("Casque Sony reconditionné", "refurbished"),  # ldlc
+        ("Słuchawki JBL używane", "used"),
+        ("Sony WH-1000XM6 Zwart", "new"),
+    ],
+)
+def test_detect_condition(text, condition):
+    from src.identifiers import detect_condition
+
+    assert detect_condition(text) == condition

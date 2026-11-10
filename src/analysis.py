@@ -39,6 +39,7 @@ KINDS = ("price_drop", "new_leader", "out_of_stock", "new_product")
 class AlertConfig:
     price_drop_pct: float = 5.0
     new_leader_margin_pct: float = 1.0
+    new_product_min_history_days: int = 7
     official_only: bool = True
     top_n_per_group: int = 5
     groups: list[str] = field(default_factory=lambda: list(KINDS))
@@ -68,25 +69,33 @@ def detect(
     previous: dict[str, dict[str, Any]],
     stale_sites: set[str],
     config: AlertConfig,
+    history_days: dict[str, int] | None = None,
 ) -> list[Alert]:
-    """All alerts for today, given the previous observation of each offer URL."""
+    """All alerts for today, given the previous observation of each offer URL.
+
+    history_days: days of saved history per site; "new product" alerts wait
+    until a site has `new_product_min_history_days` of them.
+    """
     if not previous:
         log.info("No previous observations — first run, no alerts")
         return []
 
     groups = group_by_product(products)
     titles = {match_id: english_name(offers) for match_id, offers in groups.items()}
-    known_sites = {row["site"] for row in previous.values()}
+    history_days = history_days or {}
+    new_product_sites = {site for site in {row["site"] for row in previous.values()}
+                         if history_days.get(site, 0) >= config.new_product_min_history_days}
 
     def eligible(p: Product) -> bool:
-        return not p.stale and p.site not in stale_sites and (p.is_official or not config.official_only)
+        return (not p.stale and p.site not in stale_sites and p.condition == "new"
+                and (p.is_official or not config.official_only))
 
     alerts: list[Alert] = []
     for p in filter(eligible, products):
         title = titles[p.match_id or p.url]
         prev = previous.get(p.url)
         if prev is None:
-            if p.site in known_sites and p.in_stock is not False:
+            if p.site in new_product_sites and p.in_stock is not False:
                 alerts.append(Alert("new_product", title, p.url, p.country, p.site, float(p.price_eur or 0),
                                     {"price": p.price, "currency": p.currency, "price_eur": p.price_eur}))
             continue

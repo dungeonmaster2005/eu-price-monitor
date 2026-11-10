@@ -117,6 +117,8 @@ def brand_key(product: Product) -> str:
 
 def name_similarity(a: Product, b: Product) -> tuple[float, str]:
     """Confidence (0..1) that two offers are the same product, plus a reason."""
+    if a.condition != b.condition:
+        return 0.0, "different condition"
     if brand_key(a) != brand_key(b):
         return 0.0, "different brand"
     brand = brand_key(a)
@@ -173,21 +175,22 @@ def match_products(products: list[Product], overrides: MatchOverrides | None = N
             if not uf.union(present[0], j, "manual"):
                 log.error("match_overrides: merge %s conflicts with a split rule", urls)
 
-    # 1. EAN
-    by_ean: dict[str, list[int]] = defaultdict(list)
+    # 1. EAN — keyed together with the condition: an open-box or refurbished
+    #    unit shares the EAN of the new product but is not the same offer.
+    by_ean: dict[tuple[str, str], list[int]] = defaultdict(list)
     for i, p in enumerate(products):
         if p.ean:
-            by_ean[p.ean].append(i)
+            by_ean[(p.ean, p.condition)].append(i)
     for idx in by_ean.values():
         for j in idx[1:]:
             uf.union(idx[0], j, "ean")
 
     # 2. MPN (same brand only, so short codes of different brands never collide)
-    by_mpn: dict[tuple[str, str], list[int]] = defaultdict(list)
+    by_mpn: dict[tuple[str, str, str], list[int]] = defaultdict(list)
     for i, p in enumerate(products):
         key = normalize_mpn(p.model, p.brand)
         if key:
-            by_mpn[(brand_key(p), key)].append(i)
+            by_mpn[(brand_key(p), key, p.condition)].append(i)
     review: list[NameCandidate] = []
     for idx in by_mpn.values():
         for j in idx[1:]:
@@ -283,7 +286,17 @@ def _clusters_have_ids_conflict(products: list[Product], uf: _UnionFind, i: int,
 
 
 def _stable_id(offers: list[Product]) -> str:
-    """Deterministic id so the same product keeps its id from day to day."""
+    """Deterministic id so the same product keeps its id from day to day.
+
+    Non-new offers get a condition suffix ("ean:…|refurbished"), so they never
+    share an id with the new product.
+    """
+    base = _identity(offers)
+    conditions = {p.condition for p in offers}
+    return base if conditions == {"new"} else f"{base}|{'+'.join(sorted(conditions))}"
+
+
+def _identity(offers: list[Product]) -> str:
     eans = sorted(p.ean for p in offers if p.ean)
     if eans:
         return f"ean:{eans[0]}"

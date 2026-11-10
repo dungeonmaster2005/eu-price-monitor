@@ -30,6 +30,7 @@ from src.config import load_sites
 from src.currency import FxRates
 from src.http_client import PoliteClient
 from src.id_cache import IdCache
+from src.identifiers import detect_condition
 from src.matching import MatchOverrides, MatchResult, match_products
 from src.models import Product
 from src.notify import build_message, sample_alerts, send_telegram, telegram_configured
@@ -115,6 +116,7 @@ def load_products(path: Path) -> list[Product]:
     for row in rows:
         kwargs = {k: row[k] for k in fields}
         kwargs["price"] = Decimal(row["price"])
+        kwargs["condition"] = row.get("condition") or detect_condition(f"{row['name']} {row['url']}")
         day = date.fromisoformat(row["date"])
         products.append(Product(**kwargs, date=day, last_seen=day))
     return products
@@ -189,11 +191,14 @@ def sheet_url() -> str | None:
     return f"https://docs.google.com/spreadsheets/d/{sheet_id}" if sheet_id else None
 
 
-def alert(products: list[Product], previous: dict[str, dict], stale_sites: set[str], send: bool) -> bool:
+def alert(products: list[Product], previous: dict[str, dict], stale_sites: set[str],
+          statuses: SiteStatusStore, send: bool) -> bool:
     """Detect changes, save the message to data/alert_message.txt and send it. False if sending failed."""
     config = AlertConfig.load()
-    message = build_message(detect(products, previous, stale_sites, config), config, date.today(),
-                            stale_sites, sheet_url())
+    # successful runs recorded per site = days of saved history (capped at 14)
+    history_days = {site: len(s.recent_counts) for site, s in statuses.sites.items()}
+    alerts = detect(products, previous, stale_sites, config, history_days)
+    message = build_message(alerts, config, date.today(), stale_sites, sheet_url())
     if message is None:
         log.info("No changes worth an alert — nothing sent")
         return True
@@ -284,7 +289,8 @@ def main() -> int:
         ok &= write_sheets(products, fresh, statuses, fx, write_history=not args.no_history)
 
     # A partial --site run would report every other site's products as unchanged/new.
-    ok &= alert(products, previous if not args.site else {}, stale_sites, send=not (args.no_telegram or args.site))
+    ok &= alert(products, previous if not args.site else {}, stale_sites, statuses,
+                send=not (args.no_telegram or args.site))
     return 0 if ok else 1
 
 

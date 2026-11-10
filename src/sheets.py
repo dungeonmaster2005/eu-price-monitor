@@ -108,10 +108,18 @@ class SheetsWriter:
         """
         headers = [c.header for c in tables.OFFER_COLUMNS]
         ws = self._worksheet("history", tables.OFFER_COLUMNS)
-        if ws.row_values(HEADER_ROW) != headers:
-            if ws.row_values(FIRST_DATA_ROW):
+        current = ws.row_values(HEADER_ROW)
+        if current != headers:
+            if current and headers[: len(current)] == current:
+                # new columns were appended at the end: extend the header, keep the rows
+                log.info("history: adding columns %s", headers[len(current):])
+                ws.resize(cols=len(headers))
+                ws.update([headers], f"A{HEADER_ROW}", value_input_option="RAW")
+                self.book.batch_update({"requests": self._base_format(ws.id, tables.OFFER_COLUMNS, ws.row_count - 2)})
+            elif ws.row_values(FIRST_DATA_ROW):
                 raise RuntimeError("history sheet has data with different columns — migrate it manually")
-            self._reset(ws, tables.OFFER_COLUMNS, [])
+            else:
+                self._reset(ws, tables.OFFER_COLUMNS, [])
         existing = self._records(ws, headers)
         today = fresh[0].date.isoformat() if fresh else None
         if fresh:

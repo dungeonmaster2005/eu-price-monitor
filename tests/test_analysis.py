@@ -48,8 +48,22 @@ def test_fx_move_alone_is_not_a_price_drop():
 def test_out_of_stock_and_new_product():
     gone = offer("ldlc", "FR", "249", in_stock=False, match_id="ean:2")
     new = offer("ldlc", "FR", "99", match_id="ean:3")
-    alerts = detect([gone, new], {gone.url: prev(gone, in_stock=True)}, set(), CFG)
+    alerts = detect([gone, new], {gone.url: prev(gone, in_stock=True)}, set(), CFG, {"ldlc": 7})
     assert kinds(alerts) == ["new_product", "out_of_stock"]
+
+
+def test_new_products_wait_for_a_week_of_history():
+    known = offer("ldlc", "FR", "249", match_id="ean:2")
+    new = offer("ldlc", "FR", "99", match_id="ean:3")
+    previous = {known.url: prev(known)}
+    assert detect([known, new], previous, set(), CFG, {"ldlc": 6}) == []
+    assert kinds(detect([known, new], previous, set(), CFG, {"ldlc": 7})) == ["new_product"]
+
+
+def test_open_box_and_refurbished_never_alert():
+    p = offer("mironet", "CZ", "3000", "CZK", rate="24.3", name="Rozbaleno - JBL Tour One M3")
+    p.condition = "open_box"
+    assert detect([p], {p.url: prev(p, "5000", in_stock=True)}, set(), CFG, {"mironet": 7}) == []
 
 
 def test_new_leader_needs_margin():

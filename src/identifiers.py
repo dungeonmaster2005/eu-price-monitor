@@ -109,8 +109,6 @@ STOPWORDS = {
 # Generation markers in five languages -> one token: "(2e gen)", "2.Gen",
 # "2nd generation", "2. generacji", "2ème génération" -> "gen2".
 _GENERATION = re.compile(r"\(?\b(\d)\s*(?:st|nd|rd|th|e|eme|\.)?\s*(?:gen|generation|generacji|generace|generatie)\b\.?\)?")
-# Refurbished offers are not the same product as new ones.
-_REFURBISHED = re.compile(r"\b(?:generaluberholt|refurbished|reconditionne|odnowione|odnowiony|renewed|repasovane|repasovany)\b")
 
 
 # Spec fragments with numbers that are not model numbers: "Bluetooth 5.3",
@@ -123,6 +121,26 @@ _SPEC_NOISE = re.compile(
 )
 
 
+# Product condition markers in the five shop languages (matched on accent-free
+# lowercase text of the name and URL). Anything that is not brand-new is kept
+# out of matching with new products, the compare sheet and alerts.
+CONDITION_PATTERNS = [
+    ("open_box", re.compile(
+        r"\b(?:rozbalen\w*|powystawow\w*|b-?ware|open[\s-]?box|tweede[\s-]?kans|tweedekans|outlet"
+        r"|deballe\w*|ausgepackt|vystaven\w*|rozpakowan\w*|retourware)\b")),
+    ("refurbished", re.compile(
+        r"\b(?:refurbished|refurb|generaluberholt\w*|reconditionn\w*|odnowion\w*|repasovan\w*|renewed|renove\w*)\b")),
+    ("used", re.compile(r"\b(?:uzywan\w*|gebraucht\w*|pouzit\w*|occasion|second[\s-]?hand)\b")),
+]
+CONDITION_TOKENS = {"openbox", "refurbished", "used"}
+
+
+def detect_condition(text: str) -> str:
+    """'new', 'open_box', 'refurbished' or 'used' from a product name and/or URL."""
+    normalised = strip_accents(text).lower()
+    return next((condition for condition, pattern in CONDITION_PATTERNS if pattern.search(normalised)), "new")
+
+
 def strip_accents(text: str) -> str:
     text = text.replace("ł", "l").replace("Ł", "L").replace("ß", "ss")
     return "".join(c for c in unicodedata.normalize("NFKD", text) if not unicodedata.combining(c))
@@ -132,7 +150,8 @@ def name_tokens(name: str) -> list[str]:
     """Lowercase ASCII tokens; model codes like 'WH-1000XM5' become 'wh1000xm5'."""
     text = strip_accents(name).lower()
     text = _GENERATION.sub(r" gen\1 ", text)
-    text = _REFURBISHED.sub(" refurb ", text)
+    for condition, pattern in CONDITION_PATTERNS:  # "Rozbaleno - JBL ..." -> "openbox jbl ..."
+        text = pattern.sub(f" {condition.replace('_', '')} ", text)
     # bracketed codes "(MKFT4ZM/A)" are handled via MPN; "(Noir)" stays as a word
     text = re.sub(r"\((?=[^)]*\d)[^)]*\)", " ", text)
     text = _SPEC_NOISE.sub(" ", text)
@@ -190,7 +209,7 @@ def canonical_brand(brand: str | None, name: str) -> str:
     key = _compact(brand or "")
     if key in JUNK_BRANDS:
         tokens = name_tokens(name)
-        while tokens and tokens[0] in _CATEGORY_WORDS:  # "Słuchawki Sony ..." -> "Sony ..."
+        while tokens and tokens[0] in _CATEGORY_WORDS | CONDITION_TOKENS:  # "Rozbaleno - JBL ..." -> "JBL ..."
             tokens = tokens[1:]
         compact_name = "".join(tokens)
         known = sorted(set(BRAND_ALIASES) | set(BRAND_ALIASES.values()) | KNOWN_BRANDS, key=len, reverse=True)

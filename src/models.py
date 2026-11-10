@@ -24,6 +24,7 @@ class Product:
     brand: str | None = None
     seller: str | None = None  # who sells the offer (shop itself or marketplace partner)
     is_official: bool = True  # False for third-party marketplace offers
+    condition: str = "new"  # new | open_box | refurbished | used
     price_eur: Decimal | None = None
     base_model: str | None = None  # colour-agnostic key grouping variants
     match_id: str | None = None  # same id = same product across shops

@@ -114,3 +114,13 @@ def test_same_mpn_different_colour_goes_to_review():
     result = match_products([pink, black])
     assert pink.match_id != black.match_id
     assert any("colour differs" in c.reason for c in result.review)
+
+
+def test_refurbished_never_matches_the_new_product():
+    new = offer("ldlc", "FR", "Apple AirPods Max Bleu", ean="0194253397076", brand="Apple")
+    refurb = offer("alternate_de", "DE", "Apple AirPods Max Generalüberholt, Kopfhörer blau",
+                   ean="0194253397076", brand="Apple")
+    refurb.condition = "refurbished"
+    match_products([new, refurb])
+    assert new.match_id == "ean:0194253397076"
+    assert refurb.match_id == "ean:0194253397076|refurbished"

@@ -85,3 +85,16 @@ def test_english_name_translates_colour_and_shop_phrases():
     assert tables.english_name(named("Bose QuietComfort Ultra Headphones (2e gen) Wit", "coolblue", "Bose"))         == "Bose QuietComfort Ultra Headphones (Gen 2) White"
     assert tables.english_name(named("Kraken V4 černá", "mironet", "Razer")) == "Razer Kraken V4 Black"
     assert tables.english_name(named("Apple AirPods 5 met draadloze oplaadcase", "coolblue", "Apple"))         == "Apple AirPods 5 with Wireless Charging Case"
+
+
+def test_english_name_drops_article_codes_in_brackets():
+    offers = [Product(site="morele", country="PL", name="Słuchawki Baseus Bass 15 Clip OWS (A00079500223-00) białe",
+                      price=Decimal(1), currency="PLN", url="u", brand="Baseus")]
+    assert tables.english_name(offers) == "Baseus Bass 15 Clip OWS White"
+
+
+def test_compare_excludes_open_box():
+    a, b, c = offer("morele", "PL", "100"), offer("coolblue", "NL", "300"), offer("ldlc", "FR", "320")
+    a.condition = "open_box"
+    [row] = tables.compare_rows([a, b, c])
+    assert row[col("PL")] is None

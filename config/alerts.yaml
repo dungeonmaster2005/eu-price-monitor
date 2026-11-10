@@ -8,7 +8,12 @@ price_drop_pct: 5.0
 # at least this much cheaper (in EUR) than the next country — FX noise filter.
 new_leader_margin_pct: 1.0
 
+# "New products" only for sites with at least this many days of saved history:
+# in the first week almost every product entering the top listing pages looks new.
+new_product_min_history_days: 7
+
 # Only the shops' own offers (not marketplace partners) raise alerts.
+# Open-box / refurbished / used offers never raise alerts.
 official_only: true
 
 # Per group: show the top N items by size of the change, then "…and N more".

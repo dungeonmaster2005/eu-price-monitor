@@ -67,6 +67,8 @@ def display_name(offers: list[Product]) -> str:
 
 # Shop-language fragments -> English, for the pan-European product title.
 _PHRASES = [
+    # shop article codes in brackets: "(A00079500223-00)", "(SM-R420NZKAEUE)"; "(Gen 2)" has a space
+    (r"\s*\((?=[^)]*\d)[A-Za-z0-9/.\-]{4,}\)", ""),
     (r",\s*(?:Gaming-|In-Ear-|Over-Ear-|On-Ear-)?(?:Headset|Kopfhörer)\b", ""),
     (r"\bmet draadloze oplaadcase\b", "with Wireless Charging Case"),
     (r"\bmit kabellosem Ladecase\b", "with Wireless Charging Case"),
@@ -113,8 +115,9 @@ def _brand_label(offers: list[Product], brand_key: str) -> str:
 
 
 def comparable(offers: list[Product]) -> list[Product]:
-    """Offers that take part in cross-country comparison."""
-    return [p for p in offers if p.is_official and p.in_stock is not False and p.price_eur is not None]
+    """Offers that take part in cross-country comparison: new, official, in stock."""
+    return [p for p in offers
+            if p.is_official and p.condition == "new" and p.in_stock is not False and p.price_eur is not None]
 
 
 def country_prices(offers: list[Product]) -> dict[str, Decimal]:
@@ -150,6 +153,7 @@ OFFER_COLUMNS = [
     Column("In stock", "bool", 75), Column("Seller", width=140), Column("Official", "bool", 75),
     Column("Match ID", width=190), Column("Base model", width=170), Column("Last seen", "date", 90),
     Column("Stale", "bool", 60), Column("URL", width=300),
+    Column("Condition", width=95),  # appended last so older history rows stay aligned
 ]
 
 
@@ -160,6 +164,7 @@ def offer_rows(products: list[Product]) -> list[list[Any]]:
             p.date.isoformat(), p.country, p.site, p.name, p.model or "", p.ean or "",
             _f(p.price), p.currency, _f(p.price_eur), p.in_stock, p.seller or "", p.is_official,
             p.match_id or "", p.base_model or "", (p.last_seen or p.date).isoformat(), p.stale, p.url,
+            p.condition,
         ])
     return rows
 
