@@ -52,3 +52,19 @@ def test_state_roundtrip(tmp_path):
     state.merge_today([offer("a")], stale_sites=set(), today=D1)
     state.save()
     assert OfferState(path).offers["a"]["last_seen"] == "2026-11-09"
+
+
+def test_all_stale_warning_is_sent_once(tmp_path, monkeypatch):
+    import src.main as main
+
+    sent = []
+    monkeypatch.setattr(main, "FAILURE_NOTICE", tmp_path / ".failure_notified")
+    monkeypatch.setattr(main, "telegram_configured", lambda: True)
+    monkeypatch.setattr(main, "send_telegram", sent.append)
+    store = SiteStatusStore(tmp_path / "s.json")
+    store.record(SiteRun("morele", "PL", 0, False, ["listing page 1 blocked: HTTP 403"]), D2)
+    store.record(SiteRun("ldlc", "FR", 0, False, ["listing page 1 failed: timeout"]), D2)
+
+    main.warn_all_stale(store, ["morele", "ldlc"], send=True)
+    assert len(sent) == 1 and "all 2 sites are stale" in sent[0] and "HTTP 403" in sent[0]
+    assert (tmp_path / ".failure_notified").exists()  # the workflow will not send a second message

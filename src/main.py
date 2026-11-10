@@ -11,9 +11,11 @@ from __future__ import annotations
 
 import argparse
 import csv
+import html
 import json
 import logging
 import os
+import sys
 from collections import Counter
 from concurrent.futures import ThreadPoolExecutor
 from datetime import date
@@ -37,6 +39,9 @@ from src.site_status import SiteRun, SiteStatusStore
 
 log = logging.getLogger("main")
 OUTPUT_DIR = Path("data")
+# Written when the monitor has already told Telegram about a failure, so the
+# workflow's generic "run failed" message is not sent a second time.
+FAILURE_NOTICE = OUTPUT_DIR / ".failure_notified"
 
 
 def setup_logging() -> None:
@@ -163,17 +168,20 @@ def log_summary(products: list[Product], matches: MatchResult) -> None:
 
 
 def write_sheets(products: list[Product], fresh: list[Product], statuses: SiteStatusStore, fx: FxRates,
-                 write_history: bool = True) -> None:
+                 write_history: bool = True) -> bool:
+    """Returns False if Sheets are configured but writing failed."""
     from src.sheets import SheetsWriter, open_spreadsheet, sheets_configured
 
     if not sheets_configured():
         log.warning("Google Sheets not configured (SHEET_ID + GOOGLE_CREDS/_PATH) — skipping")
-        return
+        return True
     try:
         SheetsWriter(open_spreadsheet(), fx.as_of).write_all(
             products, fresh, list(statuses.sites.values()), today=date.today(), write_history=write_history)
+        return True
     except Exception:
         log.exception("Writing Google Sheets failed")
+        return False
 
 
 def sheet_url() -> str | None:
@@ -181,25 +189,41 @@ def sheet_url() -> str | None:
     return f"https://docs.google.com/spreadsheets/d/{sheet_id}" if sheet_id else None
 
 
-def alert(products: list[Product], previous: dict[str, dict], stale_sites: set[str], send: bool) -> None:
-    """Detect changes, save the message to data/alert_message.txt and send it to Telegram."""
+def alert(products: list[Product], previous: dict[str, dict], stale_sites: set[str], send: bool) -> bool:
+    """Detect changes, save the message to data/alert_message.txt and send it. False if sending failed."""
     config = AlertConfig.load()
     message = build_message(detect(products, previous, stale_sites, config), config, date.today(),
                             stale_sites, sheet_url())
     if message is None:
         log.info("No changes worth an alert — nothing sent")
-        return
+        return True
     (OUTPUT_DIR / "alert_message.txt").write_text(message, encoding="utf-8")
     log.info("Alert message:\n%s", message)
+    return notify(message, send)
+
+
+def notify(message: str, send: bool = True) -> bool:
     if not send:
         log.info("Telegram sending skipped")
-    elif not telegram_configured():
+        return True
+    if not telegram_configured():
         log.warning("Telegram not configured (TELEGRAM_BOT_TOKEN + TELEGRAM_CHAT_ID) — not sent")
-    else:
-        try:
-            send_telegram(message)
-        except Exception:
-            log.exception("Sending Telegram message failed")
+        return True
+    try:
+        send_telegram(message)
+        return True
+    except Exception:
+        log.exception("Sending Telegram message failed")
+        return False
+
+
+def warn_all_stale(statuses: SiteStatusStore, sites: list[str], send: bool) -> None:
+    """Every site failed today: tell Telegram once, with the reasons."""
+    lines = [f"⚠️ <b>EU price monitor: all {len(sites)} sites are stale today</b>",
+             "No prices were updated and no alerts were generated."]
+    lines += [f"• {site}: {html.escape(statuses.sites[site].reason)[:200]}" for site in sites]
+    if notify("\n".join(lines), send):
+        FAILURE_NOTICE.write_text(date.today().isoformat(), encoding="utf-8")
 
 
 def load_baseline(path: Path | None) -> dict[str, dict]:
@@ -208,17 +232,19 @@ def load_baseline(path: Path | None) -> dict[str, dict]:
     return {row["url"]: row for row in json.loads(path.read_text(encoding="utf-8"))}
 
 
-def main() -> None:
+def main() -> int:
+    """Returns the process exit code: non-zero makes the CI run fail visibly."""
     load_dotenv()
     setup_logging()
     args = parse_args()
+    FAILURE_NOTICE.unlink(missing_ok=True)
 
     if args.test_alert:
         config = AlertConfig.load()
         text = "[TEST] " + build_message(sample_alerts(), config, date.today(), sheet_url=sheet_url())
         log.info("Test message:\n%s", text)
         send_telegram(text)
-        return
+        return 0
 
     statuses = SiteStatusStore()
     if args.from_file:
@@ -237,24 +263,30 @@ def main() -> None:
         products = offer_state.merge_today(fresh, stale_sites)
         offer_state.save()
         statuses.save()
+        if runs and len(stale_sites) == len(runs):
+            log.error("All sites are stale today")
+            warn_all_stale(statuses, [run.site for run in runs], send=not args.no_telegram)
+            return 1
 
     if not products:
         log.error("No products scraped and nothing to carry over")
-        return
+        return 1
     fx = convert_to_eur(products)
     matches = match_products(products, MatchOverrides.load())
     path = save(products, matches)
     log_summary(products, matches)
     log.info("Saved %d offers to %s", len(products), path)
 
+    ok = True
     if args.no_sheets or args.site:
         log.info("Sheets skipped (%s)", "--no-sheets" if args.no_sheets else "partial --site run")
     else:
-        write_sheets(products, fresh, statuses, fx, write_history=not args.no_history)
+        ok &= write_sheets(products, fresh, statuses, fx, write_history=not args.no_history)
 
     # A partial --site run would report every other site's products as unchanged/new.
-    alert(products, previous if not args.site else {}, stale_sites, send=not (args.no_telegram or args.site))
+    ok &= alert(products, previous if not args.site else {}, stale_sites, send=not (args.no_telegram or args.site))
+    return 0 if ok else 1
 
 
 if __name__ == "__main__":
-    main()
+    sys.exit(main())
