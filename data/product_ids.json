@@ -34,6 +34,11 @@
   "model": "MFHP4ZM/A",
   "brand": "Apple"
  },
+ "https://www.alternate.de/Apple/Airpods-Max-Generalüberholt-Kopfhörer/html/product/100115267": {
+  "ean": null,
+  "model": null,
+  "brand": "Apple"
+ },
  "https://www.alternate.de/Apple/Apple-AirPods-5-Kopfhörer/html/product/100221015": {
   "ean": "0195951379036",
   "model": "MKFW4ZM/A",
@@ -59,6 +64,11 @@
   "model": "CA-9011188-EU",
   "brand": "Corsair"
  },
+ "https://www.alternate.de/ENDORFY/VIRO-Wireless-Alt-Gray-Gaming-Headset/html/product/100219233": {
+  "ean": "5903018668697",
+  "model": "EY1A015",
+  "brand": "ENDORFY"
+ },
  "https://www.alternate.de/Fairphone/Fairbuds-2-Kopfhörer/html/product/100226886": {
   "ean": "8718819370789",
   "model": "AU2FEAR-1ZW-EU1",
@@ -79,6 +89,11 @@
   "model": "AUHEAD-2ZW-EU2",
   "brand": "Fairphone"
  },
+ "https://www.alternate.de/HP/Poly-Voyager-Focus-2-USB-C-C-Headset/html/product/100101057": {
+  "ean": "0198122157228",
+  "model": "9T9J4AA#AC3",
+  "brand": "HP"
+ },
  "https://www.alternate.de/JBL/TUNE-520BT-Kopfhörer/html/product/100218150": {
   "ean": "6925281963667",
   "model": "JBLT520BTWHT",
@@ -89,25 +104,80 @@
   "model": "JBLTOURONEM3BLK",
   "brand": "JBL"
  },
+ "https://www.alternate.de/JBL/Tune-680NC-Kopfhörer/html/product/100218147": {
+  "ean": "1200130030444",
+  "model": "JBLT680NCBLK",
+  "brand": "JBL"
+ },
+ "https://www.alternate.de/Jabra/Evolve3-75-Headset/html/product/100188203": {
+  "ean": "5706991035056",
+  "model": "37599-989-989",
+  "brand": "Jabra"
+ },
+ "https://www.alternate.de/Jabra/Evolve3-75-Headset/html/product/100188679": {
+  "ean": "5706991035025",
+  "model": "37599-989-889",
+  "brand": "Jabra"
+ },
  "https://www.alternate.de/Jabra/Evolve3-85-Headset/html/product/100186953": {
   "ean": "5706991034431",
   "model": "38599-999-999",
   "brand": "Jabra"
+ },
+ "https://www.alternate.de/Jabra/Evolve3-85-Headset/html/product/100188207": {
+  "ean": "5706991034448",
+  "model": "38599-989-999",
+  "brand": "Jabra"
+ },
+ "https://www.alternate.de/Jabra/Evolve3-85-Headset/html/product/100188680": {
+  "ean": "5706991034455",
+  "model": "38599-999-899",
+  "brand": "Jabra"
+ },
+ "https://www.alternate.de/Jabra/Evolve3-85-Headset/html/product/100195382": {
+  "ean": "5706991034417",
+  "model": "38599-989-989",
+  "brand": "Jabra"
+ },
+ "https://www.alternate.de/Jabra/Evolve3-85-Headset/html/product/100195384": {
+  "ean": "5706991034400",
+  "model": "38599-989-889",
+  "brand": "Jabra"
+ },
+ "https://www.alternate.de/Lindy/L118-Kabelloses-Büro-Headset-mit-Ladestation-20450-/html/product/100201720": {
+  "ean": "4002888204507",
+  "model": null,
+  "brand": "Lindy"
  },
  "https://www.alternate.de/Logitech-Gaming/G435-LIGHTSPEED-Gaming-Headset/html/product/1782307": {
   "ean": "5099206097490",
   "model": "981-001074",
   "brand": "Logitech Gaming"
  },
+ "https://www.alternate.de/Medion/Life-HX1-Pure-Over-Ear-Kopfhörer/html/product/100225735": {
+  "ean": "4061275233476",
+  "model": null,
+  "brand": "Medion"
+ },
  "https://www.alternate.de/Motorola/moto-buds-2-plus-PANTONE-Cool-White-Kopfhörer/html/product/100198599": {
   "ean": "0840493609546",
   "model": "PG38C08069",
+  "brand": "Motorola"
+ },
+ "https://www.alternate.de/Motorola/moto-buds-2-plus-PANTONE-Silhouette-Kopfhörer/html/product/100198602": {
+  "ean": "0840493609485",
+  "model": "PG38C08061",
   "brand": "Motorola"
  },
  "https://www.alternate.de/Nothing/Ear-Kopfhörer/html/product/100147127": {
   "ean": "6974434222175",
   "model": "A10600061",
   "brand": "Nothing"
+ },
+ "https://www.alternate.de/Razer/BlackShark-V2-Pro-2023-Gaming-Headset/html/product/1913260": {
+  "ean": "8887910060117",
+  "model": "RZ04-04530100-R3M1",
+  "brand": "Razer"
  },
  "https://www.alternate.de/Samsung/Galaxy-Buds-4-Kopfhörer/html/product/100193913": {
   "ean": "8806097998570",
@@ -134,6 +204,16 @@
   "model": "WHCH520B.CE7",
   "brand": "Sony"
  },
+ "https://www.alternate.de/Sony/WH-CH520-Kopfhörer/html/product/1906260": {
+  "ean": "4548736142916",
+  "model": "WHCH520C.CE7",
+  "brand": "Sony"
+ },
+ "https://www.alternate.de/Sony/WH-CH520-Kopfhörer/html/product/1906261": {
+  "ean": "4548736142862",
+  "model": "WHCH520L.CE7",
+  "brand": "Sony"
+ },
  "https://www.alternate.de/Sony/WH-ULT900NB-Headset/html/product/100060570": {
   "ean": "4548736156432",
   "model": "WHULT900NB.CE7",
@@ -149,10 +229,55 @@
   "model": null,
   "brand": "SteelSeries"
  },
+ "https://www.alternate.de/SteelSeries/Arctis-Nova-5-Wireless-Gaming-Headset/html/product/100076081": {
+  "ean": "5707119057974",
+  "model": null,
+  "brand": "SteelSeries"
+ },
+ "https://www.alternate.de/SteelSeries/Arctis-Nova-5X-Wireless-Gaming-Headset/html/product/100048142": {
+  "ean": "5707119053266",
+  "model": null,
+  "brand": "SteelSeries"
+ },
+ "https://www.alternate.de/SteelSeries/Arctis-Nova-7-Wireless-Gen-2-Gaming-Headset/html/product/100156687": {
+  "ean": "5707119065597",
+  "model": null,
+  "brand": "SteelSeries"
+ },
+ "https://www.alternate.de/SteelSeries/Arctis-Nova-7-Wireless-Gen-2-Gaming-Headset/html/product/100156688": {
+  "ean": "5707119065634",
+  "model": null,
+  "brand": "SteelSeries"
+ },
+ "https://www.alternate.de/SteelSeries/Arctis-Nova-7-Wireless-Gen-2-Gaming-Headset/html/product/100156689": {
+  "ean": "5707119065610",
+  "model": null,
+  "brand": "SteelSeries"
+ },
+ "https://www.alternate.de/SteelSeries/Arctis-Nova-7X-Generalüberholt-Gaming-Headset/html/product/100193147": {
+  "ean": null,
+  "model": null,
+  "brand": "SteelSeries"
+ },
+ "https://www.alternate.de/SteelSeries/Arctis-Nova-7X-Wireless-Gen-2-Gaming-Headset/html/product/100156697": {
+  "ean": "5707119065719",
+  "model": null,
+  "brand": "SteelSeries"
+ },
  "https://www.alternate.de/SteelSeries/Arctis-Nova-Pro-Wireless-X-Generalüberholt-Gaming-Headset/html/product/100193161": {
   "ean": null,
   "model": null,
   "brand": "SteelSeries"
+ },
+ "https://www.alternate.de/Turtle-Beach/Stealth-700-Gen-3-Gaming-Headset/html/product/100098376": {
+  "ean": "0731855051021",
+  "model": "TBS-5102-05",
+  "brand": "Turtle Beach"
+ },
+ "https://www.alternate.de/tonies/Bluetooth-Kopfhörer-Himmelblau/html/product/100146385": {
+  "ean": "4251192149299",
+  "model": null,
+  "brand": "tonies"
  },
  "https://www.coolblue.nl/product/903790/sony-wi-c100-zwart.html": {
   "ean": null,
@@ -524,6 +649,11 @@
   "model": "WFC710NP.CE7",
   "brand": "Sony"
  },
+ "https://www.coolblue.nl/product/962048/sony-wf-c710n-wit.html": {
+  "ean": null,
+  "model": "WFC710NW.CE7",
+  "brand": "Sony"
+ },
  "https://www.coolblue.nl/product/962241/soundcore-liberty-4-pro-zwart.html": {
   "ean": null,
   "model": "A3954GF1",
@@ -753,6 +883,11 @@
   "ean": null,
   "model": "MHWK4ZM/A",
   "brand": "Apple"
+ },
+ "https://www.coolblue.nl/product/978813/soundcore-aerofit-2-pro-blauw.html": {
+  "ean": null,
+  "model": "A3875G31",
+  "brand": "Soundcore by Anker"
  },
  "https://www.coolblue.nl/product/979274/jbl-live-680nc-zwart.html": {
   "ean": null,
@@ -2544,6 +2679,11 @@
   "model": null,
   "brand": "OnePlus"
  },
+ "https://www.mironet.cz/oneplus-buds-pro-3-midnight-opus-bluetooth-sluchatka-s-mikrofonem-bt-54-ip55+dp725907/": {
+  "ean": null,
+  "model": null,
+  "brand": "OnePlus"
+ },
  "https://www.mironet.cz/philips-tat3509wt00-bila-bezdratova-sluchatka-mikrofon-bluetooth-53-dotykove-ovladani+dp909957/": {
   "ean": null,
   "model": "TAT3509WT/00",
@@ -2578,6 +2718,11 @@
   "ean": null,
   "model": "1000230-EP.rozbaleno",
   "brand": "EPOS"
+ },
+ "https://www.mironet.cz/rozbaleno-jbl-tour-one-m3-latte-bezdratova-sluchatka-mikrofon-bluetooth-rozbaleno+dp789667/": {
+  "ean": null,
+  "model": "JBLTOURONE3LTT",
+  "brand": "Nezatříděno"
  },
  "https://www.mironet.cz/rozbaleno-lamax-base2-cerna-bezdratova-sluchatka-mikrofon-bluetooth-52-usbc-rozbaleno+dp1079095/": {
   "ean": null,
@@ -2694,6 +2839,11 @@
   "model": null,
   "brand": "Swissten"
  },
+ "https://www.mironet.cz/tozo-h10-cerna-bezdratova-sluchatka-mikrofon-anc-bt-53+dp770529/": {
+  "ean": null,
+  "model": "ACHFTZH100010",
+  "brand": "TOZO"
+ },
  "https://www.mironet.cz/tracer-superbox-bluetooth-reproduktor-tws-10w-rms-fm-radio-led-podsviceni+dp898913/": {
   "ean": null,
   "model": "TRAGLO46612",
@@ -2713,6 +2863,11 @@
   "ean": null,
   "model": null,
   "brand": "YENKEE"
+ },
+ "https://www.mironet.cz/zanovni-jbl-wave-beam-bila-bezdratova-sluchatka-mikrofon-bt-52-ipx2-zanovni+dp770631/": {
+  "ean": null,
+  "model": "JBLWBEAMWHT.zánovní",
+  "brand": "JBL"
  },
  "https://www.morele.net/sluchawki-anker-soundcore-liberty-4-nc-czarne-a3947g11-13151260/": {
   "ean": null,

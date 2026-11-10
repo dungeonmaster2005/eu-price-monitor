@@ -5,10 +5,11 @@
   "last_run": "2026-11-10",
   "last_success": "2026-11-10",
   "count_today": 120,
-  "usual_count": null,
+  "usual_count": 120,
   "stale": false,
-  "reason": "product pages blocked after 25/90: HTTP 429 (Cloudflare challenge) — ids are filled gradually",
+  "reason": "",
   "recent_counts": [
+   120,
    120
   ]
  },
@@ -17,12 +18,13 @@
   "country": "NL",
   "last_run": "2026-11-10",
   "last_success": "2026-11-10",
-  "count_today": 176,
-  "usual_count": null,
+  "count_today": 175,
+  "usual_count": 176,
   "stale": false,
   "reason": "",
   "recent_counts": [
-   176
+   176,
+   175
   ]
  },
  "ldlc": {
@@ -31,10 +33,11 @@
   "last_run": "2026-11-10",
   "last_success": "2026-11-10",
   "count_today": 240,
-  "usual_count": null,
+  "usual_count": 240,
   "stale": false,
   "reason": "",
   "recent_counts": [
+   240,
    240
   ]
  },
@@ -44,10 +47,11 @@
   "last_run": "2026-11-10",
   "last_success": "2026-11-10",
   "count_today": 96,
-  "usual_count": null,
+  "usual_count": 96,
   "stale": false,
   "reason": "",
   "recent_counts": [
+   96,
    96
   ]
  },
@@ -57,10 +61,11 @@
   "last_run": "2026-11-10",
   "last_success": "2026-11-10",
   "count_today": 150,
-  "usual_count": null,
+  "usual_count": 150,
   "stale": false,
   "reason": "",
   "recent_counts": [
+   150,
    150
   ]
  }
