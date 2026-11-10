@@ -1,0 +1,22 @@
+# Telegram alert rules. No alert is ever produced for a site that is stale today.
+
+# Price drop of one offer, measured in the shop's own currency (PLN/CZK/EUR),
+# so exchange-rate moves never look like price changes.
+price_drop_pct: 5.0
+
+# "New cheapest in Europe": the leading country changed and the new leader is
+# at least this much cheaper (in EUR) than the next country — FX noise filter.
+new_leader_margin_pct: 1.0
+
+# Only the shops' own offers (not marketplace partners) raise alerts.
+official_only: true
+
+# Per group: show the top N items by size of the change, then "…and N more".
+top_n_per_group: 5
+
+# Groups in message order; remove one to switch it off.
+groups:
+  - price_drop
+  - new_leader
+  - out_of_stock
+  - new_product

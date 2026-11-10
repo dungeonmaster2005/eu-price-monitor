@@ -17,6 +17,11 @@ merge:
   - - https://www.coolblue.nl/product/958548/marshall-monitor-iii-anc-zwart.html
     - https://www.ldlc.com/fiche/PB00650365.html
 
+  # Sony WH-1000XM5 silver: both shops list MPN WH1000XM5S.CE7; morele calls the
+  # colour "białe" (white), which tripped the colour guard.
+  - - https://www.morele.net/sluchawki-sony-wh-1000xm5-biale-11210746/
+    - https://www.coolblue.nl/product/905649/sony-wh-1000xm5-zilver.html
+
 split:
   # Bose QC Ultra Earbuds 2nd gen (896637-0010) vs 1st gen (882826-0010)
   - - https://www.coolblue.nl/product/965472/bose-quietcomfort-ultra-earbuds-2e-gen-zwart.html

@@ -3,6 +3,8 @@
     python -m src.main                          # full daily run
     python -m src.main --site morele --max-pages 2   # debug one site (no Sheets)
     python -m src.main --from-file data/x.json  # re-run matching/Sheets on saved offers
+    python -m src.main --from-file today.json --baseline yesterday.json --no-sheets  # alert dry run
+    python -m src.main --test-alert              # send an example Telegram message
 """
 
 from __future__ import annotations
@@ -21,12 +23,14 @@ from typing import Any
 
 from dotenv import load_dotenv
 
+from src.analysis import AlertConfig, detect
 from src.config import load_sites
 from src.currency import FxRates
 from src.http_client import PoliteClient
 from src.id_cache import IdCache
 from src.matching import MatchOverrides, MatchResult, match_products
 from src.models import Product
+from src.notify import build_message, sample_alerts, send_telegram, telegram_configured
 from src.offer_state import OfferState
 from src.scrapers import SCRAPERS
 from src.site_status import SiteRun, SiteStatusStore
@@ -51,6 +55,9 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument("--from-file", type=Path, help="use saved offers JSON instead of scraping")
     parser.add_argument("--no-sheets", action="store_true", help="do not write to Google Sheets")
     parser.add_argument("--no-history", action="store_true", help="write Sheets but do not append to history")
+    parser.add_argument("--baseline", type=Path, help="with --from-file: offers JSON to treat as 'yesterday'")
+    parser.add_argument("--no-telegram", action="store_true", help="build the alert message but do not send it")
+    parser.add_argument("--test-alert", action="store_true", help="send an example alert message and exit")
     return parser.parse_args()
 
 
@@ -169,15 +176,56 @@ def write_sheets(products: list[Product], fresh: list[Product], statuses: SiteSt
         log.exception("Writing Google Sheets failed")
 
 
+def sheet_url() -> str | None:
+    sheet_id = os.getenv("SHEET_ID")
+    return f"https://docs.google.com/spreadsheets/d/{sheet_id}" if sheet_id else None
+
+
+def alert(products: list[Product], previous: dict[str, dict], stale_sites: set[str], send: bool) -> None:
+    """Detect changes, save the message to data/alert_message.txt and send it to Telegram."""
+    config = AlertConfig.load()
+    message = build_message(detect(products, previous, stale_sites, config), config, date.today(),
+                            stale_sites, sheet_url())
+    if message is None:
+        log.info("No changes worth an alert — nothing sent")
+        return
+    (OUTPUT_DIR / "alert_message.txt").write_text(message, encoding="utf-8")
+    log.info("Alert message:\n%s", message)
+    if not send:
+        log.info("Telegram sending skipped")
+    elif not telegram_configured():
+        log.warning("Telegram not configured (TELEGRAM_BOT_TOKEN + TELEGRAM_CHAT_ID) — not sent")
+    else:
+        try:
+            send_telegram(message)
+        except Exception:
+            log.exception("Sending Telegram message failed")
+
+
+def load_baseline(path: Path | None) -> dict[str, dict]:
+    if path is None:
+        return {}
+    return {row["url"]: row for row in json.loads(path.read_text(encoding="utf-8"))}
+
+
 def main() -> None:
     load_dotenv()
     setup_logging()
     args = parse_args()
-    statuses = SiteStatusStore()
 
+    if args.test_alert:
+        config = AlertConfig.load()
+        text = "[TEST] " + build_message(sample_alerts(), config, date.today(), sheet_url=sheet_url())
+        log.info("Test message:\n%s", text)
+        send_telegram(text)
+        return
+
+    statuses = SiteStatusStore()
     if args.from_file:
         products = load_products(args.from_file)
         fresh = products
+        previous = load_baseline(args.baseline)
+        stale_sites = {site for site, s in statuses.sites.items() if s.stale}
         log.info("Loaded %d offers from %s", len(products), args.from_file)
     else:
         fresh, runs = scrape_all(*select_sites(args))
@@ -185,6 +233,7 @@ def main() -> None:
             statuses.record(run)
         stale_sites = {run.site for run in runs if statuses.is_stale(run.site)}
         offer_state = OfferState()
+        previous = dict(offer_state.offers)  # last observation of every offer, before today
         products = offer_state.merge_today(fresh, stale_sites)
         offer_state.save()
         statuses.save()
@@ -202,6 +251,9 @@ def main() -> None:
         log.info("Sheets skipped (%s)", "--no-sheets" if args.no_sheets else "partial --site run")
     else:
         write_sheets(products, fresh, statuses, fx, write_history=not args.no_history)
+
+    # A partial --site run would report every other site's products as unchanged/new.
+    alert(products, previous if not args.site else {}, stale_sites, send=not (args.no_telegram or args.site))
 
 
 if __name__ == "__main__":

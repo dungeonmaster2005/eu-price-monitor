@@ -85,7 +85,7 @@ _COLOUR_WORDS = {
     "green": "green zielone zielony grun gruen dunkelgrun groen zelena vert",
     "brown": "brown brazowe brazowy braun bruin hneda hnede marron",
     "grey": "grey gray szare szary grafitowe grafitowy grau grijs seda sede gris graphite charcoal",
-    "beige": "beige bezowe bezowy bezova cream sand latte",
+    "beige": "beige bezowe bezowy bezova cream creme sand latte",
     "red": "red czerwone rot rood cervena rouge",
     "gold": "gold goud zlote zlota zlata dore champagne",
     "purple": "purple fioletowe lila paars fialova violet",

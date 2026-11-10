@@ -76,6 +76,9 @@ _PHRASES = [
 ]
 
 
+_SHADE_WORDS = {"fonce", "clair", "dunkel", "hell", "donker", "licht", "tmave", "svetle", "ciemny", "jasny", "dark", "light"}
+
+
 def english_name(offers: list[Product]) -> str:
     """Brand + model + colour in English, e.g. 'Sony WH-1000XM6 Black'."""
     name = display_name(offers)
@@ -87,6 +90,8 @@ def english_name(offers: list[Product]) -> str:
         parts = [strip_accents(w).lower() for w in word.strip(",()").split("-")]
         if parts and all(part in COLOURS for part in parts):
             colours += [COLOURS[part] for part in parts if COLOURS[part] not in colours]
+        elif parts and all(part in _SHADE_WORDS for part in parts):
+            continue  # "foncé", "dunkel": shade of a colour word, dropped with it
         else:
             words.append(word)
     if not colours:  # take the colour from another shop's name for the same product
@@ -94,7 +99,8 @@ def english_name(offers: list[Product]) -> str:
 
     title = " ".join(words).strip(" ,")
     brand = canonical_brand(offers[0].brand, offers[0].name)
-    if brand and not re.sub(r"[^a-z0-9]", "", strip_accents(title).lower()).startswith(brand):
+    starts_with = canonical_brand(None, title)  # brand the title already opens with ("B&W" -> bowerswilkins)
+    if brand and starts_with != brand:
         title = f"{_brand_label(offers, brand)} {title}"
     return f"{title} {'/'.join(c.title() for c in colours)}".strip()
 
