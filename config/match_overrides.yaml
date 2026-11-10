@@ -1,0 +1,43 @@
+# Manual product-matching decisions — resolve disputed matches without code changes.
+#
+#   merge: offers (by URL) that ARE the same product -> always grouped together
+#   split: pairs of offers that are NOT the same product -> never grouped,
+#          and removed from the review list (data/match_review.json)
+#
+# Workflow: look at data/match_review.json after a run, decide each pair, add
+# it here. Entries whose URLs are not in today's data are simply ignored.
+
+merge:
+  # Bose QC Ultra Headphones 2nd gen, black: mironet lists it without "Headphones"
+  # and without an MPN; same price level (369 EUR) as the headphones, not the earbuds.
+  - - https://www.coolblue.nl/product/968677/bose-quietcomfort-ultra-headphones-2e-gen-zwart.html
+    - https://www.mironet.cz/bose-quietcomfort-ultra-2gen-cerna-bezdratova-sluchatka-mikrofon-bluetooth-54+dp806499/
+
+  # Marshall Monitor III ANC exists in black only; LDLC just omits the colour.
+  - - https://www.coolblue.nl/product/958548/marshall-monitor-iii-anc-zwart.html
+    - https://www.ldlc.com/fiche/PB00650365.html
+
+split:
+  # Bose QC Ultra Earbuds 2nd gen (896637-0010) vs 1st gen (882826-0010)
+  - - https://www.coolblue.nl/product/965472/bose-quietcomfort-ultra-earbuds-2e-gen-zwart.html
+    - https://www.mironet.cz/bose-quietcomfort-ultra-earbuds-cerna-bezdratova-sluchatka-s-mikrofonem-blouetooth-53-ipx4-az-24-hodin+dp627254/
+
+  # Bose QC Ultra Earbuds 2nd gen vs Headphones 2nd gen (mironet, see merge above)
+  - - https://www.coolblue.nl/product/965472/bose-quietcomfort-ultra-earbuds-2e-gen-zwart.html
+    - https://www.mironet.cz/bose-quietcomfort-ultra-2gen-cerna-bezdratova-sluchatka-mikrofon-bluetooth-54+dp806499/
+
+  # Bose QC Ultra Headphones gen 2 white (890101-0200) vs Earbuds gen 2 white (896637-0020)
+  - - https://www.morele.net/sluchawki-bose-quietcomfort-ultra-gen2-biale-890101-0200-15596011/
+    - https://www.coolblue.nl/product/965473/bose-quietcomfort-ultra-earbuds-2e-gen-wit.html
+
+  # Refurbished vs new
+  - - https://www.alternate.de/Razer/Kraken-V4-Generalüberholt-Gaming-Headset/html/product/100193171
+    - https://www.mironet.cz/kraken-v4-cerna-herni-bezdratova-sluchatka-mikrofon-71-24ghz-bluetooth-usb+dp704609/
+
+  # BlackShark V3 for PlayStation vs BlackShark V3 X HyperSpeed — different models
+  - - https://www.alternate.de/Razer/BlackShark-V3-for-PlayStation-Gaming-Headset/html/product/100145958
+    - https://www.mironet.cz/razer-blackshark-v3-x-hyperspeed-wireless-cerna-herni-sluchatka-s-mikrofonem-24ghz-bluetooth-usb+dp768042/
+
+  # Baseus Inspire XH1: black vs "Blankytná zoře" (sky blue) colour variant
+  - - https://www.morele.net/sluchawki-baseus-inspire-xh1-sound-by-bose-czarne-a00085701123-00-15519008/
+    - https://www.mironet.cz/baseus-inspire-xh1-sound-by-bose-blankytna-zore-bezdratova-sluchatka+dp1029697/

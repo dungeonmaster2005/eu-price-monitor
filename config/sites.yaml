@@ -1,0 +1,77 @@
+# Shops to monitor. Niche: wireless headphones.
+#
+#   scraper            class in src/scrapers (see SCRAPERS registry)
+#   start_urls         one or more category URLs (all wireless headphones)
+#   official_sellers   seller names counted as the shop itself; any other
+#                      seller on a marketplace is stored but flagged third-party
+#   stock_from_details listing has no stock info -> read product pages daily
+#   delay_seconds      per-site override of the polite delay
+#   max_new_id_pages   daily budget of product pages fetched only for ids
+
+defaults:
+  user_agent: "Mozilla/5.0 (compatible; EUPriceMonitor/0.1; portfolio demo)"
+  delay_seconds: [2, 5]
+  max_pages: 5
+  timeout_seconds: 25
+
+sites:
+  - id: morele
+    scraper: morele
+    country: PL
+    currency: PLN
+    enabled: true
+    official_sellers: [Morele.net]
+    start_urls:
+      - https://www.morele.net/kategoria/sluchawki-bezprzewodowe-458/
+
+  - id: alternate_de
+    scraper: alternate
+    country: DE
+    currency: EUR
+    enabled: true
+    official_sellers: [ALTERNATE]
+    # Cloudflare rate-limits product pages (HTTP 429 challenge after ~30 quick
+    # requests): crawl slowly and fill the id cache gradually.
+    delay_seconds: [10, 20]
+    max_new_id_pages: 25
+    start_urls:
+      - https://www.alternate.de/Kopfh%C3%B6rer/Bluetooth-Kopfh%C3%B6rer
+
+  - id: coolblue
+    scraper: coolblue
+    country: NL
+    currency: EUR
+    enabled: true
+    official_sellers: [Coolblue]
+    max_pages: 4
+    start_urls:
+      - https://www.coolblue.nl/oordopjes/draadloos
+      - https://www.coolblue.nl/koptelefoons/draadloos
+
+  - id: mironet
+    scraper: mironet
+    country: CZ
+    currency: CZK
+    enabled: true
+    official_sellers: [Mironet]
+    stock_from_details: true
+    max_pages: 4
+    start_urls:
+      - https://www.mironet.cz/audiovideo/sluchatka/bezdratova+c25216/
+
+  - id: ldlc
+    scraper: ldlc
+    country: FR
+    currency: EUR
+    enabled: true
+    official_sellers: [LDLC]
+    start_urls:
+      - https://www.ldlc.com/image-son/son-numerique/casque/c4380/+fc194-1.html
+
+  # --- not used --------------------------------------------------------------
+  # bcc.nl turned out to be a price-comparison/affiliate site (offers link out
+  # to Bol.com etc.), not a shop — replaced by coolblue.nl in phase 2.
+  # Fallbacks with permissive robots.txt and server-rendered listings:
+  #   rueducommerce.fr  https://www.rueducommerce.fr/r/70338/ecouteurs/
+  #   x-kom.pl          https://www.x-kom.pl/g-6/c/2495-sluchawki-bezprzewodowe.html
+  #   planeo.cz         https://www.planeo.cz/sluchatka

@@ -1,0 +1,67 @@
+{
+ "alternate_de": {
+  "site": "alternate_de",
+  "country": "DE",
+  "last_run": "2026-11-10",
+  "last_success": "2026-11-10",
+  "count_today": 120,
+  "usual_count": null,
+  "stale": false,
+  "reason": "product pages blocked after 25/90: HTTP 429 (Cloudflare challenge) — ids are filled gradually",
+  "recent_counts": [
+   120
+  ]
+ },
+ "coolblue": {
+  "site": "coolblue",
+  "country": "NL",
+  "last_run": "2026-11-10",
+  "last_success": "2026-11-10",
+  "count_today": 176,
+  "usual_count": null,
+  "stale": false,
+  "reason": "",
+  "recent_counts": [
+   176
+  ]
+ },
+ "ldlc": {
+  "site": "ldlc",
+  "country": "FR",
+  "last_run": "2026-11-10",
+  "last_success": "2026-11-10",
+  "count_today": 240,
+  "usual_count": null,
+  "stale": false,
+  "reason": "",
+  "recent_counts": [
+   240
+  ]
+ },
+ "mironet": {
+  "site": "mironet",
+  "country": "CZ",
+  "last_run": "2026-11-10",
+  "last_success": "2026-11-10",
+  "count_today": 96,
+  "usual_count": null,
+  "stale": false,
+  "reason": "",
+  "recent_counts": [
+   96
+  ]
+ },
+ "morele": {
+  "site": "morele",
+  "country": "PL",
+  "last_run": "2026-11-10",
+  "last_success": "2026-11-10",
+  "count_today": 150,
+  "usual_count": null,
+  "stale": false,
+  "reason": "",
+  "recent_counts": [
+   150
+  ]
+ }
+}
