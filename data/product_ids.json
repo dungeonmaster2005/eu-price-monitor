@@ -9,6 +9,11 @@
   "model": "90YH03Y0-BTUA00",
   "brand": "ASUS"
  },
+ "https://www.alternate.de/ASUS/ROG-Cetra-True-Wireless-SpeedNova-Gaming-Headset/html/product/100063065": {
+  "ean": "4711387348154",
+  "model": "90YH03Y0-BTUA10",
+  "brand": "ASUS"
+ },
  "https://www.alternate.de/ASUS/ROG-Delta-II-Gaming-Headset/html/product/100081690": {
   "ean": "4711387604847",
   "model": "90YH03W0-BHUA00",
@@ -27,6 +32,16 @@
  "https://www.alternate.de/Apple/AirPods-5-mit-kabellosem-Ladecase-Kopfhörer/html/product/100221016": {
   "ean": "0195951378718",
   "model": "MKFT4ZM/A",
+  "brand": "Apple"
+ },
+ "https://www.alternate.de/Apple/AirPods-Max-Orange-Generalüberholt-Kopfhörer/html/product/100173355": {
+  "ean": null,
+  "model": null,
+  "brand": "Apple"
+ },
+ "https://www.alternate.de/Apple/AirPods-Max-Purple-Generalüberholt-Kopfhörer/html/product/100173352": {
+  "ean": null,
+  "model": null,
   "brand": "Apple"
  },
  "https://www.alternate.de/Apple/AirPods-Pro-3-Headset/html/product/100156619": {
@@ -59,6 +74,16 @@
   "model": null,
   "brand": "Audeze"
  },
+ "https://www.alternate.de/Audio-Technica/ATH-M20XBT-Kopfhörer/html/product/1873674": {
+  "ean": "4961310157111",
+  "model": "ATH-M20XBT",
+  "brand": "Audio-Technica"
+ },
+ "https://www.alternate.de/Audio-Technica/ATH-M20XBTWH-Kopfhörer/html/product/100043180": {
+  "ean": "4961310159870",
+  "model": "ATH-M20XBTWH",
+  "brand": "Audio-Technica"
+ },
  "https://www.alternate.de/Corsair/Virtuoso-RGB-Wireless-XT-Gaming-Headset/html/product/1761075": {
   "ean": "0840006605836",
   "model": "CA-9011188-EU",
@@ -87,6 +112,11 @@
  "https://www.alternate.de/Fairphone/Fairbuds-XL-2025-Horizon-Black-Kopfhörer/html/product/100174310": {
   "ean": "8718819370536",
   "model": "AUHEAD-2ZW-EU2",
+  "brand": "Fairphone"
+ },
+ "https://www.alternate.de/Fairphone/Fairbuds-XL-Kopfhörer/html/product/100012244": {
+  "ean": "8718819375777",
+  "model": "AUHEAD-1ZW-WW1",
   "brand": "Fairphone"
  },
  "https://www.alternate.de/HP/Poly-Voyager-Focus-2-USB-C-C-Headset/html/product/100101057": {
@@ -144,6 +174,16 @@
   "model": "38599-989-889",
   "brand": "Jabra"
  },
+ "https://www.alternate.de/Lenovo/ThinkPad-8550-Aura-Edition-USB-A-Headset/html/product/100214851": {
+  "ean": "0195892142362",
+  "model": "4XD1V23301",
+  "brand": "Lenovo"
+ },
+ "https://www.alternate.de/Lenovo/ThinkPad-8550-Aura-Edition-USB-C-Headset/html/product/100214856": {
+  "ean": "0195892129882",
+  "model": "4XD1T60925",
+  "brand": "Lenovo"
+ },
  "https://www.alternate.de/Lindy/L118-Kabelloses-Büro-Headset-mit-Ladestation-20450-/html/product/100201720": {
   "ean": "4002888204507",
   "model": null,
@@ -153,6 +193,26 @@
   "ean": "5099206097490",
   "model": "981-001074",
   "brand": "Logitech Gaming"
+ },
+ "https://www.alternate.de/Medion/Life-HE-1-Kids-Bluetooth-Kinderkopfhörer/html/product/100225741": {
+  "ean": "4061275250046",
+  "model": null,
+  "brand": "Medion"
+ },
+ "https://www.alternate.de/Medion/Life-HE-1-Kids-Bluetooth-Kinderkopfhörer/html/product/100225744": {
+  "ean": "4061275250060",
+  "model": null,
+  "brand": "Medion"
+ },
+ "https://www.alternate.de/Medion/Life-HE-1-Kids-Bluetooth-Kinderkopfhörer/html/product/100225748": {
+  "ean": "4061275250077",
+  "model": null,
+  "brand": "Medion"
+ },
+ "https://www.alternate.de/Medion/Life-HX-1-Plus-ANC-Over-Ear-Kopfhörer/html/product/100225738": {
+  "ean": "4061275233506",
+  "model": null,
+  "brand": "Medion"
  },
  "https://www.alternate.de/Medion/Life-HX1-Pure-Over-Ear-Kopfhörer/html/product/100225735": {
   "ean": "4061275233476",
@@ -173,6 +233,26 @@
   "ean": "6974434222175",
   "model": "A10600061",
   "brand": "Nothing"
+ },
+ "https://www.alternate.de/Nothing/Headphone-a-Headset/html/product/100198662": {
+  "ean": "6974434227453",
+  "model": "A11300028",
+  "brand": "Nothing"
+ },
+ "https://www.alternate.de/Nothing/Headphone-a-Headset/html/product/100198663": {
+  "ean": "6974434227446",
+  "model": "A11300029",
+  "brand": "Nothing"
+ },
+ "https://www.alternate.de/Razer/Barracuda-X-Chroma-Phantom-Green-Edition-Gaming-Headset/html/product/100137653": {
+  "ean": "8887910060902",
+  "model": "RZ04-05220300-R3M1",
+  "brand": "Razer"
+ },
+ "https://www.alternate.de/Razer/BlackShark-V2-HyperSpeed-Gaming-Headset/html/product/100144415": {
+  "ean": "8886419378204",
+  "model": "RZ04-04960200-R3M1",
+  "brand": "Razer"
  },
  "https://www.alternate.de/Razer/BlackShark-V2-Pro-2023-Gaming-Headset/html/product/1913260": {
   "ean": "8887910060117",
@@ -199,6 +279,11 @@
   "model": "SM-R640NZWAEUE",
   "brand": "Samsung"
  },
+ "https://www.alternate.de/Sony/WH-1000XM5-Kopfhörer/html/product/1850651": {
+  "ean": "4548736132580",
+  "model": "WH1000XM5B.CE7",
+  "brand": "Sony"
+ },
  "https://www.alternate.de/Sony/WH-CH520-Kopfhörer/html/product/1906259": {
   "ean": "4548736142374",
   "model": "WHCH520B.CE7",
@@ -219,8 +304,38 @@
   "model": "WHULT900NB.CE7",
   "brand": "Sony"
  },
+ "https://www.alternate.de/Sony/WI-C100L-Kopfhörer/html/product/1839752": {
+  "ean": "4548736133945",
+  "model": "WIC100L.CE7",
+  "brand": "Sony"
+ },
  "https://www.alternate.de/SteelSeries/Arctis-GameBuds-für-Playstation-Kopfhörer/html/product/100096587": {
   "ean": "5707119057226",
+  "model": null,
+  "brand": "SteelSeries"
+ },
+ "https://www.alternate.de/SteelSeries/Arctis-GameBuds-für-Playstation-Kopfhörer/html/product/100096591": {
+  "ean": "5707119059206",
+  "model": null,
+  "brand": "SteelSeries"
+ },
+ "https://www.alternate.de/SteelSeries/Arctis-Nova-3P-Wireless-Black-Gaming-Headset/html/product/100123891": {
+  "ean": "5707119059510",
+  "model": null,
+  "brand": "SteelSeries"
+ },
+ "https://www.alternate.de/SteelSeries/Arctis-Nova-3P-Wireless-White-Gaming-Headset/html/product/100123893": {
+  "ean": "5707119059534",
+  "model": null,
+  "brand": "SteelSeries"
+ },
+ "https://www.alternate.de/SteelSeries/Arctis-Nova-3X-Wireless-Black-Gaming-Headset/html/product/100123895": {
+  "ean": "5707119059572",
+  "model": null,
+  "brand": "SteelSeries"
+ },
+ "https://www.alternate.de/SteelSeries/Arctis-Nova-3X-Wireless-White-Gaming-Headset/html/product/100123898": {
+  "ean": "5707119059596",
   "model": null,
   "brand": "SteelSeries"
  },
@@ -276,6 +391,16 @@
  },
  "https://www.alternate.de/tonies/Bluetooth-Kopfhörer-Himmelblau/html/product/100146385": {
   "ean": "4251192149299",
+  "model": null,
+  "brand": "tonies"
+ },
+ "https://www.alternate.de/tonies/Bluetooth-Kopfhörer-Rosa/html/product/100146393": {
+  "ean": "4251192149336",
+  "model": null,
+  "brand": "tonies"
+ },
+ "https://www.alternate.de/tonies/Bluetooth-Kopfhörer-rot/html/product/100146380": {
+  "ean": "4251192149275",
   "model": null,
   "brand": "tonies"
  },
@@ -379,6 +504,11 @@
   "model": "FP44520",
   "brand": "Bowers & Wilkins"
  },
+ "https://www.coolblue.nl/product/936949/bowers-wilkins-px7-s2e-blauw.html": {
+  "ean": null,
+  "model": "FP44539",
+  "brand": "Bowers & Wilkins"
+ },
  "https://www.coolblue.nl/product/943645/sennheiser-momentum-4-wireless-grijs.html": {
   "ean": null,
   "model": null,
@@ -422,6 +552,11 @@
  "https://www.coolblue.nl/product/947607/soundcore-space-one-zwart.html": {
   "ean": null,
   "model": "A3035G11",
+  "brand": "Soundcore by Anker"
+ },
+ "https://www.coolblue.nl/product/947608/soundcore-space-one-creme.html": {
+  "ean": null,
+  "model": "A3035G21",
   "brand": "Soundcore by Anker"
  },
  "https://www.coolblue.nl/product/947615/soundcore-liberty-4-nc-zwart.html": {
@@ -468,6 +603,16 @@
   "ean": null,
   "model": "884367-0900",
   "brand": "Bose"
+ },
+ "https://www.coolblue.nl/product/951358/jlab-jbuds-lux-anc-grijs.html": {
+  "ean": null,
+  "model": null,
+  "brand": "JLAB"
+ },
+ "https://www.coolblue.nl/product/951361/jlab-jbuds-lux-anc-groen.html": {
+  "ean": null,
+  "model": null,
+  "brand": "JLAB"
  },
  "https://www.coolblue.nl/product/952360/sony-wh-1000xm5-roze.html": {
   "ean": null,
@@ -574,6 +719,11 @@
   "model": "FP45748",
   "brand": "Bowers & Wilkins"
  },
+ "https://www.coolblue.nl/product/955351/jbl-tune-flex-2-zwart.html": {
+  "ean": null,
+  "model": "JBLTFLEX2BLK",
+  "brand": "JBL"
+ },
  "https://www.coolblue.nl/product/955365/jbl-tune-beam-2-zwart.html": {
   "ean": null,
   "model": "JBLTBEAM2BLK",
@@ -595,6 +745,11 @@
   "brand": "JBL"
  },
  "https://www.coolblue.nl/product/956282/marshall-motif-ii-tw-anc-zwart.html": {
+  "ean": null,
+  "model": null,
+  "brand": "Marshall"
+ },
+ "https://www.coolblue.nl/product/956285/marshall-major-v-bruin.html": {
   "ean": null,
   "model": null,
   "brand": "Marshall"
@@ -689,6 +844,11 @@
   "model": "A3957G11",
   "brand": "Soundcore by Anker"
  },
+ "https://www.coolblue.nl/product/964773/soundcore-liberty-5-blauw.html": {
+  "ean": null,
+  "model": "A3957G31",
+  "brand": "Soundcore by Anker"
+ },
  "https://www.coolblue.nl/product/964871/jbl-sense-lite-zwart.html": {
   "ean": null,
   "model": "JBLSENSELITEBLK",
@@ -712,6 +872,11 @@
  "https://www.coolblue.nl/product/964894/jbl-soundgear-clips-zwart.html": {
   "ean": null,
   "model": "JBLSNDGEARCLBLK",
+  "brand": "JBL"
+ },
+ "https://www.coolblue.nl/product/964899/jbl-endurance-pace-zwart.html": {
+  "ean": null,
+  "model": "JBLENDUPACEBLKG",
   "brand": "JBL"
  },
  "https://www.coolblue.nl/product/965463/shokz-openfit-2-zwart.html": {
@@ -738,6 +903,16 @@
   "ean": null,
   "model": "884367-1500",
   "brand": "Bose"
+ },
+ "https://www.coolblue.nl/product/968190/samsung-galaxy-buds3-fe-grijs.html": {
+  "ean": null,
+  "model": "SM-R420NZAAEUB",
+  "brand": "Samsung"
+ },
+ "https://www.coolblue.nl/product/968191/samsung-galaxy-buds3-fe-zwart.html": {
+  "ean": null,
+  "model": "SM-R420NZKAEUB",
+  "brand": "Samsung"
  },
  "https://www.coolblue.nl/product/968677/bose-quietcomfort-ultra-headphones-2e-gen-zwart.html": {
   "ean": null,
@@ -849,6 +1024,21 @@
   "model": "SM-R640NZKAEUB",
   "brand": "Samsung"
  },
+ "https://www.coolblue.nl/product/975599/samsung-galaxy-buds4-pro-wit.html": {
+  "ean": null,
+  "model": "SM-R640NZWAEUB",
+  "brand": "Samsung"
+ },
+ "https://www.coolblue.nl/product/975600/samsung-galaxy-buds4-zwart.html": {
+  "ean": null,
+  "model": "SM-R540NZKAEUB",
+  "brand": "Samsung"
+ },
+ "https://www.coolblue.nl/product/975601/samsung-galaxy-buds4-wit.html": {
+  "ean": null,
+  "model": "SM-R540NZWAEUB",
+  "brand": "Samsung"
+ },
  "https://www.coolblue.nl/product/975936/sennheiser-rs275.html": {
   "ean": null,
   "model": null,
@@ -882,6 +1072,11 @@
  "https://www.coolblue.nl/product/977430/apple-airpods-max-2-middernacht.html": {
   "ean": null,
   "model": "MHWK4ZM/A",
+  "brand": "Apple"
+ },
+ "https://www.coolblue.nl/product/977432/apple-airpods-max-2-blauw.html": {
+  "ean": null,
+  "model": "MHWM4ZM/A",
   "brand": "Apple"
  },
  "https://www.coolblue.nl/product/978813/soundcore-aerofit-2-pro-blauw.html": {
@@ -969,6 +1164,11 @@
   "model": "D1203G31",
   "brand": "Soundcore by Anker"
  },
+ "https://www.coolblue.nl/product/979825/soundcore-liberty-5-pro-roze.html": {
+  "ean": null,
+  "model": "D1203G51",
+  "brand": "Soundcore by Anker"
+ },
  "https://www.coolblue.nl/product/979932/soundcore-liberty-5-pro-max-zwart.html": {
   "ean": null,
   "model": "D1204G11",
@@ -983,6 +1183,11 @@
   "ean": null,
   "model": "JBLLIVE780NCORG",
   "brand": "JBL"
+ },
+ "https://www.coolblue.nl/product/980346/soundcore-space-2-zwart.html": {
+  "ean": null,
+  "model": "D1402G11",
+  "brand": "Soundcore by Anker"
  },
  "https://www.coolblue.nl/product/980828/sennheiser-momentum-5-zwart.html": {
   "ean": null,
@@ -1124,6 +1329,11 @@
   "model": "MKFT4ZM/A",
   "brand": "Apple"
  },
+ "https://www.coolblue.nl/product/986818/bose-ultra-open-earbuds-2e-gen-donkerrood.html": {
+  "ean": null,
+  "model": "897806-0030",
+  "brand": "Bose"
+ },
  "https://www.coolblue.nl/product/986819/bose-ultra-open-earbuds-2e-gen-wit.html": {
   "ean": null,
   "model": "897806-0020",
@@ -1154,10 +1364,20 @@
   "model": "D1406G11",
   "brand": "Soundcore by Anker"
  },
+ "https://www.coolblue.nl/product/987288/anker-soundcore-space-2-pro-grijs.html": {
+  "ean": null,
+  "model": "D1406G81",
+  "brand": "Soundcore by Anker"
+ },
  "https://www.coolblue.nl/product/987375/skullcandy-crusher-1080-zwart.html": {
   "ean": null,
   "model": "S6CNW-U740",
   "brand": "Skullcandy"
+ },
+ "https://www.coolblue.nl/product/987994/fairphone-fairbuds-2-zwart.html": {
+  "ean": null,
+  "model": "AU2FEAR-1ZW-EU1",
+  "brand": "Fairphone"
  },
  "https://www.coolblue.nl/product/987995/fairphone-fairbuds-2-groen.html": {
   "ean": null,
@@ -1167,6 +1387,11 @@
  "https://www.coolblue.nl/product/988020/bose-quietcomfort-ultra-headphones-2e-gen-cherry-chocolate.html": {
   "ean": null,
   "model": "890101-0110",
+  "brand": "Bose"
+ },
+ "https://www.coolblue.nl/product/988021/bose-quietcomfort-ultra-headphones-2e-gen-olive-green.html": {
+  "ean": null,
+  "model": "890101-0120",
   "brand": "Bose"
  },
  "https://www.ldlc.com/fiche/PB00234265.html": {
@@ -2379,6 +2604,11 @@
   "model": null,
   "brand": "Aiwa"
  },
+ "https://www.mironet.cz/aiwa-estbtn880-cerna-bezdratova-sluchatka-mikrofon-bluetooth-50+dp1015460/": {
+  "ean": null,
+  "model": null,
+  "brand": "Aiwa"
+ },
  "https://www.mironet.cz/aiwa-hst220bt-cerna-bezdratova-sluchatka-mikrofon-anc-35-mm-bt-54+dp1015486/": {
   "ean": null,
   "model": null,
@@ -2489,6 +2719,11 @@
   "model": "(BX)BTW9600",
   "brand": "Buxton"
  },
+ "https://www.mironet.cz/corsair-hs80-rgb-wireless-cerna-herni-bezdratova-sluchatka-32-ohm-71-surround-usb-rf-prijimac-mikrofon-doprodej+dp527816/": {
+  "ean": null,
+  "model": "CA-9011235-EU",
+  "brand": "Corsair"
+ },
  "https://www.mironet.cz/edifier-wh950nb-v25-cerna-bezdratova-sluchatka-anc-bluetooth-54-az-80h+dp780381/": {
   "ean": null,
   "model": "WH950NB V25 black",
@@ -2539,6 +2774,11 @@
   "model": "JBLTOURONE3LTT",
   "brand": "Nezatříděno"
  },
+ "https://www.mironet.cz/jbl-tune-520bt-cerna-bezdratova-sluchatka-mikrofon-bluetooth+dp583875/": {
+  "ean": null,
+  "model": "JBLT520BTBLKEU",
+  "brand": "Nezatříděno"
+ },
  "https://www.mironet.cz/jbl-tune-520bt-fialova-bezdratova-sluchatka-mikrofon-bluetooth+dp791037/": {
   "ean": null,
   "model": "JBLT520BTPUREU",
@@ -2567,6 +2807,11 @@
  "https://www.mironet.cz/jbl-wave-200tws-bila-bezdratova-sluchatka-mikrofon-bt-50-ipx2+dp752836/": {
   "ean": null,
   "model": "W200TWSWH",
+  "brand": "JBL"
+ },
+ "https://www.mironet.cz/jbl-wave-200tws-cerna-bezdratova-sluchatka-mikrofon-bt-50-ipx2+dp715889/": {
+  "ean": null,
+  "model": null,
   "brand": "JBL"
  },
  "https://www.mironet.cz/jbl-wave-300-cerna-bezdratova-sluchatka-mikrofon-bt-52+dp700574/": {
@@ -2664,6 +2909,11 @@
   "model": "pins-4-pro-black",
   "brand": "Niceboy"
  },
+ "https://www.mironet.cz/nothing-cmf-buds-2-seda-bezdratova-sluchatka-tws+dp1013375/": {
+  "ean": null,
+  "model": "A10600098",
+  "brand": "Nothing"
+ },
  "https://www.mironet.cz/nothing-cmf-headphone-pro-dark-grey-bezdratova-sluchatka-mikrofon-anc-bt-54-ipx2+dp807361/": {
   "ean": null,
   "model": "A11300008",
@@ -2733,6 +2983,11 @@
   "ean": null,
   "model": "LXOHMHIGC2ABA.rozbaleno",
   "brand": "Lamax"
+ },
+ "https://www.mironet.cz/rozbaleno-samsung-galaxy-buds4-pro-white-anc-bt-rozbaleno+dp957602/": {
+  "ean": null,
+  "model": "SM-R640NZWAEUE.rozbaleno",
+  "brand": "SAMSUNG"
  },
  "https://www.mironet.cz/samsung-galaxy-buds-3-fe-cerna-bezdratove-sluchatka-s-mikrofonem-anc-bluetooth-54-ip54+dp771064/": {
   "ean": null,
@@ -2849,12 +3104,22 @@
   "model": "TRAGLO46612",
   "brand": "Tracer"
  },
+ "https://www.mironet.cz/xiaomi-buds-5-pro-titanium-bezdratova-sluchatka-mikrofon-anc-bluetooth-54-ip54+dp805176/": {
+  "ean": null,
+  "model": "BHR9640GL",
+  "brand": "XIAOMI"
+ },
  "https://www.mironet.cz/xiaomi-redmi-buds-6-bila-sluchatka-s-mikrofonem-bluetooth-54-ip54-anc+dp725982/": {
   "ean": null,
   "model": null,
   "brand": "XIAOMI"
  },
  "https://www.mironet.cz/xiaomi-redmi-buds-6-cerna-sluchatka-s-mikrofonem-bluetooth-54-ip54-anc+dp725985/": {
+  "ean": null,
+  "model": null,
+  "brand": "XIAOMI"
+ },
+ "https://www.mironet.cz/xiaomi-redmi-buds-8-lite-bila-sluchatka-s-mikrofonem-bluetooth-54-ip54-anc+dp850936/": {
   "ean": null,
   "model": null,
   "brand": "XIAOMI"
@@ -2882,6 +3147,11 @@
  "https://www.morele.net/sluchawki-anker-soundcore-liberty-4-pro-czarne-a3954g11-14782990/": {
   "ean": "194644294250",
   "model": "A3954G11",
+  "brand": "Anker"
+ },
+ "https://www.morele.net/sluchawki-anker-soundcore-liberty-5-pro-max-czarne-d1204g11-600407522/": {
+  "ean": "194644307981",
+  "model": "D1204G11",
   "brand": "Anker"
  },
  "https://www.morele.net/sluchawki-anker-soundcore-liberty-5-pro-max-zlote-d1204gb1-600189436/": {
@@ -2932,6 +3202,11 @@
  "https://www.morele.net/sluchawki-apple-airpods-pro-3-mfhp4zm-a-15519326/": {
   "ean": "195950543742",
   "model": "MFHP4ZM-A",
+  "brand": "Apple"
+ },
+ "https://www.morele.net/sluchawki-apple-airpods-pro-gen-2-mtjv3hn-a-16245249/": {
+  "ean": "195949052521",
+  "model": "MTJV3HN/A",
   "brand": "Apple"
  },
  "https://www.morele.net/sluchawki-apple-phb086-czarne-14740085/": {
@@ -3462,6 +3737,11 @@
  "https://www.morele.net/sluchawki-sony-whch720-czarne-whch720nb-ce7-12865752/": {
   "ean": "4548736142428",
   "model": "WHCH720NB.CE7",
+  "brand": "Sony"
+ },
+ "https://www.morele.net/sluchawki-sony-whch720-niebieskie-whch720nl-ce7-12805159/": {
+  "ean": "4548736143012",
+  "model": "WHCH720NL.CE7",
   "brand": "Sony"
  },
  "https://www.morele.net/sluchawki-soundcore-sleep-a20-biale-a6611g21-14206380/": {
