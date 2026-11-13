@@ -34,6 +34,11 @@
   "model": "90YH0410-BHUA00",
   "brand": "ASUS"
  },
+ "https://www.alternate.de/ASUS/ROG-Pelta-Gaming-Headset/html/product/100162218": {
+  "ean": "4711636069724",
+  "model": "90YH0410-BHUA10",
+  "brand": "ASUS"
+ },
  "https://www.alternate.de/Apple/AirPods-5-mit-kabellosem-Ladecase-Kopfhörer/html/product/100221016": {
   "ean": "0195951378718",
   "model": "MKFT4ZM/A",
@@ -84,6 +89,11 @@
   "model": null,
   "brand": "Audeze"
  },
+ "https://www.alternate.de/Audeze/Maxwell-2-Wireless-Gaming-Headset/html/product/100181119": {
+  "ean": "0819343015684",
+  "model": null,
+  "brand": "Audeze"
+ },
  "https://www.alternate.de/Audeze/Maxwell-2-Wireless-Gaming-Headset/html/product/100181121": {
   "ean": "0819343015707",
   "model": null,
@@ -99,6 +109,11 @@
   "model": "ATH-M20XBTWH",
   "brand": "Audio-Technica"
  },
+ "https://www.alternate.de/Corsair/HS35-v3-Wireless-Gaming-Headset/html/product/100204248": {
+  "ean": "0840440424352",
+  "model": "CA-9011402-WW",
+  "brand": "Corsair"
+ },
  "https://www.alternate.de/Corsair/HS55-Wireless-Gaming-Headset/html/product/1896593": {
   "ean": "0840006657903",
   "model": "CA-9011281-EU",
@@ -108,6 +123,11 @@
   "ean": "0840006605836",
   "model": "CA-9011188-EU",
   "brand": "Corsair"
+ },
+ "https://www.alternate.de/Dell/WL3024-Headset/html/product/100035009": {
+  "ean": "5397184820391",
+  "model": "WL3024-DWW",
+  "brand": "Dell"
  },
  "https://www.alternate.de/ENDORFY/VIRO-Infra-Wireless-Alt-Gray-Gaming-Headset/html/product/100219231": {
   "ean": "5903018668345",
@@ -144,6 +164,11 @@
   "model": "AU2FEAR-1GR-EU1",
   "brand": "Fairphone"
  },
+ "https://www.alternate.de/Fairphone/Fairbuds-Kopfhörer/html/product/100136592": {
+  "ean": "8718819375890",
+  "model": "AUFEAR-1WH-WW2",
+  "brand": "Fairphone"
+ },
  "https://www.alternate.de/Fairphone/Fairbuds-XL-2025-Forest-Green-Kopfhörer/html/product/100174314": {
   "ean": "8718819370543",
   "model": "AUHEAD-2GR-EU2",
@@ -163,6 +188,16 @@
   "ean": "0198122157228",
   "model": "9T9J4AA#AC3",
   "brand": "HP"
+ },
+ "https://www.alternate.de/Intenso/Buds-Plus-T310AE-Headset/html/product/100066273": {
+  "ean": "4034303034505",
+  "model": null,
+  "brand": "Intenso"
+ },
+ "https://www.alternate.de/Intenso/Buds-Plus-T310AE-Headset/html/product/100066275": {
+  "ean": "4034303034536",
+  "model": null,
+  "brand": "Intenso"
  },
  "https://www.alternate.de/Intenso/Buds-Pro-T500HAE-Headset/html/product/100066282": {
   "ean": "4034303034567",
@@ -197,6 +232,11 @@
  "https://www.alternate.de/Jabra/Evolve-65-TE-USB-A-MS-Stereo-Headset/html/product/100072907": {
   "ean": "5706991031515",
   "model": "6699-833-309",
+  "brand": "Jabra"
+ },
+ "https://www.alternate.de/Jabra/Evolve-65-TE-USB-A-UC-Stereo-Headset/html/product/100072911": {
+  "ean": "5706991031546",
+  "model": "6699-839-409",
   "brand": "Jabra"
  },
  "https://www.alternate.de/Jabra/Evolve-65-TE-USB-A-UC-Stereo-Headset/html/product/100072912": {
@@ -359,6 +399,16 @@
   "model": "RZ04-04530200-R3M1",
   "brand": "Razer"
  },
+ "https://www.alternate.de/Razer/BlackShark-V2-Pro-für-Playstation-Gaming-Headset/html/product/100066547": {
+  "ean": "8887910060735",
+  "model": "RZ04-04530600-R3G1",
+  "brand": "Razer"
+ },
+ "https://www.alternate.de/Razer/BlackShark-V3-for-PlayStation-Gaming-Headset/html/product/100145958": {
+  "ean": "8887910061701",
+  "model": "RZ04-05410300-R3G1",
+  "brand": "Razer"
+ },
  "https://www.alternate.de/Razer/Kraken-V4-Generalüberholt-Gaming-Headset/html/product/100193171": {
   "ean": null,
   "model": "RZ04-05170100-R3U1",
@@ -424,6 +474,11 @@
   "model": null,
   "brand": "SteelSeries"
  },
+ "https://www.alternate.de/SteelSeries/Arctis-Nova-3P-Wireless-Aqua-Gaming-Headset/html/product/100123890": {
+  "ean": "5707119059558",
+  "model": null,
+  "brand": "SteelSeries"
+ },
  "https://www.alternate.de/SteelSeries/Arctis-Nova-3P-Wireless-Black-Gaming-Headset/html/product/100123891": {
   "ean": "5707119059510",
   "model": null,
@@ -431,6 +486,11 @@
  },
  "https://www.alternate.de/SteelSeries/Arctis-Nova-3P-Wireless-White-Gaming-Headset/html/product/100123893": {
   "ean": "5707119059534",
+  "model": null,
+  "brand": "SteelSeries"
+ },
+ "https://www.alternate.de/SteelSeries/Arctis-Nova-3X-Wireless-Aqua-Gaming-Headset/html/product/100123894": {
+  "ean": "5707119059619",
   "model": null,
   "brand": "SteelSeries"
  },
@@ -464,6 +524,11 @@
   "model": null,
   "brand": "SteelSeries"
  },
+ "https://www.alternate.de/SteelSeries/Arctis-Nova-5X-Wireless-Gaming-Headset/html/product/100076091": {
+  "ean": "5707119058018",
+  "model": null,
+  "brand": "SteelSeries"
+ },
  "https://www.alternate.de/SteelSeries/Arctis-Nova-7-Wireless-Gen-2-Gaming-Headset/html/product/100156687": {
   "ean": "5707119065597",
   "model": null,
@@ -479,6 +544,21 @@
   "model": null,
   "brand": "SteelSeries"
  },
+ "https://www.alternate.de/SteelSeries/Arctis-Nova-7P-Wireless-Gen-2-Gaming-Headset/html/product/100156691": {
+  "ean": "5707119065658",
+  "model": null,
+  "brand": "SteelSeries"
+ },
+ "https://www.alternate.de/SteelSeries/Arctis-Nova-7P-Wireless-Gen-2-Gaming-Headset/html/product/100156692": {
+  "ean": "5707119065696",
+  "model": null,
+  "brand": "SteelSeries"
+ },
+ "https://www.alternate.de/SteelSeries/Arctis-Nova-7P-Wireless-Gen-2-Gaming-Headset/html/product/100156693": {
+  "ean": "5707119065672",
+  "model": null,
+  "brand": "SteelSeries"
+ },
  "https://www.alternate.de/SteelSeries/Arctis-Nova-7X-Generalüberholt-Gaming-Headset/html/product/100193142": {
   "ean": null,
   "model": null,
@@ -491,6 +571,11 @@
  },
  "https://www.alternate.de/SteelSeries/Arctis-Nova-7X-Wireless-Gen-2-Gaming-Headset/html/product/100156697": {
   "ean": "5707119065719",
+  "model": null,
+  "brand": "SteelSeries"
+ },
+ "https://www.alternate.de/SteelSeries/Arctis-Nova-7X-Wireless-Gen-2-Gaming-Headset/html/product/100156705": {
+  "ean": "5707119065733",
   "model": null,
   "brand": "SteelSeries"
  },
@@ -734,6 +819,11 @@
   "model": null,
   "brand": "JLAB"
  },
+ "https://www.coolblue.nl/product/951360/jlab-jbuds-lux-anc-roze.html": {
+  "ean": null,
+  "model": null,
+  "brand": "JLAB"
+ },
  "https://www.coolblue.nl/product/951361/jlab-jbuds-lux-anc-groen.html": {
   "ean": null,
   "model": null,
@@ -814,6 +904,11 @@
   "model": "A3968G11",
   "brand": "Soundcore by Anker"
  },
+ "https://www.coolblue.nl/product/953323/soundcore-sport-x20-wit.html": {
+  "ean": null,
+  "model": "A3968G21",
+  "brand": "Soundcore by Anker"
+ },
  "https://www.coolblue.nl/product/953325/soundcore-sport-x20-groen.html": {
   "ean": null,
   "model": "A3968G61",
@@ -852,6 +947,11 @@
  "https://www.coolblue.nl/product/955365/jbl-tune-beam-2-zwart.html": {
   "ean": null,
   "model": "JBLTBEAM2BLK",
+  "brand": "JBL"
+ },
+ "https://www.coolblue.nl/product/955367/jbl-tune-beam-2-wit.html": {
+  "ean": null,
+  "model": "JBLTBEAM2WHT",
   "brand": "JBL"
  },
  "https://www.coolblue.nl/product/955368/jbl-tune-buds-2-zwart.html": {
@@ -974,9 +1074,19 @@
   "model": "A3957G11",
   "brand": "Soundcore by Anker"
  },
+ "https://www.coolblue.nl/product/964772/soundcore-liberty-5-wit.html": {
+  "ean": null,
+  "model": "A3957G21",
+  "brand": "Soundcore by Anker"
+ },
  "https://www.coolblue.nl/product/964773/soundcore-liberty-5-blauw.html": {
   "ean": null,
   "model": "A3957G31",
+  "brand": "Soundcore by Anker"
+ },
+ "https://www.coolblue.nl/product/964774/soundcore-liberty-5-roze.html": {
+  "ean": null,
+  "model": "A3957G51",
   "brand": "Soundcore by Anker"
  },
  "https://www.coolblue.nl/product/964871/jbl-sense-lite-zwart.html": {
@@ -1109,6 +1219,11 @@
   "model": "FP46604",
   "brand": "Bowers & Wilkins"
  },
+ "https://www.coolblue.nl/product/973132/fairphone-fairbuds-xl-zwart.html": {
+  "ean": null,
+  "model": "AUHEAD-2ZW-EU2",
+  "brand": "Fairphone"
+ },
  "https://www.coolblue.nl/product/973133/fairphone-fairbuds-xl-groen.html": {
   "ean": null,
   "model": "AUHEAD-2GR-EU2",
@@ -1188,6 +1303,11 @@
   "ean": null,
   "model": "A11300028",
   "brand": "Nothing Tech"
+ },
+ "https://www.coolblue.nl/product/976800/jbl-tune-780nc-paars.html": {
+  "ean": null,
+  "model": "JBLT780NCLAV",
+  "brand": "JBL"
  },
  "https://www.coolblue.nl/product/977402/bowers-wilkins-px8-s2-pearl-blue.html": {
   "ean": null,
@@ -1409,6 +1529,11 @@
   "model": "WHCH735NL.CE7",
   "brand": "Sony"
  },
+ "https://www.coolblue.nl/product/985304/sony-wh-ch735n-roze.html": {
+  "ean": null,
+  "model": "WHCH735NP.CE7",
+  "brand": "Sony"
+ },
  "https://www.coolblue.nl/product/985305/sony-wh-ch735n-creme.html": {
   "ean": null,
   "model": "WHCH735NC.CE7",
@@ -1493,6 +1618,11 @@
   "ean": null,
   "model": null,
   "brand": "Sennheiser"
+ },
+ "https://www.coolblue.nl/product/987210/soundcore-aeroclip-2-zwart.html": {
+  "ean": null,
+  "model": "D1105G11",
+  "brand": "Soundcore"
  },
  "https://www.coolblue.nl/product/987271/anker-soundcore-space-2-pro-zwart.html": {
   "ean": null,
@@ -2759,6 +2889,21 @@
   "model": "FP47112",
   "brand": "B&W"
  },
+ "https://www.ldlc.com/fiche/PB00762743.html": {
+  "ean": "0714346351701",
+  "model": "FP46604",
+  "brand": "B&W"
+ },
+ "https://www.ldlc.com/fiche/PB00762798.html": {
+  "ean": "0714346352593",
+  "model": "FP47104",
+  "brand": "B&W"
+ },
+ "https://www.ldlc.com/fiche/PB00762800.html": {
+  "ean": null,
+  "model": "FP46612",
+  "brand": "B&W"
+ },
  "https://www.mironet.cz/aiwa-ebtw150wt-bila-bezdratova-sluchatka-mikrofon-bluetooth-50+dp1015458/": {
   "ean": null,
   "model": null,
@@ -3449,6 +3594,11 @@
   "model": "A00085701123-00",
   "brand": "Baseus"
  },
+ "https://www.morele.net/sluchawki-bose-quietcomfort-czarne-884367-0100-13141222/": {
+  "ean": "017817848961",
+  "model": "884367-0100",
+  "brand": "Bose"
+ },
  "https://www.morele.net/sluchawki-bose-quietcomfort-earbuds-2-czarne-888507-0100-14406344/": {
   "ean": "4049531251105",
   "model": "888507-0100",
@@ -3479,6 +3629,11 @@
   "model": "51EF0950AA000",
   "brand": "Creative"
  },
+ "https://www.morele.net/sluchawki-creative-sensemore-air-51ef1020aa000-12593764/": {
+  "ean": "071990338282",
+  "model": "51EF1020AA000",
+  "brand": "Creative"
+ },
  "https://www.morele.net/sluchawki-creative-zen-air-pro-biale-51ef1090aa000-13672879/": {
   "ean": "5390660195921",
   "model": "51EF1090AA000",
@@ -3503,6 +3658,11 @@
   "ean": "6973687240462",
   "model": null,
   "brand": "Dudao"
+ },
+ "https://www.morele.net/sluchawki-earfun-air-pro-3-tw500b-12808004/": {
+  "ean": "6974173980183",
+  "model": "TW500B",
+  "brand": "EarFun"
  },
  "https://www.morele.net/sluchawki-earfun-air-pro-4-anc-czarne-tw700b-15846857/": {
   "ean": "6974173980893",
@@ -3707,6 +3867,11 @@
  "https://www.morele.net/sluchawki-marshall-major-v-granatowe-15748992/": {
   "ean": "7340055408479",
   "model": null,
+  "brand": "Marshall"
+ },
+ "https://www.morele.net/sluchawki-marshall-major-v-kremowy-14742305/": {
+  "ean": "7340055401111",
+  "model": "M MAJORV-BT-BLK",
   "brand": "Marshall"
  },
  "https://www.morele.net/sluchawki-marshall-minor-iv-tws-czarne-13672413/": {
@@ -3978,6 +4143,11 @@
   "ean": "6941876256877",
   "model": "53125-0",
   "brand": "Ugreen"
+ },
+ "https://www.morele.net/sluchawki-xiaomi-buds-5-czarne-bhr8118gl-14167034/": {
+  "ean": "6941812768471",
+  "model": "BHR8118GL",
+  "brand": "Xiaomi"
  },
  "https://www.morele.net/sluchawki-xiaomi-buds-5-pro-szare-14733546/": {
   "ean": "6941812772232",
