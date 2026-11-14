@@ -44,8 +44,15 @@ with change analysis and Telegram alerts. Runs on GitHub Actions.
   moving on.
 
 ## Decisions log
-- Shops: morele (PL), alternate.de (DE), coolblue.nl (NL), mironet.cz (CZ), ldlc.com (FR).
+- Shops: morele (PL), alternate.de (DE), coolblue.nl (NL), planeo.cz (CZ), ldlc.com (FR).
   bcc.nl dropped — it is an affiliate price-comparison site, not a shop.
+- mironet.cz disabled 2026-11-14 (kept in sites.yaml with `enabled: false` +
+  `disabled_reason`): from 2026-11-12 it redirects GitHub runner IPs to an ALTCHA
+  captcha (/altcha/verify) with HTTP 200. Replaced by planeo.cz (EAN in product
+  page JSON-LD, checked from CI). mironet rows stay in the history sheet.
+- A captcha page (redirect to /altcha/, /captcha, challenge, or a bot-check title)
+  is a block even with HTTP 200; a 200 listing page with 0 products logs its
+  final URL and title.
 - alternate.de: Cloudflare 429 challenge on fast product-page crawling → slow
   delay (10–20 s) + daily budget `max_new_id_pages`; never solve the challenge.
 - LDLC pages 2+ and mironet stock are filled by JS/XHR → read price/stock from

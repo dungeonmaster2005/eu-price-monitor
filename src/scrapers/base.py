@@ -117,6 +117,8 @@ class BaseScraper(ABC):
                 break
 
             page_products = self.parse_listing(soup)
+            if not page_products:
+                self._log_empty_page(page, url, soup)
             new = [p for p in page_products if p.url not in seen]
             self.log.info("page %d: %d products (%d new)", page, len(page_products), len(new))
             if not new:
@@ -170,6 +172,13 @@ class BaseScraper(ABC):
                 product.ean = product.ean or ids.ean
                 product.model = product.model or ids.model
                 product.brand = product.brand or ids.brand
+
+    def _log_empty_page(self, page: int, url: str, soup: BeautifulSoup) -> None:
+        """A 200 page without products: show where we really landed and what it was."""
+        final_url = getattr(self.client, "last_url", None) or url
+        title = " ".join(soup.title.get_text(" ", strip=True).split()) if soup.title else None
+        level = logging.WARNING if page == 1 else logging.INFO  # page 2+ may just be past the end
+        self.log.log(level, "page %d: 0 products — final URL %s, title %r", page, final_url, title)
 
     def _listing_problem(self, message: str) -> None:
         self.listing_complete = False

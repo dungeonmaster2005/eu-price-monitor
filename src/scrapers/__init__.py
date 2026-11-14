@@ -6,12 +6,14 @@ from src.scrapers.coolblue import CoolblueScraper
 from src.scrapers.ldlc import LdlcScraper
 from src.scrapers.mironet import MironetScraper
 from src.scrapers.morele import MoreleScraper
+from src.scrapers.planeo import PlaneoScraper
 
 SCRAPERS: dict[str, type[BaseScraper]] = {
     "morele": MoreleScraper,
     "alternate": AlternateScraper,
     "coolblue": CoolblueScraper,
     "mironet": MironetScraper,
+    "planeo": PlaneoScraper,
     "ldlc": LdlcScraper,
 }
 

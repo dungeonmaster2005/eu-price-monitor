@@ -4,6 +4,7 @@ from __future__ import annotations
 
 import logging
 import random
+import re
 import time
 from urllib.parse import urlsplit
 from urllib.robotparser import RobotFileParser
@@ -24,12 +25,39 @@ class BlockedError(FetchError):
     """The site actively refused us (403/429, captcha). Never worked around."""
 
 
+# A captcha or bot check served with HTTP 200, often after a redirect:
+# mironet.cz sends GitHub runner IPs to /altcha/verify ("Ověřte, že nejste robot").
+_CAPTCHA_URL = re.compile(r"captcha|altcha|/challenge|challenge-platform", re.IGNORECASE)
+_CAPTCHA_TITLE = re.compile(
+    r"captcha|nejste robot|nie jestem robotem|not a robot|verify you are human|just a moment"
+    r"|attention required|sicherheitsabfrage",
+    re.IGNORECASE,
+)
+_TITLE = re.compile(r"<title[^>]*>(.*?)</title>", re.IGNORECASE | re.DOTALL)
+
+
+def page_title(html: str) -> str | None:
+    match = _TITLE.search(html[:20000])
+    return " ".join(match.group(1).split()) or None if match else None
+
+
+def captcha_reason(final_url: str, html: str) -> str | None:
+    """Why a 200 response is really a captcha page, or None."""
+    if _CAPTCHA_URL.search(urlsplit(final_url).path):
+        return f"redirected to {final_url}"
+    title = page_title(html)
+    if title and _CAPTCHA_TITLE.search(title):
+        return f"page title {title!r}"
+    return None
+
+
 class PoliteClient:
     """requests.Session wrapper that behaves like a well-mannered crawler.
 
     - consults robots.txt once per host and refuses disallowed URLs;
     - waits a random 2–5 s between consecutive requests to the same host;
-    - retries transient 5xx errors with backoff, but treats 403/429 as a block.
+    - retries transient 5xx errors with backoff, but treats 403/429 and
+      captcha pages (even with HTTP 200) as a block.
     """
 
     def __init__(
@@ -52,6 +80,7 @@ class PoliteClient:
         )
         self._robots: dict[str, RobotFileParser] = {}
         self._last_request: dict[str, float] = {}
+        self.last_url: str | None = None  # final URL (after redirects) of the last page fetched
 
     # -- public API ---------------------------------------------------------
 
@@ -79,6 +108,10 @@ class PoliteClient:
                 continue
             if resp.status_code != 200:
                 raise FetchError(f"{url}: HTTP {resp.status_code}")
+            self.last_url = resp.url
+            captcha = captcha_reason(resp.url, resp.text)
+            if captcha:
+                raise BlockedError(f"{url}: captcha ({captcha})")
             return resp.text
 
         raise FetchError(f"{url}: retries exhausted")  # pragma: no cover

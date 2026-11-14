@@ -107,6 +107,6 @@ def sample_alerts() -> list[Alert]:
               {"price_eur": Decimal("211.00"), "old_country": "DE", "old_site": "alternate_de"}),
         Alert("out_of_stock", "AKG N9 Hybrid Black", "https://www.ldlc.com/", "FR", "ldlc", 249.0,
               {"price": Decimal("249.00"), "currency": "EUR"}),
-        Alert("new_product", "Samsung Galaxy Buds4 Pro Black", "https://www.mironet.cz/", "CZ", "mironet", 171.97,
+        Alert("new_product", "Samsung Galaxy Buds4 Pro Black", "https://www.planeo.cz/", "CZ", "planeo", 171.97,
               {"price": Decimal("4190"), "currency": "CZK", "price_eur": Decimal("171.97")}),
     ]

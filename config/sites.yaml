@@ -7,6 +7,8 @@
 #   stock_from_details listing has no stock info -> read product pages daily
 #   delay_seconds      per-site override of the polite delay
 #   max_new_id_pages   daily budget of product pages fetched only for ids
+#   enabled            false keeps the site's config and history but skips it;
+#                      `disabled_reason` is shown on the status sheet
 
 defaults:
   user_agent: "Mozilla/5.0 (compatible; EUPriceMonitor/0.1; portfolio demo)"
@@ -52,12 +54,27 @@ sites:
     scraper: mironet
     country: CZ
     currency: CZK
-    enabled: true
+    # Disabled 2026-11-14: since 2026-11-12 mironet.cz redirects GitHub runner IPs
+    # to an ALTCHA captcha (/altcha/verify, "Ověřte, že nejste robot"). We do not
+    # solve captchas — replaced by planeo.cz. Its rows stay in the history sheet.
+    enabled: false
+    disabled_reason: "captcha for GitHub runner IPs since 2026-11-12; replaced by planeo.cz on 2026-11-14"
     official_sellers: [Mironet]
     stock_from_details: true
     max_pages: 4
     start_urls:
       - https://www.mironet.cz/audiovideo/sluchatka/bezdratova+c25216/
+
+  - id: planeo
+    scraper: planeo
+    country: CZ
+    currency: CZK
+    enabled: true
+    official_sellers: [Planeo]
+    stock_from_details: true  # only cards without a clear delivery state hit the product page
+    max_pages: 4
+    start_urls:
+      - https://www.planeo.cz/bezdratova-sluchatka
 
   - id: ldlc
     scraper: ldlc
@@ -74,4 +91,3 @@ sites:
   # Fallbacks with permissive robots.txt and server-rendered listings:
   #   rueducommerce.fr  https://www.rueducommerce.fr/r/70338/ecouteurs/
   #   x-kom.pl          https://www.x-kom.pl/g-6/c/2495-sluchawki-bezprzewodowe.html
-  #   planeo.cz         https://www.planeo.cz/sluchatka

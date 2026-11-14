@@ -23,7 +23,7 @@ COUNTRIES = ["PL", "DE", "NL", "CZ", "FR"]
 PRICE_NOTE = "Prices include VAT, excluding shipping."
 COMPARE_NOTE = "Only official sellers' in-stock offers are compared; click a price to open the shop page."
 # Shops whose product names read best in a pan-European table (no category prefix).
-_NAME_PREFERENCE = ["coolblue", "ldlc", "alternate_de", "mironet", "morele"]
+_NAME_PREFERENCE = ["coolblue", "ldlc", "alternate_de", "planeo", "mironet", "morele"]
 _CATEGORY_PREFIXES = ("Słuchawki ", "Sluchátka ")
 
 
@@ -284,9 +284,16 @@ STATUS_COLUMNS = [
 ]
 
 
-def status_rows(statuses: list[SiteStatus]) -> list[list[Any]]:
-    return [
-        [s.site, s.country, "STALE" if s.stale else "OK", s.last_success or "never",
-         s.count_today, s.usual_count, s.reason]
-        for s in sorted(statuses, key=lambda s: COUNTRIES.index(s.country) if s.country in COUNTRIES else 99)
-    ]
+def status_rows(statuses: list[SiteStatus], disabled: dict[str, str] | None = None) -> list[list[Any]]:
+    """One row per site; `disabled` maps switched-off sites to the reason from sites.yaml."""
+    disabled = disabled or {}
+
+    def row(s: SiteStatus) -> list[Any]:
+        if s.site in disabled:
+            return [s.site, s.country, "DISABLED", s.last_success or "never", None, s.usual_count, disabled[s.site]]
+        return [s.site, s.country, "STALE" if s.stale else "OK", s.last_success or "never",
+                s.count_today, s.usual_count, s.reason]
+
+    ordered = sorted(statuses, key=lambda s: (s.site in disabled,
+                                              COUNTRIES.index(s.country) if s.country in COUNTRIES else 99))
+    return [row(s) for s in ordered]

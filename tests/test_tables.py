@@ -76,6 +76,17 @@ def test_status_rows():
     assert rows[1][2] == "OK"
 
 
+def test_status_rows_show_disabled_site_last_with_reason():
+    rows = tables.status_rows(
+        [SiteStatus("mironet", "CZ", last_success="2026-11-11", count_today=0, usual_count=96, stale=True,
+                    reason="no products collected"),
+         SiteStatus("ldlc", "FR", last_success="2026-11-14", count_today=240, usual_count=240)],
+        disabled={"mironet": "captcha for GitHub runner IPs"},
+    )
+    assert [r[0] for r in rows] == ["ldlc", "mironet"]
+    assert rows[1][2] == "DISABLED" and rows[1][6] == "captcha for GitHub runner IPs"
+
+
 def test_english_name_translates_colour_and_shop_phrases():
     def named(name, site, brand):
         return [Product(site=site, country="NL", name=name, price=Decimal(1), currency="EUR", url="u", brand=brand)]

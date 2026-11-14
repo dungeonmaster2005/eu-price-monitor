@@ -37,6 +37,7 @@ NOTE_FG = {"red": 0.4, "green": 0.4, "blue": 0.4}
 GREEN_BG = {"red": 0.80, "green": 0.92, "blue": 0.80}
 RED_BG = {"red": 0.96, "green": 0.80, "blue": 0.80}
 AMBER_BG = {"red": 1.0, "green": 0.90, "blue": 0.70}
+GREY_BG = {"red": 0.90, "green": 0.90, "blue": 0.90}
 GREEN_FG = {"red": 0.12, "green": 0.50, "blue": 0.20}
 RED_FG = {"red": 0.75, "green": 0.15, "blue": 0.15}
 
@@ -81,15 +82,19 @@ class SheetsWriter:
 
     # -- public ------------------------------------------------------------
 
-    def write_all(self, products, fresh, statuses, today: date, write_history: bool = True) -> None:
-        """products: today's dataset incl. carried-over stale offers; fresh: observed today."""
+    def write_all(self, products, fresh, statuses, today: date, write_history: bool = True,
+                  disabled: dict[str, str] | None = None) -> None:
+        """products: today's dataset incl. carried-over stale offers; fresh: observed today.
+
+        disabled: switched-off sites -> reason, shown on the status sheet.
+        """
         history = self.append_history(fresh) if write_history else self.read_history()
         self.replace("compare", tables.COMPARE_COLUMNS, tables.compare_rows(products), self._compare_rules,
                      note_extra=tables.COMPARE_NOTE)
         self.replace("summary", tables.SUMMARY_COLUMNS, tables.summary_rows(products, history, today),
                      self._summary_rules)
         self.replace("today", tables.OFFER_COLUMNS, tables.offer_rows(products))
-        self.replace("status", tables.STATUS_COLUMNS, tables.status_rows(statuses), self._status_rules)
+        self.replace("status", tables.STATUS_COLUMNS, tables.status_rows(statuses, disabled), self._status_rules)
         self._order_tabs(["compare", "summary", "today", "status", "history"])
         log.info("Google Sheet updated: %s", self.book.url)
 
@@ -282,7 +287,7 @@ class SheetsWriter:
     def _status_rules(sheet_id: int, columns: list[Column], n_rows: int) -> list[dict]:
         i = tables.column_index(columns, "Status")
         rng = _rng(sheet_id, 2, n_rows + 2, i, i + 1)
-        return [_text_rule(rng, "STALE", RED_BG), _text_rule(rng, "OK", GREEN_BG)]
+        return [_text_rule(rng, "STALE", RED_BG), _text_rule(rng, "OK", GREEN_BG), _text_rule(rng, "DISABLED", GREY_BG)]
 
 
 def _is_empty(ws: gspread.Worksheet) -> bool:

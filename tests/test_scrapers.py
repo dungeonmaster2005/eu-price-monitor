@@ -19,6 +19,7 @@ from src.scrapers.jsonld import clean_mpn, first_gtin, is_in_stock
 from src.scrapers.ldlc import LdlcScraper
 from src.scrapers.mironet import MironetScraper
 from src.scrapers.morele import MoreleScraper, model_from_name
+from src.scrapers.planeo import PlaneoScraper
 
 FIXTURES = Path(__file__).parent / "fixtures"
 
@@ -118,6 +119,32 @@ def test_mironet_product_page_stock_and_mpn():
     assert page.in_stock is True and page.ids.model == "MXP63" and page.ids.ean is None
     oos = s.parse_details(soup("mironet_product.html", ("schema.org/InStock", "schema.org/OutOfStock")))
     assert oos.in_stock is False
+
+
+# --- planeo -------------------------------------------------------------------
+
+def test_planeo_discounted_card_uses_current_price_not_crossed_out():
+    sale, regular = make(PlaneoScraper, "planeo", "CZ", "CZK").parse_listing(soup("planeo_listing.html"))
+    # Black Friday card shows "3 299 Kč" (current) and "3 690 Kč" (old)
+    assert sale.name == "Apple AirPods 4 s ANC"
+    assert sale.price == Decimal("3299") and sale.currency == "CZK"
+    assert sale.url == "https://www.planeo.cz/apple-airpods-4-s-anc"
+    assert sale.brand == "Apple" and sale.in_stock is True
+    assert regular.price == Decimal("2399")
+
+
+def test_planeo_out_of_stock_card():
+    html = str(soup("planeo_listing.html", ("c-availability__state c--success", "c-availability__state c--danger")))
+    html = html.replace("Ihned k odeslání", "Momentálně nedostupné")
+    cards = make(PlaneoScraper, "planeo", "CZ", "CZK").parse_listing(BeautifulSoup(html, "lxml"))
+    assert [p.in_stock for p in cards] == [False, False]
+
+
+def test_planeo_product_page_ean_and_sale_price_from_price_specification():
+    page = make(PlaneoScraper, "planeo", "CZ", "CZK").parse_details(soup("planeo_product.html"))
+    assert page.ids.ean == "6925281969775" and page.ids.brand == "JBL"
+    assert page.price == Decimal("1569") and page.currency == "CZK"  # not the StrikethroughPrice 1743
+    assert page.in_stock is True
 
 
 # --- ldlc ---------------------------------------------------------------------

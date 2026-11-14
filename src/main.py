@@ -169,6 +169,12 @@ def log_summary(products: list[Product], matches: MatchResult) -> None:
              len(matches.review), len(matches.suspicious))
 
 
+def disabled_sites() -> dict[str, str]:
+    """Sites switched off in sites.yaml -> the reason given there."""
+    _, sites = load_sites()
+    return {s["id"]: s.get("disabled_reason", "disabled in config/sites.yaml") for s in sites if not s.get("enabled")}
+
+
 def write_sheets(products: list[Product], fresh: list[Product], statuses: SiteStatusStore, fx: FxRates,
                  write_history: bool = True) -> bool:
     """Returns False if Sheets are configured but writing failed."""
@@ -179,7 +185,8 @@ def write_sheets(products: list[Product], fresh: list[Product], statuses: SiteSt
         return True
     try:
         SheetsWriter(open_spreadsheet(), fx.as_of).write_all(
-            products, fresh, list(statuses.sites.values()), today=date.today(), write_history=write_history)
+            products, fresh, list(statuses.sites.values()), today=date.today(), write_history=write_history,
+            disabled=disabled_sites())
         return True
     except Exception:
         log.exception("Writing Google Sheets failed")
