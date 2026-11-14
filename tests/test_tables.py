@@ -96,6 +96,8 @@ def test_english_name_translates_colour_and_shop_phrases():
     assert tables.english_name(named("Bose QuietComfort Ultra Headphones (2e gen) Wit", "coolblue", "Bose"))         == "Bose QuietComfort Ultra Headphones (Gen 2) White"
     assert tables.english_name(named("Kraken V4 černá", "mironet", "Razer")) == "Razer Kraken V4 Black"
     assert tables.english_name(named("Apple AirPods 5 met draadloze oplaadcase", "coolblue", "Apple"))         == "Apple AirPods 5 with Wireless Charging Case"
+    assert tables.english_name(named("Lenovo ThinkPad 8550 (Aura Edition) - USB-A grau/schwarz", "alternate_de",
+                                     "Lenovo")) == "Lenovo ThinkPad 8550 (Aura Edition) - USB-A Grey/Black"
 
 
 def test_english_name_translates_french_titles():

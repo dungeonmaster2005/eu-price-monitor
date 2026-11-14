@@ -98,7 +98,7 @@ def english_name(offers: list[Product]) -> str:
 
     words, colours = [], []
     for word in name.split():
-        parts = [strip_accents(w).lower() for w in word.strip(",()").split("-")]
+        parts = [strip_accents(w).lower() for w in re.split(r"[-/]", word.strip(",()"))]  # "grau/schwarz"
         if parts and all(part in COLOURS for part in parts):
             colours += [COLOURS[part] for part in parts if COLOURS[part] not in colours]
         elif parts and all(part in _SHADE_WORDS for part in parts):
