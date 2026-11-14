@@ -138,6 +138,13 @@ pip install -r requirements.txt
 cp .env.example .env              # fill in; GOOGLE_CREDS_PATH points to the JSON key file
 ```
 
+**First run with an empty identifier cache.** EANs and part numbers come from product pages
+and are cached in `data/product_ids.json`, which is committed. If you start without it
+(fresh fork, deleted file), most shops fill it on the first run. alternate.de is the
+exception: it rate-limits product pages, so the monitor fetches at most 25 new ones a day
+(`max_new_id_pages` in `config/sites.yaml`). With ~120 offers its identifiers take
+**several days** to fill up, and until then German offers match partly by name.
+
 ```bash
 python -m src.main                          # full run: all enabled sites, Sheets, Telegram
 python -m src.main --no-sheets --no-telegram
@@ -200,3 +207,7 @@ data/                   committed caches: product ids, FX rates, site status, la
   A price change is measured in the shop's own currency, so exchange-rate moves never look
   like a price drop.
 - Portfolio project, not affiliated with any of the shops.
+
+## License
+
+[MIT](LICENSE)
