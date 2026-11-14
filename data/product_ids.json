@@ -109,6 +109,11 @@
   "model": "ATH-M20XBTWH",
   "brand": "Audio-Technica"
  },
+ "https://www.alternate.de/Corsair/HS35-v3-Wireless-Gaming-Headset/html/product/100204245": {
+  "ean": "0840440424345",
+  "model": "CA-9011401-WW",
+  "brand": "Corsair"
+ },
  "https://www.alternate.de/Corsair/HS35-v3-Wireless-Gaming-Headset/html/product/100204248": {
   "ean": "0840440424352",
   "model": "CA-9011402-WW",
@@ -183,6 +188,11 @@
   "ean": "8718819375777",
   "model": "AUHEAD-1ZW-WW1",
   "brand": "Fairphone"
+ },
+ "https://www.alternate.de/Google/Pixel-Buds-Pro-Kopfhörer/html/product/1860655": {
+  "ean": "0193575032344",
+  "model": "GA03202-DE",
+  "brand": "Google"
  },
  "https://www.alternate.de/HP/Poly-Voyager-Focus-2-USB-C-C-Headset/html/product/100101057": {
   "ean": "0198122157228",
@@ -338,6 +348,11 @@
   "ean": "4061275233476",
   "model": null,
   "brand": "Medion"
+ },
+ "https://www.alternate.de/Monster/Compete-Kopfhörer/html/product/1899148": {
+  "ean": "6922329919433",
+  "model": "NO",
+  "brand": "Monster"
  },
  "https://www.alternate.de/Motorola/moto-buds-2-Gray-Mist-Kopfhörer/html/product/100198596": {
   "ean": "0840493613680",
@@ -593,6 +608,11 @@
   "ean": "0731855051021",
   "model": "TBS-5102-05",
   "brand": "Turtle Beach"
+ },
+ "https://www.alternate.de/Xiaomi/Redmi-Buds-8-Active-Kopfhörer/html/product/100205904": {
+  "ean": "6932554464233",
+  "model": "BHR08JTGL",
+  "brand": "Xiaomi"
  },
  "https://www.alternate.de/Xiaomi/Redmi-Buds-8-Lite-Kopfhörer/html/product/100205910": {
   "ean": "6932554471880",
@@ -1209,6 +1229,11 @@
   "model": "JBLT530BTBLKEU",
   "brand": "JBL"
  },
+ "https://www.coolblue.nl/product/972186/jbl-tune-730bt-zwart.html": {
+  "ean": null,
+  "model": "JBLT730BTBLK",
+  "brand": "JBL"
+ },
  "https://www.coolblue.nl/product/972189/jbl-tour-pro-3-tws-blauw.html": {
   "ean": null,
   "model": "JBLTOURPRO3BLU",
@@ -1427,6 +1452,11 @@
  "https://www.coolblue.nl/product/979932/soundcore-liberty-5-pro-max-zwart.html": {
   "ean": null,
   "model": "D1204G11",
+  "brand": "Soundcore by Anker"
+ },
+ "https://www.coolblue.nl/product/979933/soundcore-liberty-5-pro-max-goud.html": {
+  "ean": null,
+  "model": "D1204GB1",
   "brand": "Soundcore by Anker"
  },
  "https://www.coolblue.nl/product/979978/sony-wh1000xm6-sandstone.html": {
@@ -3699,6 +3729,11 @@
   "model": null,
   "brand": "Hifiman"
  },
+ "https://www.morele.net/sluchawki-huawei-freebuds-se-2-czarne-13847729/": {
+  "ean": "6942103122101",
+  "model": null,
+  "brand": "Huawei"
+ },
  "https://www.morele.net/sluchawki-huawei-freebuds-se-3-bezowe-14470616/": {
   "ean": "6942103140105",
   "model": null,
@@ -4253,5 +4288,485 @@
   "ean": "5907595461009",
   "model": "PHB912GANC",
   "brand": "Platinet"
+ },
+ "https://www.planeo.cz/aiwa-whf-930d-tv-sluchatka": {
+  "ean": "8435256897784",
+  "model": null,
+  "brand": "Aiwa"
+ },
+ "https://www.planeo.cz/apple-airpods-4": {
+  "ean": "195949688591",
+  "model": null,
+  "brand": "Apple"
+ },
+ "https://www.planeo.cz/apple-airpods-4-s-anc": {
+  "ean": "195949689673",
+  "model": null,
+  "brand": "Apple"
+ },
+ "https://www.planeo.cz/apple-airpods-5": {
+  "ean": "195951379036",
+  "model": null,
+  "brand": "Apple"
+ },
+ "https://www.planeo.cz/apple-airpods-5-s-bezdratovym-nabijecim-pouzdrem": {
+  "ean": "195951378718",
+  "model": null,
+  "brand": "Apple"
+ },
+ "https://www.planeo.cz/apple-airpods-max-2-midnight": {
+  "ean": "195951039176",
+  "model": null,
+  "brand": "Apple"
+ },
+ "https://www.planeo.cz/apple-airpods-pro-3-gen": {
+  "ean": "195950543742",
+  "model": null,
+  "brand": "Apple"
+ },
+ "https://www.planeo.cz/buxton-bhp-18000-black-dilham": {
+  "ean": "8590669369997",
+  "model": null,
+  "brand": "Buxton"
+ },
+ "https://www.planeo.cz/buxton-bhp-7300-black": {
+  "ean": "8590669322640",
+  "model": null,
+  "brand": "Buxton"
+ },
+ "https://www.planeo.cz/buxton-bhp-9800": {
+  "ean": "8590669334155",
+  "model": null,
+  "brand": "Buxton"
+ },
+ "https://www.planeo.cz/buxton-btw-3800-black-tws": {
+  "ean": "8590669352999",
+  "model": null,
+  "brand": "Buxton"
+ },
+ "https://www.planeo.cz/buxton-btw-4600-grey-tws": {
+  "ean": "8590669324514",
+  "model": null,
+  "brand": "Buxton"
+ },
+ "https://www.planeo.cz/buxton-btw-7200-black": {
+  "ean": "8590669391738",
+  "model": null,
+  "brand": "Buxton"
+ },
+ "https://www.planeo.cz/buxton-btw-7200-white": {
+  "ean": "8590669391745",
+  "model": null,
+  "brand": "Buxton"
+ },
+ "https://www.planeo.cz/buxton-btw-8200-raccoon": {
+  "ean": "8590669377961",
+  "model": null,
+  "brand": "Buxton"
+ },
+ "https://www.planeo.cz/buxton-btw-9600": {
+  "ean": "8590669391721",
+  "model": null,
+  "brand": "Buxton"
+ },
+ "https://www.planeo.cz/hator-hyperpunk-3-wireless-white": {
+  "ean": "8721249196843",
+  "model": null,
+  "brand": "Hator"
+ },
+ "https://www.planeo.cz/huawei-freebuds-se-3-black": {
+  "ean": "6942103140112",
+  "model": null,
+  "brand": "Huawei"
+ },
+ "https://www.planeo.cz/huawei-freebuds-se-4-anc-white": {
+  "ean": "6942103165443",
+  "model": null,
+  "brand": "Huawei"
+ },
+ "https://www.planeo.cz/huawei-freeclip-2-black": {
+  "ean": "6942103169434",
+  "model": null,
+  "brand": "Huawei"
+ },
+ "https://www.planeo.cz/hyperx-cloud-alpha-red": {
+  "ean": "196188046036",
+  "model": null,
+  "brand": "HyperX"
+ },
+ "https://www.planeo.cz/hyperx-cloud-flight-2-black": {
+  "ean": "198990148311",
+  "model": null,
+  "brand": "HyperX"
+ },
+ "https://www.planeo.cz/jbl-live-770nc-black": {
+  "ean": "1200130004582",
+  "model": null,
+  "brand": "JBL"
+ },
+ "https://www.planeo.cz/jbl-live-770nc-blue": {
+  "ean": "1200130004605",
+  "model": null,
+  "brand": "JBL"
+ },
+ "https://www.planeo.cz/jbl-live-flex-black": {
+  "ean": "6925281960819",
+  "model": null,
+  "brand": "JBL"
+ },
+ "https://www.planeo.cz/jbl-quantum-350-wireless": {
+  "ean": "6925281986499",
+  "model": null,
+  "brand": "JBL"
+ },
+ "https://www.planeo.cz/jbl-sense-lite-black": {
+  "ean": "1200130023088",
+  "model": null,
+  "brand": "JBL"
+ },
+ "https://www.planeo.cz/jbl-tour-one-m3-black": {
+  "ean": "1200130020919",
+  "model": null,
+  "brand": "JBL"
+ },
+ "https://www.planeo.cz/jbl-tune-135bt-black": {
+  "ean": "1200130026003",
+  "model": null,
+  "brand": "JBL"
+ },
+ "https://www.planeo.cz/jbl-tune-530bt-black": {
+  "ean": "1200130029967",
+  "model": null,
+  "brand": "JBL"
+ },
+ "https://www.planeo.cz/jbl-tune-530bt-white": {
+  "ean": "1200130029974",
+  "model": null,
+  "brand": "JBL"
+ },
+ "https://www.planeo.cz/jbl-tune-730bt-black": {
+  "ean": "1200130029837",
+  "model": null,
+  "brand": "JBL"
+ },
+ "https://www.planeo.cz/jbl-tune-770nc-black": {
+  "ean": "6925281974526",
+  "model": null,
+  "brand": "JBL"
+ },
+ "https://www.planeo.cz/jbl-tune-770nc-white": {
+  "ean": "6925281974564",
+  "model": null,
+  "brand": "JBL"
+ },
+ "https://www.planeo.cz/jbl-tune-beam-black": {
+  "ean": "6925281969775",
+  "model": null,
+  "brand": "JBL"
+ },
+ "https://www.planeo.cz/jbl-tune-buds-2-black": {
+  "ean": "1200130016356",
+  "model": null,
+  "brand": "JBL"
+ },
+ "https://www.planeo.cz/jbl-tune-buds-2-white": {
+  "ean": "1200130016363",
+  "model": null,
+  "brand": "JBL"
+ },
+ "https://www.planeo.cz/jlab-go-air-sport-tws-graphite": {
+  "ean": "812887017404",
+  "model": null,
+  "brand": "JLAB"
+ },
+ "https://www.planeo.cz/jlab-jbuds-sport-anc-4-tw-graphite": {
+  "ean": "810119072184",
+  "model": null,
+  "brand": "JLAB"
+ },
+ "https://www.planeo.cz/jvc-ha-a25tbne": {
+  "ean": "4975769475344",
+  "model": null,
+  "brand": "JVC"
+ },
+ "https://www.planeo.cz/jvc-ha-a7t2be": {
+  "ean": "4975769475399",
+  "model": null,
+  "brand": "JVC"
+ },
+ "https://www.planeo.cz/jvc-ha-a7t2we": {
+  "ean": "4975769475429",
+  "model": null,
+  "brand": "JVC"
+ },
+ "https://www.planeo.cz/jvc-ha-a9tbe": {
+  "ean": "4975769025747",
+  "model": null,
+  "brand": "JVC"
+ },
+ "https://www.planeo.cz/jvc-ha-ec25tbu": {
+  "ean": "4975769472176",
+  "model": null,
+  "brand": "JVC"
+ },
+ "https://www.planeo.cz/jvc-ha-np40tbu": {
+  "ean": "4975769481918",
+  "model": null,
+  "brand": "JVC"
+ },
+ "https://www.planeo.cz/logitech-g321-lightspeed-black": {
+  "ean": "5099206133303",
+  "model": null,
+  "brand": "Logitech"
+ },
+ "https://www.planeo.cz/marshall-major-v-bluetooth-black": {
+  "ean": "7340055401104",
+  "model": null,
+  "brand": "Marshall"
+ },
+ "https://www.planeo.cz/nacon-rig-600-pro-hs": {
+  "ean": "3665962019520",
+  "model": null,
+  "brand": "Nacon"
+ },
+ "https://www.planeo.cz/niceboy-beans-5-black": {
+  "ean": "8594182434514",
+  "model": null,
+  "brand": "Niceboy"
+ },
+ "https://www.planeo.cz/niceboy-podsie-5-pro-black": {
+  "ean": "8594182434613",
+  "model": null,
+  "brand": "Niceboy"
+ },
+ "https://www.planeo.cz/otl-technologies-minecraft-creeper-mc1231": {
+  "ean": "5055371629126",
+  "model": null,
+  "brand": "OTL Technologies"
+ },
+ "https://www.planeo.cz/philips-tah4500bk-00": {
+  "ean": "4895229177567",
+  "model": null,
+  "brand": "Philips"
+ },
+ "https://www.planeo.cz/philips-tat1300bk-00": {
+  "ean": "4895229176935",
+  "model": null,
+  "brand": "Philips"
+ },
+ "https://www.planeo.cz/philips-tat1300pk-00": {
+  "ean": "4895229176966",
+  "model": null,
+  "brand": "Philips"
+ },
+ "https://www.planeo.cz/samsung-galaxy-buds3-fe-black": {
+  "ean": "8806097621027",
+  "model": null,
+  "brand": "Samsung"
+ },
+ "https://www.planeo.cz/sencor-sep-540bt-bk": {
+  "ean": "8590669333318",
+  "model": null,
+  "brand": "Sencor"
+ },
+ "https://www.planeo.cz/sencor-sep-540bt-juju": {
+  "ean": "8590669355464",
+  "model": null,
+  "brand": "Sencor"
+ },
+ "https://www.planeo.cz/sencor-sep-540bt-mint": {
+  "ean": "8590669355402",
+  "model": null,
+  "brand": "Sencor"
+ },
+ "https://www.planeo.cz/sencor-sep-540bt-rock": {
+  "ean": "8590669355433",
+  "model": null,
+  "brand": "Sencor"
+ },
+ "https://www.planeo.cz/sencor-sep-540bt-wh": {
+  "ean": "8590669333332",
+  "model": null,
+  "brand": "Sencor"
+ },
+ "https://www.planeo.cz/sencor-sep-710bt-bk": {
+  "ean": "8590669301041",
+  "model": null,
+  "brand": "Sencor"
+ },
+ "https://www.planeo.cz/sencor-sep-710bt-wh": {
+  "ean": "8590669302413",
+  "model": null,
+  "brand": "Sencor"
+ },
+ "https://www.planeo.cz/sencor-sep-720bt-gy": {
+  "ean": "8590669355990",
+  "model": null,
+  "brand": "Sencor"
+ },
+ "https://www.planeo.cz/sencor-sep-730bt-black": {
+  "ean": "8590669376858",
+  "model": null,
+  "brand": "Sencor"
+ },
+ "https://www.planeo.cz/sencor-sep-absolute-hybrid": {
+  "ean": "8590669376841",
+  "model": null,
+  "brand": "Sencor"
+ },
+ "https://www.planeo.cz/sencor-sep-corporate-black": {
+  "ean": "8590669376667",
+  "model": null,
+  "brand": "Sencor"
+ },
+ "https://www.planeo.cz/sencor-sep-frieza-purple": {
+  "ean": "8590669376254",
+  "model": null,
+  "brand": "Sencor"
+ },
+ "https://www.planeo.cz/sencor-sep-grim-black": {
+  "ean": "8590669377015",
+  "model": null,
+  "brand": "Sencor"
+ },
+ "https://www.planeo.cz/sencor-sep-grim-blue": {
+  "ean": "8590669377039",
+  "model": null,
+  "brand": "Sencor"
+ },
+ "https://www.planeo.cz/sencor-sep-grim-rose": {
+  "ean": "8590669377046",
+  "model": null,
+  "brand": "Sencor"
+ },
+ "https://www.planeo.cz/sencor-sep-mellow-black": {
+  "ean": "8590669376995",
+  "model": null,
+  "brand": "Sencor"
+ },
+ "https://www.planeo.cz/sencor-sep-mellow-white": {
+  "ean": "8590669377008",
+  "model": null,
+  "brand": "Sencor"
+ },
+ "https://www.planeo.cz/sencor-sep-pannion-black": {
+  "ean": "8590669376971",
+  "model": null,
+  "brand": "Sencor"
+ },
+ "https://www.planeo.cz/sencor-sep-sleeper-anc": {
+  "ean": "8590669376865",
+  "model": null,
+  "brand": "Sencor"
+ },
+ "https://www.planeo.cz/shokz-openfit-air-black": {
+  "ean": "810092678663",
+  "model": null,
+  "brand": "Shokz"
+ },
+ "https://www.planeo.cz/shokz-openrun-usb-c-black": {
+  "ean": "810092679837",
+  "model": null,
+  "brand": "Shokz"
+ },
+ "https://www.planeo.cz/sony-ps5-pulse-elite-wireless-headset-plus-case-sony": {
+  "ean": "711719598275",
+  "model": null,
+  "brand": "Sony"
+ },
+ "https://www.planeo.cz/sony-pulse-elite-midnight-black": {
+  "ean": "711719590101",
+  "model": null,
+  "brand": "Sony"
+ },
+ "https://www.planeo.cz/sony-wf-c710n-black": {
+  "ean": "4548736164161",
+  "model": null,
+  "brand": "Sony"
+ },
+ "https://www.planeo.cz/sony-wfc510b": {
+  "ean": "4548736161436",
+  "model": null,
+  "brand": "Sony"
+ },
+ "https://www.planeo.cz/sony-wfc510w": {
+  "ean": "4548736161481",
+  "model": null,
+  "brand": "Sony"
+ },
+ "https://www.planeo.cz/sony-wh-ch520c": {
+  "ean": "4548736142916",
+  "model": null,
+  "brand": "Sony"
+ },
+ "https://www.planeo.cz/sony-wh-ch520l": {
+  "ean": "4548736142862",
+  "model": null,
+  "brand": "Sony"
+ },
+ "https://www.planeo.cz/sony-wh-ch520w": {
+  "ean": "4548736142817",
+  "model": null,
+  "brand": "Sony"
+ },
+ "https://www.planeo.cz/sony-wh-ch530-bt-black": {
+  "ean": "4548736179677",
+  "model": null,
+  "brand": "Sony"
+ },
+ "https://www.planeo.cz/sony-wh-ch530-bt-ruzova": {
+  "ean": "4548736181434",
+  "model": null,
+  "brand": "Sony"
+ },
+ "https://www.planeo.cz/sony-wh-ch720n": {
+  "ean": "4548736143012",
+  "model": null,
+  "brand": "Sony"
+ },
+ "https://www.planeo.cz/sony-wh-ch720nw": {
+  "ean": "4548736147843",
+  "model": null,
+  "brand": "Sony"
+ },
+ "https://www.planeo.cz/sony-wh-ch730n-noise-cancelling-cerna": {
+  "ean": "4548736179721",
+  "model": null,
+  "brand": "Sony"
+ },
+ "https://www.planeo.cz/tozo-golden-x1-modra": {
+  "ean": "6971681317333",
+  "model": null,
+  "brand": "Tozo"
+ },
+ "https://www.planeo.cz/xiaomi-redmi-buds-8-lite-black": {
+  "ean": "6932554471897",
+  "model": null,
+  "brand": "Xiaomi"
+ },
+ "https://www.planeo.cz/yenkee-eden-jade-herni-sluchatka-yhp-1000": {
+  "ean": "8590669415106",
+  "model": null,
+  "brand": "Yenkee"
+ },
+ "https://www.planeo.cz/yenkee-yhp-08bt-anc-harmon": {
+  "ean": "8590669348756",
+  "model": null,
+  "brand": "Yenkee"
+ },
+ "https://www.planeo.cz/yenkee-yhp-09bt-we-tws-evepods-pro": {
+  "ean": "8590669373567",
+  "model": null,
+  "brand": "Yenkee"
+ },
+ "https://www.planeo.cz/yenkee-yhp-20bt-bk": {
+  "ean": "8590669300747",
+  "model": null,
+  "brand": "Yenkee"
+ },
+ "https://www.planeo.cz/yenkee-yhp-21bt-bk": {
+  "ean": "8590669362707",
+  "model": null,
+  "brand": "Yenkee"
  }
 }
