@@ -934,6 +934,16 @@
   "model": "A3968G61",
   "brand": "Soundcore by Anker"
  },
+ "https://www.coolblue.nl/product/953327/soundcore-aerofit-pro-zwart.html": {
+  "ean": null,
+  "model": "A3871G11",
+  "brand": "Soundcore by Anker"
+ },
+ "https://www.coolblue.nl/product/953528/huawei-freebuds-5i-wit.html": {
+  "ean": null,
+  "model": null,
+  "brand": "Huawei"
+ },
  "https://www.coolblue.nl/product/953954/bose-quietcomfort-earbuds-zwart.html": {
   "ean": null,
   "model": "888507-0100",
@@ -1194,6 +1204,11 @@
   "model": "FP45365",
   "brand": "Bowers & Wilkins"
  },
+ "https://www.coolblue.nl/product/969276/bowers-wilkins-px8-s2-beige.html": {
+  "ean": null,
+  "model": "FP45373",
+  "brand": "Bowers & Wilkins"
+ },
  "https://www.coolblue.nl/product/969402/bose-quietcomfort-ultra-earbuds-2nd-gen-paars.html": {
   "ean": null,
   "model": "896637-0050",
@@ -1279,6 +1294,11 @@
   "model": "WF1000XM6S.CE7",
   "brand": "Sony"
  },
+ "https://www.coolblue.nl/product/975218/bowers-wilkins-px7-s3-rood.html": {
+  "ean": null,
+  "model": "FP46612",
+  "brand": "Bowers & Wilkins"
+ },
  "https://www.coolblue.nl/product/975220/jlab-epic-pods-anc-zwart.html": {
   "ean": null,
   "model": "IEUEBEPPODSRBLK124",
@@ -1333,6 +1353,11 @@
   "ean": null,
   "model": "JBLT780NCLAV",
   "brand": "JBL"
+ },
+ "https://www.coolblue.nl/product/977293/marshall-monitor-iii-anc-cream.html": {
+  "ean": null,
+  "model": null,
+  "brand": "Marshall"
  },
  "https://www.coolblue.nl/product/977402/bowers-wilkins-px8-s2-pearl-blue.html": {
   "ean": null,
@@ -1402,6 +1427,11 @@
  "https://www.coolblue.nl/product/979286/jbl-live-buds-4-zwart.html": {
   "ean": null,
   "model": "JBLLIVEBUDS4BLK",
+  "brand": "JBL"
+ },
+ "https://www.coolblue.nl/product/979289/jbl-live-buds-4-zilver.html": {
+  "ean": null,
+  "model": "JBLLIVEBUDS4SIL",
   "brand": "JBL"
  },
  "https://www.coolblue.nl/product/979291/jbl-live-beam-4-blauw.html": {
