@@ -82,6 +82,10 @@ class TestNames:
         assert colours_in("Słuchawki Sony WH-1000XM6 czarne") == {"black"}
         assert colours_in("Sony WH-1000XM6 Zwart") == {"black"}
         assert colours_in("SONY WHULT900NB.CE7 černá") == {"black"}
+        assert colours_in("Apple AirPods Max Lumière stellaire") == colours_in("Apple AirPods Max Starlight")
+        assert colours_in("Apple AirPods Max Mauve") == {"purple"}
+        assert colours_in("Apple AirPods Max 2 Minuit") == {"black"}
+        assert base_model("Apple AirPods Max 2 Lumière stellaire", "Apple") == "apple airpods max 2"
 
     def test_base_model_ignores_colour_and_category_words(self):
         pl = base_model("Słuchawki Sony WH-1000XM6 czarne", "Sony")

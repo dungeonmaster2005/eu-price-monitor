@@ -77,23 +77,37 @@ def normalize_mpn(raw: str | None, brand: str | None = None) -> str | None:
 # Colour words in the five shop languages, mapped to one canonical English name,
 # so that "czarne", "Zwart" and "noir" are recognised as the same colour.
 _COLOUR_WORDS = {
-    "black": "black czarne czarny czarna schwarz zwart cerna cerne cerny noir noire midnight middernacht onyx",
+    "black": "black czarne czarny czarna schwarz zwart cerna cerne cerny noir noire midnight minuit middernacht onyx",
     "white": "white biale bialy biala weiss weis wit bila bile bily blanc blanche starlight",
     "silver": "silver srebrne srebrny silber zilver stribrna stribrne argent titanium",
     "blue": "blue niebieskie niebieski granatowe blau dunkelblau blauw donkerblauw modra modre bleu navy",
     "pink": "pink rozowe rozowy rosa roze ruzova ruzove rose",
     "green": "green zielone zielony grun gruen dunkelgrun groen zelena vert",
     "brown": "brown brazowe brazowy braun bruin hneda hnede marron",
-    "grey": "grey gray szare szary grafitowe grafitowy grau grijs seda sede gris graphite charcoal",
-    "beige": "beige bezowe bezowy bezova cream creme sand latte",
+    "grey": "grey gray szare szary grafitowe grafitowy grau grijs seda sede gris graphite anthracite charcoal",
+    "beige": "beige bezowe bezowy bezova cream creme sand sable latte",
     "red": "red czerwone rot rood cervena rouge",
     "gold": "gold goud zlote zlota zlata dore champagne",
-    "purple": "purple fioletowe lila paars fialova violet",
+    "purple": "purple fioletowe lila paars fialova violet mauve",
     "orange": "orange oranje pomaranczowe oranzova",
     "copper": "copper koper kupfer miedziane",
     "coral": "coral koralle koraal korallowe koralova corail",
 }
 COLOURS = {word: canon for canon, words in _COLOUR_WORDS.items() for word in words.split()}
+
+# Two-word colour names, rewritten to a single colour word before tokenising:
+# Apple's "Lumière stellaire" is Starlight, "Bleu nuit" is navy.
+_COLOUR_PHRASES = [
+    (re.compile(r"\blumi[eè]re\s+stellaire\b", re.IGNORECASE), "Starlight"),
+    (re.compile(r"\bbleu\s+nuit\b", re.IGNORECASE), "Navy"),
+]
+
+
+def replace_colour_phrases(text: str) -> str:
+    """'AirPods Max Lumière stellaire' -> 'AirPods Max Starlight'."""
+    for pattern, colour in _COLOUR_PHRASES:
+        text = pattern.sub(colour, text)
+    return text
 
 # Category words and filler that carry no identity.
 STOPWORDS = {
@@ -101,7 +115,7 @@ STOPWORDS = {
     "wireless", "bluetooth", "true", "tws", "in", "ear",
     "over", "on", "oordopjes", "koptelefoon", "draadloze", "sluchatka", "bezdratova", "casque",
     "ecouteurs", "sans", "fil", "audio", "with", "z", "mit", "met", "s", "avec", "and", "und",
-    "noise", "cancelling", "the", "de", "mikrofonem", "mikrofon", "micro", "bt", "etui", "case",
+    "noise", "cancelling", "the", "de", "mikrofonem", "mikrofon", "micro", "bt", "etui", "case", "et", "pour",
 }
 # Note: "anc", "nc", "pro", "lite", "headphones", "earbuds" are NOT stopwords —
 # they distinguish models (JBL Tune 760 vs 760NC, Bose QC Ultra Headphones vs Earbuds).
@@ -148,7 +162,7 @@ def strip_accents(text: str) -> str:
 
 def name_tokens(name: str) -> list[str]:
     """Lowercase ASCII tokens; model codes like 'WH-1000XM5' become 'wh1000xm5'."""
-    text = strip_accents(name).lower()
+    text = strip_accents(replace_colour_phrases(name)).lower()
     text = _GENERATION.sub(r" gen\1 ", text)
     for condition, pattern in CONDITION_PATTERNS:  # "Rozbaleno - JBL ..." -> "openbox jbl ..."
         text = pattern.sub(f" {condition.replace('_', '')} ", text)

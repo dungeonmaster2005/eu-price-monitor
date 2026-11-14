@@ -15,7 +15,7 @@ from datetime import date, timedelta
 from decimal import Decimal
 from typing import Any
 
-from src.identifiers import COLOURS, canonical_brand, colours_in, strip_accents
+from src.identifiers import COLOURS, canonical_brand, colours_in, replace_colour_phrases, strip_accents
 from src.models import Product
 from src.site_status import SiteStatus
 
@@ -75,6 +75,15 @@ _PHRASES = [
     (r"\bmet oplaadcase\b", "with Charging Case"),
     (r"\b(?:Generalüberholt|Reconditionné|Odnowione)\b", "Refurbished"),
     (r"\(?\b(\d)\s*(?:e|nd|rd|th|st|\.)?\s*gen(?:eration|eratie|\.)?\)?", r"(Gen \1)"),
+    # French titles (LDLC): category words and connectors
+    (r"\bMicro[\s-]Casque\b", "Headset"),
+    (r"\bavec Micro\b", "with Mic"),
+    (r"\bsans fil\b", "Wireless"),
+    (r"\bÉcouteurs\b", "Earbuds"),
+    (r"\bCasque\b", "Headphones"),
+    (r"\bavec\b", "with"),
+    (r"\bpour\b", "for"),
+    (r"\bet\b", "and"),
 ]
 
 
@@ -83,7 +92,7 @@ _SHADE_WORDS = {"fonce", "clair", "dunkel", "hell", "donker", "licht", "tmave", 
 
 def english_name(offers: list[Product]) -> str:
     """Brand + model + colour in English, e.g. 'Sony WH-1000XM6 Black'."""
-    name = display_name(offers)
+    name = replace_colour_phrases(display_name(offers))
     for pattern, replacement in _PHRASES:
         name = re.sub(pattern, replacement, name, flags=re.IGNORECASE)
 
@@ -96,6 +105,8 @@ def english_name(offers: list[Product]) -> str:
             continue  # "foncé", "dunkel": shade of a colour word, dropped with it
         else:
             words.append(word)
+    while colours and words and words[-1].lower() in {"and", "&"}:  # "Noir et Bleu" -> Black/Blue
+        words.pop()
     if not colours:  # take the colour from another shop's name for the same product
         colours = next((sorted(colours_in(p.name)) for p in offers if colours_in(p.name)), [])
 

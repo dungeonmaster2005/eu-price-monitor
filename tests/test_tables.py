@@ -87,6 +87,17 @@ def test_english_name_translates_colour_and_shop_phrases():
     assert tables.english_name(named("Apple AirPods 5 met draadloze oplaadcase", "coolblue", "Apple"))         == "Apple AirPods 5 with Wireless Charging Case"
 
 
+def test_english_name_translates_french_titles():
+    def named(name, brand):
+        return [Product(site="ldlc", country="FR", name=name, price=Decimal(1), currency="EUR", url="u", brand=brand)]
+
+    assert tables.english_name(named("Apple AirPods Max 2 Lumière stellaire", "Apple")) == "Apple AirPods Max 2 White"
+    assert tables.english_name(named("Apple AirPods Max Mauve", "Apple")) == "Apple AirPods Max Purple"
+    assert tables.english_name(named("B&W Px8 S2 Bleu nuit", "B&W")) == "B&W Px8 S2 Blue"
+    assert tables.english_name(named("Koss Porta Pro Mic/Remote Noir et Bleu", "Koss"))         == "Koss Porta Pro Mic/Remote Black/Blue"
+    assert tables.english_name(named("Belkin Micro Casque USB-C, Bluetooth et Jack pour Confcall", "Belkin"))         == "Belkin Headset USB-C, Bluetooth and Jack for Confcall"
+
+
 def test_english_name_drops_article_codes_in_brackets():
     offers = [Product(site="morele", country="PL", name="Słuchawki Baseus Bass 15 Clip OWS (A00079500223-00) białe",
                       price=Decimal(1), currency="PLN", url="u", brand="Baseus")]
