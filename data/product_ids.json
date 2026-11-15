@@ -709,6 +709,11 @@
   "model": "JBLLIVE770NCBLK",
   "brand": "JBL"
  },
+ "https://www.coolblue.nl/product/935496/bowers-wilkins-px8-mclaren.html": {
+  "ean": null,
+  "model": "FP44326",
+  "brand": "Bowers & Wilkins"
+ },
  "https://www.coolblue.nl/product/936045/bose-quietcomfort-ultra-headphones-zwart.html": {
   "ean": null,
   "model": "880066-0100",
@@ -1349,6 +1354,11 @@
   "model": "A11300028",
   "brand": "Nothing Tech"
  },
+ "https://www.coolblue.nl/product/976267/nothing-headphone-a-geel.html": {
+  "ean": null,
+  "model": "A11300038",
+  "brand": "Nothing Tech"
+ },
  "https://www.coolblue.nl/product/976800/jbl-tune-780nc-paars.html": {
   "ean": null,
   "model": "JBLT780NCLAV",
@@ -1578,6 +1588,11 @@
   "ean": null,
   "model": "ACEULWW1BLK",
   "brand": "Sonos"
+ },
+ "https://www.coolblue.nl/product/984495/jbl-tune-flex-3-zwart.html": {
+  "ean": null,
+  "model": "JBLTFLEX3BLKEU",
+  "brand": "JBL"
  },
  "https://www.coolblue.nl/product/985301/sony-wh-ch735n-zwart.html": {
   "ean": null,
@@ -3654,6 +3669,11 @@
   "model": "A00085701123-00",
   "brand": "Baseus"
  },
+ "https://www.morele.net/sluchawki-blue-star-bk44-tws-czarne-14137279/": {
+  "ean": "5903396281686",
+  "model": null,
+  "brand": "Blue Star"
+ },
  "https://www.morele.net/sluchawki-bose-quietcomfort-czarne-884367-0100-13141222/": {
   "ean": "017817848961",
   "model": "884367-0100",
@@ -3708,6 +3728,11 @@
   "ean": "5390660195723",
   "model": "51EF1040AA001",
   "brand": "Creative"
+ },
+ "https://www.morele.net/sluchawki-dewalt-earbuds-dxma190-2097-dwg-15495024/": {
+  "ean": "826341052375",
+  "model": "DXMA190-2097-DWG",
+  "brand": "Dewalt"
  },
  "https://www.morele.net/sluchawki-dewalt-jobsite-pro-dxma190-2091-dwg-15495017/": {
   "ean": "826341052047",
@@ -3779,6 +3804,11 @@
   "model": null,
   "brand": "Huawei"
  },
+ "https://www.morele.net/sluchawki-huawei-freeclip-2-niebieskie-55038690-15759548/": {
+  "ean": "6942103182686",
+  "model": null,
+  "brand": "Huawei"
+ },
  "https://www.morele.net/sluchawki-huawei-freeclip-2-rozowe-15800652/": {
   "ean": "6942103178733",
   "model": null,
@@ -3837,6 +3867,11 @@
  "https://www.morele.net/sluchawki-jbl-tune-530bt-niebieskie-jblt530btblueu-15700744/": {
   "ean": "1200130029981",
   "model": "JBLT530BTBLUEU",
+  "brand": "JBL"
+ },
+ "https://www.morele.net/sluchawki-jbl-tune-680nc-czarne-jblt680ncblk-15794801/": {
+  "ean": "1200130030444",
+  "model": "JBLT680NCBLK",
   "brand": "JBL"
  },
  "https://www.morele.net/sluchawki-jbl-tune-730bt-biale-jblt730btwht-15700742/": {
@@ -4426,6 +4461,11 @@
  },
  "https://www.planeo.cz/hyperx-cloud-flight-2-black": {
   "ean": "198990148311",
+  "model": null,
+  "brand": "HyperX"
+ },
+ "https://www.planeo.cz/hyperx-cloudx-stinger-core-wrl-xbox": {
+  "ean": "196188047439",
   "model": null,
   "brand": "HyperX"
  },
