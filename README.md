@@ -14,11 +14,9 @@ Cross-country comparisons use the shops' own offers only (marketplace partners a
 
 | Site health (`status` sheet) | Telegram alert |
 |---|---|
-| ![status sheet](docs/screenshots/status.png) | ![Telegram alert](docs/screenshots/telegram_alert.png) |
+| ![status sheet](docs/screenshots/status.png) | ![Telegram alert](docs/screenshots/telegram_alert.jpg) |
 
-<sub>Sheet screenshots: PDF export of the live sheet after the run of 14 Nov 2026. The Telegram
-image renders the exact text the bot sent that day (`alert_message.txt` from the run artifact)
-in a chat bubble.</sub>
+<sub>Sheet screenshots: PDF export of the live sheet after the run of 14 Nov 2026.</sub>
 
 ## Shops
 
