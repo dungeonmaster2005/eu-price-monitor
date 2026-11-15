@@ -1,9 +1,13 @@
 # EU Price Monitor
 
 Daily competitor price monitoring for wireless headphones across five European online
-shops (PL, DE, NL, CZ, FR). Every morning a GitHub Actions job scrapes the shops,
+shops (PL, DE, NL, CZ, FR). Once a day a GitHub Actions job scrapes the shops,
 converts prices to EUR, matches the same product across countries, writes a Google
 Sheet and sends a Telegram message when something worth knowing has changed.
+
+Live sheet (view only): https://docs.google.com/spreadsheets/d/1zm2Rkn3MJ1a5YDWUSrEYy1Gu-66xqaF0XFRnoWEFifg/edit
+
+Example from 15 Nov 2026: JBL Tune Buds 2 Black costs €51.21 in Poland and €81.19 in the Czech Republic.
 
 **Prices** are collected exactly as each shop shows them: **VAT included, shipping excluded**.
 Cross-country comparisons use the shops' own offers only (marketplace partners are stored but flagged).
@@ -51,7 +55,7 @@ sites.yaml ──► scrapers (parallel, polite) ──► site health ──►
 2. **Judge site health** (`src/site_status.py`). A site is *stale* when it was blocked,
    crashed, or returned less than 70 % of its usual product count. A stale site's last
    known offers are carried over, marked stale and never alerted on.
-3. **Convert to EUR** with the ECB reference rates from [frankfurter.app](https://frankfurter.app),
+3. **Convert to EUR** with the ECB reference rates from [frankfurter.dev](https://frankfurter.dev),
    fetched once a day and cached. Original price and currency are always kept.
 4. **Match products** (`src/matching.py`) in three passes of decreasing reliability:
    identical EAN (check digit verified), identical part number of the same brand, then
@@ -83,7 +87,9 @@ and can be started by hand.
 GitHub cron uses **UTC and does not follow daylight saving time**. The job is scheduled
 at **07:17 UTC**, which is **08:17 in Warsaw in winter (CET)** and **09:17 in summer (CEST)**.
 It deliberately avoids `:00`, because scheduled runs at the top of the hour are often delayed.
-GitHub may still start a scheduled run a few minutes late.
+In practice GitHub started the job 7–9 hours late: scheduled runs began between
+14:13 and 16:00 UTC. If the run has to happen at a fixed time, trigger it from an
+external scheduler that calls the workflow's `workflow_dispatch` event.
 
 ### What one run does
 
