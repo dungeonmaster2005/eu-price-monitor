@@ -44,6 +44,11 @@
   "model": "MKFT4ZM/A",
   "brand": "Apple"
  },
+ "https://www.alternate.de/Apple/AirPods-Max-2-Mitternacht-Headset/html/product/100194385": {
+  "ean": "0195951039176",
+  "model": "MHWK4ZM/A",
+  "brand": "Apple"
+ },
  "https://www.alternate.de/Apple/AirPods-Max-Orange-Generalüberholt-Kopfhörer/html/product/100173355": {
   "ean": null,
   "model": null,
@@ -449,6 +454,16 @@
   "model": "SM-R640NZWAEUE",
   "brand": "Samsung"
  },
+ "https://www.alternate.de/Sony/PlayStation-PULSE-Wireless-Headset-Gaming-Headset/html/product/100229249": {
+  "ean": "0711719071204",
+  "model": null,
+  "brand": "Sony"
+ },
+ "https://www.alternate.de/Sony/PlayStation-PULSE-Wireless-Headset-Midnight-Black-Gaming-Headset/html/product/100229255": {
+  "ean": "0711719071273",
+  "model": null,
+  "brand": "Sony"
+ },
  "https://www.alternate.de/Sony/WH-1000XM5-Kopfhörer/html/product/1850651": {
   "ean": "4548736132580",
   "model": "WH1000XM5B.CE7",
@@ -633,6 +648,11 @@
   "ean": "4251192149275",
   "model": null,
   "brand": "tonies"
+ },
+ "https://www.coolblue.nl/product/891664/audio-technica-ath-m50xbt2.html": {
+  "ean": null,
+  "model": "ATH-M50xBT2",
+  "brand": "Audio-Technica"
  },
  "https://www.coolblue.nl/product/903790/sony-wi-c100-zwart.html": {
   "ean": null,
@@ -828,6 +848,11 @@
   "ean": null,
   "model": "A10600064",
   "brand": "Nothing Tech"
+ },
+ "https://www.coolblue.nl/product/948053/sonos-ace-wit.html": {
+  "ean": null,
+  "model": "ACEG1R21",
+  "brand": "Sonos"
  },
  "https://www.coolblue.nl/product/948054/sonos-ace-zwart.html": {
   "ean": null,
@@ -1444,6 +1469,11 @@
   "model": "JBLLIVEBUDS4SIL",
   "brand": "JBL"
  },
+ "https://www.coolblue.nl/product/979290/jbl-live-beam-4-zwart.html": {
+  "ean": null,
+  "model": "JBLLIVEBEAM4BLK",
+  "brand": "JBL"
+ },
  "https://www.coolblue.nl/product/979291/jbl-live-beam-4-blauw.html": {
   "ean": null,
   "model": "JBLLIVEBEAM4BLU",
@@ -1674,6 +1704,11 @@
   "model": "897806-0020",
   "brand": "Bose"
  },
+ "https://www.coolblue.nl/product/986820/bose-ultra-open-earbuds-2e-gen-groen.html": {
+  "ean": null,
+  "model": "897806-0040",
+  "brand": "Bose"
+ },
  "https://www.coolblue.nl/product/986821/bose-ultra-open-earbuds-2e-gen-zwart.html": {
   "ean": null,
   "model": "897806-0010",
@@ -1697,6 +1732,16 @@
  "https://www.coolblue.nl/product/987210/soundcore-aeroclip-2-zwart.html": {
   "ean": null,
   "model": "D1105G11",
+  "brand": "Soundcore"
+ },
+ "https://www.coolblue.nl/product/987211/soundcore-aeroclip-2-wit.html": {
+  "ean": null,
+  "model": "D1105G21",
+  "brand": "Soundcore"
+ },
+ "https://www.coolblue.nl/product/987213/soundcore-aeroclip-2-rood.html": {
+  "ean": null,
+  "model": "D1105G91",
   "brand": "Soundcore"
  },
  "https://www.coolblue.nl/product/987271/anker-soundcore-space-2-pro-zwart.html": {
@@ -2322,6 +2367,11 @@
  "https://www.ldlc.com/fiche/PB00673452.html": {
   "ean": "3662428121483",
   "model": "KASK-BT1635-BK",
+  "brand": "Avizar"
+ },
+ "https://www.ldlc.com/fiche/PB00673472.html": {
+  "ean": "3662428121414",
+  "model": "KASK-P2960-PK",
   "brand": "Avizar"
  },
  "https://www.ldlc.com/fiche/PB00673502.html": {
@@ -3534,6 +3584,11 @@
   "model": "A3954G11",
   "brand": "Anker"
  },
+ "https://www.morele.net/sluchawki-anker-soundcore-liberty-5-a3957g11-14935708/": {
+  "ean": "1946442913340",
+  "model": "A3957G11",
+  "brand": "Anker"
+ },
  "https://www.morele.net/sluchawki-anker-soundcore-liberty-5-pro-max-czarne-d1204g11-600407522/": {
   "ean": "194644307981",
   "model": "D1204G11",
@@ -3989,6 +4044,11 @@
   "model": null,
   "brand": "Moondrop"
  },
+ "https://www.morele.net/sluchawki-motorola-moto-buds-2-plus-silhouette-pg38c08061-600349862/": {
+  "ean": "840493609485",
+  "model": "PG38C08061",
+  "brand": "Motorola"
+ },
  "https://www.morele.net/sluchawki-nothing-buds-2-pro-czarne-15486786/": {
   "ean": "6974434222793",
   "model": "Ear Buds 2 pro",
@@ -4007,6 +4067,11 @@
  "https://www.morele.net/sluchawki-nothing-cmf-buds-2-szare-a10600098-14897491/": {
   "ean": "6974434225077",
   "model": "A10600098",
+  "brand": "Nothing"
+ },
+ "https://www.morele.net/sluchawki-nothing-cmf-buds-2-zielone-a10600099-14897494/": {
+  "ean": "6974434225053",
+  "model": "A10600099",
   "brand": "Nothing"
  },
  "https://www.morele.net/sluchawki-philips-tah3209bg-00-13293236/": {
