@@ -359,9 +359,19 @@
   "model": "NO",
   "brand": "Monster"
  },
+ "https://www.alternate.de/Motorola/moto-buds-2-Carbon-Kopfhörer/html/product/100198597": {
+  "ean": "0840493613628",
+  "model": "PG38C08162",
+  "brand": "Motorola"
+ },
  "https://www.alternate.de/Motorola/moto-buds-2-Gray-Mist-Kopfhörer/html/product/100198596": {
   "ean": "0840493613680",
   "model": "PG38C08170",
+  "brand": "Motorola"
+ },
+ "https://www.alternate.de/Motorola/moto-buds-2-Violet-Ice-Kopfhörer/html/product/100198595": {
+  "ean": "0840493613741",
+  "model": "PG38C08178",
   "brand": "Motorola"
  },
  "https://www.alternate.de/Motorola/moto-buds-2-plus-PANTONE-Cool-White-Kopfhörer/html/product/100198599": {
@@ -422,6 +432,11 @@
  "https://www.alternate.de/Razer/BlackShark-V2-Pro-für-Playstation-Gaming-Headset/html/product/100066547": {
   "ean": "8887910060735",
   "model": "RZ04-04530600-R3G1",
+  "brand": "Razer"
+ },
+ "https://www.alternate.de/Razer/BlackShark-V3-Pro-Counter-Strike-2-Edition-Gaming-Headset/html/product/100166616": {
+  "ean": "8887910061657",
+  "model": "RZ04-05400800-R3M1",
   "brand": "Razer"
  },
  "https://www.alternate.de/Razer/BlackShark-V3-for-PlayStation-Gaming-Headset/html/product/100145958": {
@@ -623,6 +638,11 @@
   "ean": "0731855051021",
   "model": "TBS-5102-05",
   "brand": "Turtle Beach"
+ },
+ "https://www.alternate.de/Xiaomi/Redmi-Buds-6-Night-Black-Kopfhörer/html/product/100119481": {
+  "ean": "6941812704660",
+  "model": null,
+  "brand": "Xiaomi"
  },
  "https://www.alternate.de/Xiaomi/Redmi-Buds-8-Active-Kopfhörer/html/product/100205904": {
   "ean": "6932554464233",
@@ -1439,6 +1459,11 @@
   "model": "JBLLIVE780NCBLU",
   "brand": "JBL"
  },
+ "https://www.coolblue.nl/product/979280/jbl-live-780nc-champagne.html": {
+  "ean": null,
+  "model": "JBLLIVE780NCCPG",
+  "brand": "JBL"
+ },
  "https://www.coolblue.nl/product/979281/jbl-live-780nc-wit.html": {
   "ean": null,
   "model": "JBLLIVE780NCWHT",
@@ -1858,6 +1883,11 @@
   "ean": "6940548421544",
   "model": "ATH-M50XBT2",
   "brand": "Audio-Technica"
+ },
+ "https://www.ldlc.com/fiche/PB00471244.html": {
+  "ean": "6925281987267",
+  "model": "JBLT510BTBLKEU",
+  "brand": "JBL"
  },
  "https://www.ldlc.com/fiche/PB00498066.html": {
   "ean": "6940548422350",
@@ -3010,7 +3040,7 @@
   "brand": "Fairphone"
  },
  "https://www.ldlc.com/fiche/PB00762742.html": {
-  "ean": null,
+  "ean": "0714346352623",
   "model": "FP47112",
   "brand": "B&W"
  },
@@ -3028,6 +3058,21 @@
   "ean": null,
   "model": "FP46612",
   "brand": "B&W"
+ },
+ "https://www.ldlc.com/fiche/PB00763679.html": {
+  "ean": "3662428405446",
+  "model": "BTS-B33S-BK",
+  "brand": "Avizar"
+ },
+ "https://www.ldlc.com/fiche/PB00763680.html": {
+  "ean": "3662428405453",
+  "model": "BTS-B33S-BL",
+  "brand": "Avizar"
+ },
+ "https://www.ldlc.com/fiche/PB00763681.html": {
+  "ean": "3662428405460",
+  "model": "BTS-B33S-BG",
+  "brand": "Avizar"
  },
  "https://www.mironet.cz/aiwa-ebtw150wt-bila-bezdratova-sluchatka-mikrofon-bluetooth-50+dp1015458/": {
   "ean": null,
@@ -4189,6 +4234,11 @@
   "model": "S6EVW-N740",
   "brand": "Skullcandy"
  },
+ "https://www.morele.net/sluchawki-sony-sluchawki-bluetooth-wh-ch520-12892033/": {
+  "ean": "5013493458925",
+  "model": "S7822532",
+  "brand": "Sony"
+ },
  "https://www.morele.net/sluchawki-sony-ult-wear-biale-wh-ult900n-13224885/": {
   "ean": "4548736158337",
   "model": "S7835328",
@@ -4308,6 +4358,11 @@
   "ean": "6941876256877",
   "model": "53125-0",
   "brand": "Ugreen"
+ },
+ "https://www.morele.net/sluchawki-urbanista-lisbon-midnight-black-9540614/": {
+  "ean": "7350088304082",
+  "model": null,
+  "brand": "Urbanista"
  },
  "https://www.morele.net/sluchawki-xiaomi-buds-5-czarne-bhr8118gl-14167034/": {
   "ean": "6941812768471",
