@@ -219,6 +219,11 @@
   "model": null,
   "brand": "Intenso"
  },
+ "https://www.alternate.de/Intenso/Buds-T300A-Kopfhörer/html/product/100008663": {
+  "ean": "4034303032990",
+  "model": null,
+  "brand": "Intenso"
+ },
  "https://www.alternate.de/Intenso/O400HA-Kopfhörer/html/product/100109875": {
   "ean": "4034303035458",
   "model": null,
@@ -257,6 +262,11 @@
  "https://www.alternate.de/Jabra/Evolve-65-TE-USB-A-UC-Stereo-Headset/html/product/100072912": {
   "ean": "5706991031539",
   "model": "6699-833-499",
+  "brand": "Jabra"
+ },
+ "https://www.alternate.de/Jabra/Evolve2-Buds-Kopfhörer/html/product/1876686": {
+  "ean": "5706991026603",
+  "model": "20797-999-889",
   "brand": "Jabra"
  },
  "https://www.alternate.de/Jabra/Evolve3-75-Headset/html/product/100188203": {
@@ -1119,6 +1129,11 @@
   "model": "WFC710NW.CE7",
   "brand": "Sony"
  },
+ "https://www.coolblue.nl/product/962240/soundcore-liberty-4-pro-wit.html": {
+  "ean": null,
+  "model": "A3954G21",
+  "brand": "Soundcore by Anker"
+ },
  "https://www.coolblue.nl/product/962241/soundcore-liberty-4-pro-zwart.html": {
   "ean": null,
   "model": "A3954GF1",
@@ -1219,10 +1234,20 @@
   "model": "896637-0020",
   "brand": "Bose"
  },
+ "https://www.coolblue.nl/product/965474/bose-quietcomfort-ultra-earbuds-2e-gen-rood.html": {
+  "ean": null,
+  "model": "896637-0030",
+  "brand": "Bose"
+ },
  "https://www.coolblue.nl/product/965476/bose-quietcomfort-headphones-roze.html": {
   "ean": null,
   "model": "884367-1500",
   "brand": "Bose"
+ },
+ "https://www.coolblue.nl/product/966502/nothing-headphone-1-wit.html": {
+  "ean": null,
+  "model": "A11300006",
+  "brand": "Nothing Tech"
  },
  "https://www.coolblue.nl/product/968190/samsung-galaxy-buds3-fe-grijs.html": {
   "ean": null,
@@ -1272,6 +1297,11 @@
  "https://www.coolblue.nl/product/970023/shokz-openswim-pro-usb-c-grijs.html": {
   "ean": null,
   "model": "S711-ST-GY",
+  "brand": "Shokz"
+ },
+ "https://www.coolblue.nl/product/970024/shokz-openswim-pro-usb-c-rood.html": {
+  "ean": null,
+  "model": "S711-ST-RD",
   "brand": "Shokz"
  },
  "https://www.coolblue.nl/product/970591/nothing-ear-3-zwart.html": {
@@ -1437,6 +1467,11 @@
  "https://www.coolblue.nl/product/977432/apple-airpods-max-2-blauw.html": {
   "ean": null,
   "model": "MHWM4ZM/A",
+  "brand": "Apple"
+ },
+ "https://www.coolblue.nl/product/977434/apple-airpods-max-2-paars.html": {
+  "ean": null,
+  "model": "MHWP4ZM/A",
   "brand": "Apple"
  },
  "https://www.coolblue.nl/product/978813/soundcore-aerofit-2-pro-blauw.html": {
@@ -1612,6 +1647,11 @@
  "https://www.coolblue.nl/product/983307/bose-quietcomfort-headphones-2nd-gen-zwart.html": {
   "ean": null,
   "model": "895491-0100",
+  "brand": "Bose"
+ },
+ "https://www.coolblue.nl/product/983309/bose-quietcomfort-headphones-2nd-gen-paars.html": {
+  "ean": null,
+  "model": "895491-0500",
   "brand": "Bose"
  },
  "https://www.coolblue.nl/product/983310/bose-quietcomfort-headphones-2nd-gen-groen.html": {
@@ -3654,6 +3694,11 @@
   "model": "A3004G11",
   "brand": "Anker"
  },
+ "https://www.morele.net/sluchawki-anker-soundcore-r60i-czarne-15759859/": {
+  "ean": "194644269470",
+  "model": "D1202G11",
+  "brand": "Anker"
+ },
  "https://www.morele.net/sluchawki-anker-soundcore-space-2-czarne-d1402g11-600407457/": {
   "ean": "194644306502",
   "model": "D1402G11",
@@ -3782,6 +3827,11 @@
  "https://www.morele.net/sluchawki-bose-quietcomfort-earbuds-2-czarne-888507-0100-14406344/": {
   "ean": "4049531251105",
   "model": "888507-0100",
+  "brand": "Bose"
+ },
+ "https://www.morele.net/sluchawki-bose-quietcomfort-ultra-czarne-880066-0100-13141221/": {
+  "ean": "017817846172",
+  "model": "880066-0100",
   "brand": "Bose"
  },
  "https://www.morele.net/sluchawki-bose-quietcomfort-ultra-earbuds-bialy-882826-0020-13178023/": {
@@ -3972,6 +4022,11 @@
  "https://www.morele.net/sluchawki-jbl-tune-680nc-czarne-jblt680ncblk-15794801/": {
   "ean": "1200130030444",
   "model": "JBLT680NCBLK",
+  "brand": "JBL"
+ },
+ "https://www.morele.net/sluchawki-jbl-tune-730bt-bezowe-jblt730btbeg-15700746/": {
+  "ean": "1200130029868",
+  "model": "JBLT730BTBEG",
   "brand": "JBL"
  },
  "https://www.morele.net/sluchawki-jbl-tune-730bt-biale-jblt730btwht-15700742/": {
@@ -4302,6 +4357,11 @@
  "https://www.morele.net/sluchawki-sony-whch720-niebieskie-whch720nl-ce7-12805159/": {
   "ean": "4548736143012",
   "model": "WHCH720NL.CE7",
+  "brand": "Sony"
+ },
+ "https://www.morele.net/sluchawki-sony-wi-c200-czarne-6296029/": {
+  "ean": "4548736099203",
+  "model": "WIC200B.CE7",
   "brand": "Sony"
  },
  "https://www.morele.net/sluchawki-soundcore-sleep-a20-biale-a6611g21-14206380/": {
