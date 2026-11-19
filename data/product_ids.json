@@ -194,6 +194,11 @@
   "model": "AUHEAD-1ZW-WW1",
   "brand": "Fairphone"
  },
+ "https://www.alternate.de/Fractal-Design/Scape-Light-Gaming-Headset/html/product/100096302": {
+  "ean": "7340172707967",
+  "model": "FD-HS-SCA1-02",
+  "brand": "Fractal Design"
+ },
  "https://www.alternate.de/Google/Pixel-Buds-Pro-Kopfhörer/html/product/1860655": {
   "ean": "0193575032344",
   "model": "GA03202-DE",
@@ -233,6 +238,11 @@
   "ean": "4034303035540",
   "model": null,
   "brand": "Intenso"
+ },
+ "https://www.alternate.de/JBL/TUNE-520BT-Kopfhörer/html/product/100218145": {
+  "ean": "6925281963650",
+  "model": "JBLT520BTBLK",
+  "brand": "JBL"
  },
  "https://www.alternate.de/JBL/TUNE-520BT-Kopfhörer/html/product/100218150": {
   "ean": "6925281963667",
@@ -1739,6 +1749,11 @@
   "model": null,
   "brand": "Sennheiser"
  },
+ "https://www.coolblue.nl/product/985427/sennheiser-momentum-true-wireless-5-blauw.html": {
+  "ean": null,
+  "model": null,
+  "brand": "Sennheiser"
+ },
  "https://www.coolblue.nl/product/985428/sennheiser-momentum-true-wireless-5-paars.html": {
   "ean": null,
   "model": null,
@@ -1822,6 +1837,11 @@
  "https://www.coolblue.nl/product/987289/anker-soundcore-liberty-buds-2-zwart.html": {
   "ean": null,
   "model": "D1206G11",
+  "brand": "Soundcore"
+ },
+ "https://www.coolblue.nl/product/987291/anker-soundcore-liberty-buds-2-paars.html": {
+  "ean": null,
+  "model": "D1206GQ1",
   "brand": "Soundcore"
  },
  "https://www.coolblue.nl/product/987375/skullcandy-crusher-1080-zwart.html": {
@@ -2844,6 +2864,11 @@
   "model": null,
   "brand": "MOOOV"
  },
+ "https://www.ldlc.com/fiche/PB00740505.html": {
+  "ean": "6933037205107",
+  "model": "5504ACTN",
+  "brand": "Honor"
+ },
  "https://www.ldlc.com/fiche/PB00740864.html": {
   "ean": "3420744802000",
   "model": null,
@@ -3113,6 +3138,11 @@
   "ean": "3662428405460",
   "model": "BTS-B33S-BG",
   "brand": "Avizar"
+ },
+ "https://www.ldlc.com/fiche/PB00764891.html": {
+  "ean": "6978292320073",
+  "model": "5504ADCY",
+  "brand": "Honor"
  },
  "https://www.mironet.cz/aiwa-ebtw150wt-bila-bezdratova-sluchatka-mikrofon-bluetooth-50+dp1015458/": {
   "ean": null,
@@ -3784,6 +3814,11 @@
   "model": null,
   "brand": "Baseus"
  },
+ "https://www.morele.net/sluchawki-baseus-bass-ep10-czarne-600383546/": {
+  "ean": "6953156212930",
+  "model": null,
+  "brand": "Baseus"
+ },
  "https://www.morele.net/sluchawki-baseus-bowie-e18-fioletowe-13232669/": {
   "ean": "6932172657239",
   "model": "BSU4885",
@@ -3842,6 +3877,11 @@
  "https://www.morele.net/sluchawki-bose-quietcomfort-ultra-gen2-biale-890101-0200-15596011/": {
   "ean": "0017817859561",
   "model": "890101-0200",
+  "brand": "Bose"
+ },
+ "https://www.morele.net/sluchawki-bose-quietcomfort-ultra-gen2-czarne-890101-0400-15648449/": {
+  "ean": "0017817859516",
+  "model": "890101-0400",
   "brand": "Bose"
  },
  "https://www.morele.net/sluchawki-creative-aurvana-ace-2-czarne-51ef1160aa000-13185533/": {
@@ -4332,6 +4372,11 @@
  "https://www.morele.net/sluchawki-sony-wh-1000xm6-niebieskie-wh1000xm6l-ce7-eu-15846166/": {
   "ean": "4548736162723",
   "model": "WH1000XM6L.CE7/EU",
+  "brand": "Sony"
+ },
+ "https://www.morele.net/sluchawki-sony-wh-ch520-biale-whch520w-ce7-12809599/": {
+  "ean": "5013493458901",
+  "model": "WHCH520W.CE7",
   "brand": "Sony"
  },
  "https://www.morele.net/sluchawki-sony-wh-ch520-czarne-whch520b-ce7-12809614/": {
