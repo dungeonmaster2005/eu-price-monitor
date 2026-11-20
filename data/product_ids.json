@@ -669,6 +669,11 @@
   "model": "BHR08JTGL",
   "brand": "Xiaomi"
  },
+ "https://www.alternate.de/Xiaomi/Redmi-Buds-8-Lite-Kopfhörer/html/product/100205909": {
+  "ean": "6932554471897",
+  "model": "BHR08OMGL",
+  "brand": "Xiaomi"
+ },
  "https://www.alternate.de/Xiaomi/Redmi-Buds-8-Lite-Kopfhörer/html/product/100205910": {
   "ean": "6932554471880",
   "model": "BHR08OLGL",
@@ -802,6 +807,11 @@
  "https://www.coolblue.nl/product/936949/bowers-wilkins-px7-s2e-blauw.html": {
   "ean": null,
   "model": "FP44539",
+  "brand": "Bowers & Wilkins"
+ },
+ "https://www.coolblue.nl/product/936950/bowers-wilkins-px7-s2e-groen.html": {
+  "ean": null,
+  "model": "FP44555",
   "brand": "Bowers & Wilkins"
  },
  "https://www.coolblue.nl/product/943645/sennheiser-momentum-4-wireless-grijs.html": {
@@ -1148,6 +1158,11 @@
   "ean": null,
   "model": "A3954GF1",
   "brand": "Soundcore by Anker"
+ },
+ "https://www.coolblue.nl/product/962253/beats-powerbeats-pro-2-creme.html": {
+  "ean": null,
+  "model": "MX733ZM/A",
+  "brand": "Beats"
  },
  "https://www.coolblue.nl/product/962722/sony-wh-1000xm6-zwart.html": {
   "ean": null,
@@ -3854,6 +3869,11 @@
   "model": null,
   "brand": "Blue Star"
  },
+ "https://www.morele.net/sluchawki-blue-star-buds-tx2-tws-czarne-15866039/": {
+  "ean": "5903396433603",
+  "model": null,
+  "brand": "Blue Star"
+ },
  "https://www.morele.net/sluchawki-bose-quietcomfort-czarne-884367-0100-13141222/": {
   "ean": "017817848961",
   "model": "884367-0100",
@@ -4219,6 +4239,11 @@
   "model": "TAH3209BG/00",
   "brand": "Philips"
  },
+ "https://www.morele.net/sluchawki-philips-tak5500rt-15649438/": {
+  "ean": "4895229160347",
+  "model": "TAK5500RT/00",
+  "brand": "Philips"
+ },
  "https://www.morele.net/sluchawki-philips-tat1209-czarne-tat1209bk-00-13267965/": {
   "ean": "4895229138056",
   "model": "TAT1209BK/00",
@@ -4529,6 +4554,11 @@
   "model": null,
   "brand": "Xiaomi"
  },
+ "https://www.morele.net/sluchawki-xiaomi-redmi-buds-8-biale-bhr08uhgl-600162932/": {
+  "ean": "6932554486532",
+  "model": "BHR08UHGL",
+  "brand": "Xiaomi"
+ },
  "https://www.morele.net/sluchawki-xiaomi-redmi-buds-8-lite-biale-bhr08olgl-15777669/": {
   "ean": "6932554471880",
   "model": "BHR08OLGL",
@@ -4666,6 +4696,11 @@
  },
  "https://www.planeo.cz/huawei-freebuds-se-3-black": {
   "ean": "6942103140112",
+  "model": null,
+  "brand": "Huawei"
+ },
+ "https://www.planeo.cz/huawei-freebuds-se-4-anc-blue": {
+  "ean": "6942103198953",
   "model": null,
   "brand": "Huawei"
  },
