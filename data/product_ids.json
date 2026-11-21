@@ -1269,6 +1269,11 @@
   "model": "884367-1500",
   "brand": "Bose"
  },
+ "https://www.coolblue.nl/product/965594/jlab-epic-open-sport-zwart.html": {
+  "ean": null,
+  "model": "IEUEBEPOPSPRTRBLK82",
+  "brand": "JLAB"
+ },
  "https://www.coolblue.nl/product/966502/nothing-headphone-1-wit.html": {
   "ean": null,
   "model": "A11300006",
@@ -1629,6 +1634,16 @@
   "model": "D1402G11",
   "brand": "Soundcore by Anker"
  },
+ "https://www.coolblue.nl/product/980347/soundcore-space-2-wit.html": {
+  "ean": null,
+  "model": "D1402G21",
+  "brand": "Soundcore by Anker"
+ },
+ "https://www.coolblue.nl/product/980348/soundcore-space-2-groen.html": {
+  "ean": null,
+  "model": "D1402G61",
+  "brand": "Soundcore by Anker"
+ },
  "https://www.coolblue.nl/product/980828/sennheiser-momentum-5-zwart.html": {
   "ean": null,
   "model": null,
@@ -1814,6 +1829,11 @@
   "model": "A11300047",
   "brand": "Nothing Tech"
  },
+ "https://www.coolblue.nl/product/986871/sennheiser-momentum-5-lavender.html": {
+  "ean": null,
+  "model": null,
+  "brand": "Sennheiser"
+ },
  "https://www.coolblue.nl/product/986872/sennheiser-momentum-5-copper.html": {
   "ean": null,
   "model": null,
@@ -1832,6 +1852,11 @@
  "https://www.coolblue.nl/product/987211/soundcore-aeroclip-2-wit.html": {
   "ean": null,
   "model": "D1105G21",
+  "brand": "Soundcore"
+ },
+ "https://www.coolblue.nl/product/987212/soundcore-aeroclip-2-blauw.html": {
+  "ean": null,
+  "model": "D1105G31",
   "brand": "Soundcore"
  },
  "https://www.coolblue.nl/product/987213/soundcore-aeroclip-2-rood.html": {
@@ -3894,6 +3919,11 @@
   "model": "882826-0020",
   "brand": "Bose"
  },
+ "https://www.morele.net/sluchawki-bose-quietcomfort-ultra-gen-2-czarne-890101-0100-15590565/": {
+  "ean": "0017817859585",
+  "model": "890101-0100",
+  "brand": "Bose"
+ },
  "https://www.morele.net/sluchawki-bose-quietcomfort-ultra-gen2-biale-890101-0200-15596011/": {
   "ean": "0017817859561",
   "model": "890101-0200",
@@ -3938,6 +3968,11 @@
   "ean": "5390660195723",
   "model": "51EF1040AA001",
   "brand": "Creative"
+ },
+ "https://www.morele.net/sluchawki-dewalt-dxma190-2093-dwg-15495025/": {
+  "ean": "826341052054",
+  "model": "DXMA190-2093-DWG",
+  "brand": "Dewalt"
  },
  "https://www.morele.net/sluchawki-dewalt-earbuds-dxma190-2097-dwg-15495024/": {
   "ean": "826341052375",
@@ -4234,6 +4269,11 @@
   "model": "A10600099",
   "brand": "Nothing"
  },
+ "https://www.morele.net/sluchawki-nothing-cmf-pro-ciemnoszare-15613255/": {
+  "ean": "6974434226722",
+  "model": "A11300008",
+  "brand": "Nothing"
+ },
  "https://www.morele.net/sluchawki-philips-tah3209bg-00-13293236/": {
   "ean": "4895229140622",
   "model": "TAH3209BG/00",
@@ -4273,6 +4313,11 @@
   "ean": "0193575032337",
   "model": "GA03201-DE",
   "brand": "Google"
+ },
+ "https://www.morele.net/sluchawki-poly-voyager-surround-85-uc-stand-czarne-8g7t7aa-13670757/": {
+  "ean": "196786456633",
+  "model": "8G7T7AA",
+  "brand": "Poly"
  },
  "https://www.morele.net/sluchawki-qcy-h3s-biale-600077293/": {
   "ean": "6957141411223",
