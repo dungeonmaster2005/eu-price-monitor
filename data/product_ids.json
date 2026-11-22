@@ -1554,6 +1554,11 @@
   "model": "JBLLIVEBUDS4BLK",
   "brand": "JBL"
  },
+ "https://www.coolblue.nl/product/979288/jbl-live-buds-4-champagne.html": {
+  "ean": null,
+  "model": "JBLLIVEBUDS4CPG",
+  "brand": "JBL"
+ },
  "https://www.coolblue.nl/product/979289/jbl-live-buds-4-zilver.html": {
   "ean": null,
   "model": "JBLLIVEBUDS4SIL",
@@ -3889,6 +3894,11 @@
   "model": "A00085701123-00",
   "brand": "Baseus"
  },
+ "https://www.morele.net/sluchawki-blow-bte200-32-818-9553833/": {
+  "ean": "5900804122883",
+  "model": "32-818#",
+  "brand": "Blow"
+ },
  "https://www.morele.net/sluchawki-blue-star-bk44-tws-czarne-14137279/": {
   "ean": "5903396281686",
   "model": null,
@@ -3984,6 +3994,11 @@
   "model": "DXMA190-2091-DWG",
   "brand": "Dewalt"
  },
+ "https://www.morele.net/sluchawki-dudao-u20-biale-15521043/": {
+  "ean": "6976625335626",
+  "model": null,
+  "brand": "Dudao"
+ },
  "https://www.morele.net/sluchawki-dudao-x22pro-biale-13223640/": {
   "ean": "6973687240462",
   "model": null,
@@ -4058,6 +4073,11 @@
   "ean": "6942103178733",
   "model": null,
   "brand": "Huawei"
+ },
+ "https://www.morele.net/sluchawki-infinix-xbuds-nc-xe28-czarne-15562282/": {
+  "ean": "4894947019234",
+  "model": null,
+  "brand": "Infinix"
  },
  "https://www.morele.net/sluchawki-jbl-tune-135bt-biale-jblt135btwht-15824885/": {
   "ean": "1200130026010",
@@ -4432,6 +4452,11 @@
  "https://www.morele.net/sluchawki-sony-wh-1000xm5-biale-11210746/": {
   "ean": "4548736132610",
   "model": "WH1000XM5S.CE7",
+  "brand": "Sony"
+ },
+ "https://www.morele.net/sluchawki-sony-wh-1000xm5-czarne-10818330/": {
+  "ean": "4548736132603",
+  "model": null,
   "brand": "Sony"
  },
  "https://www.morele.net/sluchawki-sony-wh-1000xm6-czarne-15251031/": {
