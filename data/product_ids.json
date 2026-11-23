@@ -144,6 +144,11 @@
   "model": "EY1A012",
   "brand": "ENDORFY"
  },
+ "https://www.alternate.de/ENDORFY/VIRO-Infra-Wireless-Gaming-Headset/html/product/100219228": {
+  "ean": "5903018667416",
+  "model": "EY1A008",
+  "brand": "ENDORFY"
+ },
  "https://www.alternate.de/ENDORFY/VIRO-Infra-Wireless-Onyx-White-Gaming-Headset/html/product/100219229": {
   "ean": "5903018668338",
   "model": "EY1A011",
@@ -163,6 +168,11 @@
   "ean": "5903018668895",
   "model": "EY1A016",
   "brand": "ENDORFY"
+ },
+ "https://www.alternate.de/EPOS-Sennheiser/ADAPT-260-Headset/html/product/1749996": {
+  "ean": "5714708006848",
+  "model": null,
+  "brand": "EPOS | Sennheiser"
  },
  "https://www.alternate.de/Fairphone/Fairbuds-2-Kopfhörer/html/product/100226886": {
   "ean": "8718819370789",
@@ -203,6 +213,21 @@
   "ean": "0193575032344",
   "model": "GA03202-DE",
   "brand": "Google"
+ },
+ "https://www.alternate.de/HP-Poly/Poly-Voyager-Focus-2-USB-C-C-Headset/html/product/100101059": {
+  "ean": "0198122157235",
+  "model": "9T9J5AA#AC3",
+  "brand": "HP Poly"
+ },
+ "https://www.alternate.de/HP-Poly/Poly-Voyager-Focus-2-USB-C-C-Headset/html/product/100101083": {
+  "ean": "0198122157242",
+  "model": "9T9J6AA#AC3",
+  "brand": "HP Poly"
+ },
+ "https://www.alternate.de/HP/Poly-Voyager-4320-Headset/html/product/100096731": {
+  "ean": "0197029611604",
+  "model": "77Z30AA",
+  "brand": "HP"
  },
  "https://www.alternate.de/HP/Poly-Voyager-Focus-2-USB-C-C-Headset/html/product/100101057": {
   "ean": "0198122157228",
@@ -852,6 +877,11 @@
  "https://www.coolblue.nl/product/946494/sony-ult-wear-groen.html": {
   "ean": null,
   "model": "WHULT900NH.CE7",
+  "brand": "Sony"
+ },
+ "https://www.coolblue.nl/product/946495/sony-ult-wear-wit.html": {
+  "ean": null,
+  "model": "WHULT900NW.CE7",
   "brand": "Sony"
  },
  "https://www.coolblue.nl/product/947607/soundcore-space-one-zwart.html": {
@@ -3749,6 +3779,11 @@
   "model": "A3957G11",
   "brand": "Anker"
  },
+ "https://www.morele.net/sluchawki-anker-soundcore-liberty-5-pro-czarne-d1203g11-600407521/": {
+  "ean": "194644308032",
+  "model": "D1203G11",
+  "brand": "Anker"
+ },
  "https://www.morele.net/sluchawki-anker-soundcore-liberty-5-pro-max-czarne-d1204g11-600407522/": {
   "ean": "194644307981",
   "model": "D1204G11",
@@ -3757,6 +3792,11 @@
  "https://www.morele.net/sluchawki-anker-soundcore-liberty-5-pro-max-zlote-d1204gb1-600189436/": {
   "ean": "194644308056",
   "model": "D1204GB1",
+  "brand": "Anker"
+ },
+ "https://www.morele.net/sluchawki-anker-soundcore-liberty-5-pro-rozowe-d1203g51-600738608/": {
+  "ean": "0194644307998",
+  "model": "D1203G51",
   "brand": "Anker"
  },
  "https://www.morele.net/sluchawki-anker-soundcore-life-q30-v2-czarne-a3028313-13749938/": {
@@ -4237,6 +4277,11 @@
  "https://www.morele.net/sluchawki-marshall-major-v-granatowe-15748992/": {
   "ean": "7340055408479",
   "model": null,
+  "brand": "Marshall"
+ },
+ "https://www.morele.net/sluchawki-marshall-major-v-kremowe-14742305/": {
+  "ean": "7340055401111",
+  "model": "M MAJORV-BT-BLK",
   "brand": "Marshall"
  },
  "https://www.morele.net/sluchawki-marshall-major-v-kremowy-14742305/": {
@@ -5058,6 +5103,11 @@
   "ean": "8590669376865",
   "model": null,
   "brand": "Sencor"
+ },
+ "https://www.planeo.cz/sennheiser-momentum-4-wireless-black": {
+  "ean": "4260752330435",
+  "model": null,
+  "brand": "Sennheiser"
  },
  "https://www.planeo.cz/shokz-openfit-air-black": {
   "ean": "810092678663",
