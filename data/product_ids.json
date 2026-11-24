@@ -1,4 +1,9 @@
 {
+ "https://www.alternate.de/ASUS/ROG-Cetra-Open-Wireless-Dusk-Pink-Edition-Gaming-Headset/html/product/100230271": {
+  "ean": "4711636674317",
+  "model": "90YH0450-BTUA10",
+  "brand": "ASUS"
+ },
  "https://www.alternate.de/ASUS/ROG-Cetra-Open-Wireless-Gaming-Headset/html/product/100192621": {
   "ean": "4711636232746",
   "model": "90YH0450-BTUA00",
@@ -234,6 +239,16 @@
   "model": "9T9J4AA#AC3",
   "brand": "HP"
  },
+ "https://www.alternate.de/Huawei/FreeClip-Kopfhörer/html/product/100034674": {
+  "ean": "6942103112225",
+  "model": null,
+  "brand": "Huawei"
+ },
+ "https://www.alternate.de/Huawei/FreeClip-Kopfhörer/html/product/100113955": {
+  "ean": "6942103141577",
+  "model": null,
+  "brand": "Huawei"
+ },
  "https://www.alternate.de/Intenso/Buds-Plus-T310AE-Headset/html/product/100066273": {
   "ean": "4034303034505",
   "model": null,
@@ -429,6 +444,11 @@
   "model": "PG38C08061",
   "brand": "Motorola"
  },
+ "https://www.alternate.de/Motorola/moto-buds-Bass-Blue-Jewel-Kopfhörer/html/product/100177256": {
+  "ean": "0840493607023",
+  "model": "PG38C07950",
+  "brand": "Motorola"
+ },
  "https://www.alternate.de/Nothing/Ear-Kopfhörer/html/product/100147127": {
   "ean": "6974434222175",
   "model": "A10600061",
@@ -542,6 +562,11 @@
  "https://www.alternate.de/Sony/WH-CH520-Kopfhörer/html/product/1906261": {
   "ean": "4548736142862",
   "model": "WHCH520L.CE7",
+  "brand": "Sony"
+ },
+ "https://www.alternate.de/Sony/WH-CH520-Kopfhörer/html/product/1906262": {
+  "ean": "4548736142817",
+  "model": "WHCH520W.CE7",
   "brand": "Sony"
  },
  "https://www.alternate.de/Sony/WH-ULT900NB-Headset/html/product/100060570": {
@@ -752,6 +777,11 @@
  "https://www.coolblue.nl/product/917585/bowers-wilkins-px8-zwart.html": {
   "ean": null,
   "model": "FP42951",
+  "brand": "Bowers & Wilkins"
+ },
+ "https://www.coolblue.nl/product/917586/bowers-wilkins-px8-bruin.html": {
+  "ean": null,
+  "model": "FP42978",
   "brand": "Bowers & Wilkins"
  },
  "https://www.coolblue.nl/product/923501/sony-wh-ch720n-zwart.html": {
@@ -1149,6 +1179,11 @@
   "model": "JBLTOM3AVILTT",
   "brand": "JBL"
  },
+ "https://www.coolblue.nl/product/960369/jbl-tour-one-m3-smart-tx-blauw.html": {
+  "ean": null,
+  "model": "JBLTOM3AVIBLU",
+  "brand": "JBL"
+ },
  "https://www.coolblue.nl/product/960553/sennheiser-momentum-true-wireless-4-goud.html": {
   "ean": null,
   "model": null,
@@ -1327,6 +1362,11 @@
  "https://www.coolblue.nl/product/968678/bose-quietcomfort-ultra-headphones-2e-gen-wit.html": {
   "ean": null,
   "model": "890101-0200",
+  "brand": "Bose"
+ },
+ "https://www.coolblue.nl/product/968679/bose-quietcomfort-ultra-headphones-2e-gen-goud.html": {
+  "ean": null,
+  "model": "890101-0400",
   "brand": "Bose"
  },
  "https://www.coolblue.nl/product/968681/bose-quietcomfort-ultra-headphones-2e-gen-paars.html": {
@@ -2602,6 +2642,11 @@
  "https://www.ldlc.com/fiche/PB00689864.html": {
   "ean": "3700460207571",
   "model": "M-215BTP",
+  "brand": "Muse"
+ },
+ "https://www.ldlc.com/fiche/PB00689875.html": {
+  "ean": "3700460207588",
+  "model": "M-215BTB",
   "brand": "Muse"
  },
  "https://www.ldlc.com/fiche/PB00691573.html": {
@@ -4029,6 +4074,11 @@
   "model": "DXMA190-2097-DWG",
   "brand": "Dewalt"
  },
+ "https://www.morele.net/sluchawki-dewalt-earbuds-pro-44h-dxma190-2096-dwg-600075429/": {
+  "ean": "826341057820",
+  "model": "DXMA190-2096-DWG",
+  "brand": "Dewalt"
+ },
  "https://www.morele.net/sluchawki-dewalt-jobsite-pro-dxma190-2091-dwg-15495017/": {
   "ean": "826341052047",
   "model": "DXMA190-2091-DWG",
@@ -4062,6 +4112,11 @@
  "https://www.morele.net/sluchawki-earfun-air-pro-4-czarne-tw600b-14386164/": {
   "ean": "6974173980503",
   "model": "TW600B",
+  "brand": "EarFun"
+ },
+ "https://www.morele.net/sluchawki-earfun-open-jump-czarne-ow100b-14780264/": {
+  "ean": "6974173980664",
+  "model": "OW100B",
   "brand": "EarFun"
  },
  "https://www.morele.net/sluchawki-economy-airpodss2-tws-biale-38340-600136224/": {
@@ -4337,6 +4392,11 @@
  "https://www.morele.net/sluchawki-nothing-cmf-pro-ciemnoszare-15613255/": {
   "ean": "6974434226722",
   "model": "A11300008",
+  "brand": "Nothing"
+ },
+ "https://www.morele.net/sluchawki-nothing-ear-2024-czarne-13247000/": {
+  "ean": "6974434222175",
+  "model": "S7835597",
   "brand": "Nothing"
  },
  "https://www.morele.net/sluchawki-philips-tah3209bg-00-13293236/": {
@@ -4861,6 +4921,11 @@
  },
  "https://www.planeo.cz/jbl-quantum-350-wireless": {
   "ean": "6925281986499",
+  "model": null,
+  "brand": "JBL"
+ },
+ "https://www.planeo.cz/jbl-quantum-610": {
+  "ean": "6925281997860",
   "model": null,
   "brand": "JBL"
  },
