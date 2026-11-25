@@ -734,6 +734,11 @@
   "model": null,
   "brand": "tonies"
  },
+ "https://www.alternate.de/tonies/Bluetooth-Kopfhörer-Meeresgrün/html/product/100182656": {
+  "ean": "4251192149312",
+  "model": null,
+  "brand": "tonies"
+ },
  "https://www.alternate.de/tonies/Bluetooth-Kopfhörer-Rosa/html/product/100146393": {
   "ean": "4251192149336",
   "model": null,
@@ -1802,6 +1807,11 @@
  "https://www.coolblue.nl/product/984495/jbl-tune-flex-3-zwart.html": {
   "ean": null,
   "model": "JBLTFLEX3BLKEU",
+  "brand": "JBL"
+ },
+ "https://www.coolblue.nl/product/984497/jbl-tune-beam-3-zwart.html": {
+  "ean": null,
+  "model": "JBLTBEAM3BLKEU",
   "brand": "JBL"
  },
  "https://www.coolblue.nl/product/985301/sony-wh-ch735n-zwart.html": {
@@ -4399,6 +4409,11 @@
   "model": "S7835597",
   "brand": "Nothing"
  },
+ "https://www.morele.net/sluchawki-oppo-enco-air5s-czarne-600459206/": {
+  "ean": "6932169389099",
+  "model": null,
+  "brand": "Oppo"
+ },
  "https://www.morele.net/sluchawki-philips-tah3209bg-00-13293236/": {
   "ean": "4895229140622",
   "model": "TAH3209BG/00",
@@ -4511,6 +4526,11 @@
  },
  "https://www.morele.net/sluchawki-sennheiser-momentum-4-grafitowe-13987650/": {
   "ean": "4260752332569",
+  "model": null,
+  "brand": "Sennheiser"
+ },
+ "https://www.morele.net/sluchawki-sennheiser-momentum-true-wireless-5-kremowe-600561462/": {
+  "ean": "4260752332163",
   "model": null,
   "brand": "Sennheiser"
  },
