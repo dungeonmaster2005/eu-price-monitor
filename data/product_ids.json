@@ -579,6 +579,21 @@
   "model": "WIC100L.CE7",
   "brand": "Sony"
  },
+ "https://www.alternate.de/SteelSeries/Arctis-GameBuds-für-PlayStation-Fortnite-Peely-Edition-Kopfhörer/html/product/100228922": {
+  "ean": "5707119069571",
+  "model": null,
+  "brand": "SteelSeries"
+ },
+ "https://www.alternate.de/SteelSeries/Arctis-GameBuds-für-PlayStation-Matcha-Kopfhörer/html/product/100228930": {
+  "ean": "5707119069229",
+  "model": null,
+  "brand": "SteelSeries"
+ },
+ "https://www.alternate.de/SteelSeries/Arctis-GameBuds-für-PlayStation-Yuzu-Kopfhörer/html/product/100228940": {
+  "ean": "5707119069243",
+  "model": null,
+  "brand": "SteelSeries"
+ },
  "https://www.alternate.de/SteelSeries/Arctis-GameBuds-für-Playstation-Kopfhörer/html/product/100096587": {
   "ean": "5707119057226",
   "model": null,
@@ -586,6 +601,16 @@
  },
  "https://www.alternate.de/SteelSeries/Arctis-GameBuds-für-Playstation-Kopfhörer/html/product/100096591": {
   "ean": "5707119059206",
+  "model": null,
+  "brand": "SteelSeries"
+ },
+ "https://www.alternate.de/SteelSeries/Arctis-GameBuds-für-Xbox-Matcha-Kopfhörer/html/product/100229001": {
+  "ean": "5707119069281",
+  "model": null,
+  "brand": "SteelSeries"
+ },
+ "https://www.alternate.de/SteelSeries/Arctis-GameBuds-für-Xbox-Yuzu-Kopfhörer/html/product/100229002": {
+  "ean": "5707119069267",
   "model": null,
   "brand": "SteelSeries"
  },
@@ -1349,6 +1374,11 @@
   "model": "A11300006",
   "brand": "Nothing Tech"
  },
+ "https://www.coolblue.nl/product/966503/nothing-headphone-1-zwart.html": {
+  "ean": null,
+  "model": "A11300003",
+  "brand": "Nothing Tech"
+ },
  "https://www.coolblue.nl/product/968190/samsung-galaxy-buds3-fe-grijs.html": {
   "ean": null,
   "model": "SM-R420NZAAEUB",
@@ -1453,6 +1483,11 @@
   "ean": null,
   "model": "AUHEAD-2GR-EU2",
   "brand": "Fairphone"
+ },
+ "https://www.coolblue.nl/product/974609/jbl-tune-255nc-tws-zwart.html": {
+  "ean": null,
+  "model": "JBLT255NCBLK",
+  "brand": "JBL"
  },
  "https://www.coolblue.nl/product/974683/bowers-wilkins-px8-s2-mclaren.html": {
   "ean": null,
@@ -3839,6 +3874,11 @@
   "model": "D1203G11",
   "brand": "Anker"
  },
+ "https://www.morele.net/sluchawki-anker-soundcore-liberty-5-pro-max-biale-d1203g21-600407523/": {
+  "ean": "194644308018",
+  "model": "D1203G21",
+  "brand": "Anker"
+ },
  "https://www.morele.net/sluchawki-anker-soundcore-liberty-5-pro-max-czarne-d1204g11-600407522/": {
   "ean": "194644307981",
   "model": "D1204G11",
@@ -4259,6 +4299,11 @@
   "model": "JBLT730BTBLK",
   "brand": "JBL"
  },
+ "https://www.morele.net/sluchawki-jbl-tune-730bt-fioletowe-jblt730btlav-600406950/": {
+  "ean": "1200130038136",
+  "model": "JBLT730BTLAV",
+  "brand": "JBL"
+ },
  "https://www.morele.net/sluchawki-jbl-tune-730bt-niebieskie-jblt730btblu-15743105/": {
   "ean": "1200130029851",
   "model": "JBLT730BTBLU",
@@ -4314,6 +4359,11 @@
   "model": "JBLWBUDS2BLK",
   "brand": "JBL"
  },
+ "https://www.morele.net/sluchawki-jlab-audio-go-air-sport-zielone-ieuebgairsprtrtel124-13093753/": {
+  "ean": "812887019705",
+  "model": "IEUEBGAIRSPRTRTEL124",
+  "brand": "JLab Audio"
+ },
  "https://www.morele.net/sluchawki-lenovo-wireless-stereo-headset-4xd1q30302-14173044/": {
   "ean": "195892104292",
   "model": "4XD1Q30302",
@@ -4323,6 +4373,11 @@
   "ean": "0199251514647",
   "model": "981-001458",
   "brand": "Logitech"
+ },
+ "https://www.morele.net/sluchawki-marshall-major-iv-brazowy-217416-10154640/": {
+  "ean": "7340055388665",
+  "model": null,
+  "brand": "Marshall"
  },
  "https://www.morele.net/sluchawki-marshall-major-iv-czarny-001922580000-8375295/": {
   "ean": "7340055379458",
@@ -4408,6 +4463,11 @@
   "ean": "6974434222175",
   "model": "S7835597",
   "brand": "Nothing"
+ },
+ "https://www.morele.net/sluchawki-oppo-enco-air5s-biale-600459205/": {
+  "ean": "6932169389082",
+  "model": null,
+  "brand": "Oppo"
  },
  "https://www.morele.net/sluchawki-oppo-enco-air5s-czarne-600459206/": {
   "ean": "6932169389099",
@@ -4526,6 +4586,11 @@
  },
  "https://www.morele.net/sluchawki-sennheiser-momentum-4-grafitowe-13987650/": {
   "ean": "4260752332569",
+  "model": null,
+  "brand": "Sennheiser"
+ },
+ "https://www.morele.net/sluchawki-sennheiser-momentum-true-wireless-5-grafitowe-600561465/": {
+  "ean": "4260752332156",
   "model": null,
   "brand": "Sennheiser"
  },
