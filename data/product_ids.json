@@ -54,6 +54,11 @@
   "model": "MHWK4ZM/A",
   "brand": "Apple"
  },
+ "https://www.alternate.de/Apple/AirPods-Max-2-Polarstern-Headset/html/product/100194386": {
+  "ean": "0195951039299",
+  "model": "MHWL4ZM/A",
+  "brand": "Apple"
+ },
  "https://www.alternate.de/Apple/AirPods-Max-Orange-Generalüberholt-Kopfhörer/html/product/100173355": {
   "ean": null,
   "model": null,
@@ -524,6 +529,11 @@
   "model": "SM-R540NZWAEUB",
   "brand": "Samsung"
  },
+ "https://www.alternate.de/Samsung/Galaxy-Buds-4-Pro-Kopfhörer/html/product/100191816": {
+  "ean": "8806097984832",
+  "model": "SM-R640NZKADBT",
+  "brand": "Samsung"
+ },
  "https://www.alternate.de/Samsung/Galaxy-Buds-4-Pro-Kopfhörer/html/product/100207425": {
   "ean": "8806097984658",
   "model": "SM-R640NZKAEUE",
@@ -773,6 +783,11 @@
   "ean": "4251192149275",
   "model": null,
   "brand": "tonies"
+ },
+ "https://www.coolblue.nl/product/871043/pioneer-dj-hdj-cue1bt-zwart.html": {
+  "ean": null,
+  "model": "HCJ-CUE1BT-K",
+  "brand": "Pioneer"
  },
  "https://www.coolblue.nl/product/891664/audio-technica-ath-m50xbt2.html": {
   "ean": null,
@@ -1117,6 +1132,11 @@
  "https://www.coolblue.nl/product/953954/bose-quietcomfort-earbuds-zwart.html": {
   "ean": null,
   "model": "888507-0100",
+  "brand": "Bose"
+ },
+ "https://www.coolblue.nl/product/953955/bose-quietcomfort-earbuds-creme.html": {
+  "ean": null,
+  "model": "888507-0200",
   "brand": "Bose"
  },
  "https://www.coolblue.nl/product/954346/apple-airpods-4-active-noise-cancellation.html": {
@@ -1617,6 +1637,11 @@
  "https://www.coolblue.nl/product/978813/soundcore-aerofit-2-pro-blauw.html": {
   "ean": null,
   "model": "A3875G31",
+  "brand": "Soundcore by Anker"
+ },
+ "https://www.coolblue.nl/product/978814/soundcore-aerofit-2-pro-paars.html": {
+  "ean": null,
+  "model": "A3875GQ1",
   "brand": "Soundcore by Anker"
  },
  "https://www.coolblue.nl/product/979274/jbl-live-680nc-zwart.html": {
@@ -4132,6 +4157,11 @@
  "https://www.morele.net/sluchawki-dewalt-jobsite-pro-dxma190-2091-dwg-15495017/": {
   "ean": "826341052047",
   "model": "DXMA190-2091-DWG",
+  "brand": "Dewalt"
+ },
+ "https://www.morele.net/sluchawki-dewalt-jobsite-pro-max-dxma190-2093-dwg-15495025/": {
+  "ean": "826341052054",
+  "model": "DXMA190-2093-DWG",
   "brand": "Dewalt"
  },
  "https://www.morele.net/sluchawki-dudao-u20-biale-15521043/": {

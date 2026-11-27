@@ -13,7 +13,7 @@
   "seller": "ALTERNATE",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.alternate.de/ASUS/ROG-Cetra-Open-Wireless-Gaming-Headset/html/product/100192621": {
   "site": "alternate_de",
@@ -29,7 +29,7 @@
   "seller": "ALTERNATE",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.alternate.de/ASUS/ROG-Cetra-True-Wireless-SpeedNova-Gaming-Headset/html/product/100063043": {
   "site": "alternate_de",
@@ -45,7 +45,7 @@
   "seller": "ALTERNATE",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.alternate.de/ASUS/ROG-Cetra-True-Wireless-SpeedNova-Gaming-Headset/html/product/100063065": {
   "site": "alternate_de",
@@ -61,7 +61,7 @@
   "seller": "ALTERNATE",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.alternate.de/ASUS/ROG-DELTA-II-KJP-Gaming-Headset/html/product/100220218": {
   "site": "alternate_de",
@@ -77,7 +77,7 @@
   "seller": "ALTERNATE",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.alternate.de/ASUS/ROG-Delta-II-Gaming-Headset/html/product/100081690": {
   "site": "alternate_de",
@@ -93,7 +93,7 @@
   "seller": "ALTERNATE",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.alternate.de/ASUS/ROG-Delta-II-Gaming-Headset/html/product/100139830": {
   "site": "alternate_de",
@@ -109,7 +109,7 @@
   "seller": "ALTERNATE",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.alternate.de/ASUS/ROG-Pelta-Gaming-Headset/html/product/100098263": {
   "site": "alternate_de",
@@ -125,7 +125,7 @@
   "seller": "ALTERNATE",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.alternate.de/ASUS/ROG-Pelta-Gaming-Headset/html/product/100162218": {
   "site": "alternate_de",
@@ -141,7 +141,7 @@
   "seller": "ALTERNATE",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.alternate.de/Apple/AirPods-5-mit-kabellosem-Ladecase-Kopfhörer/html/product/100221016": {
   "site": "alternate_de",
@@ -157,7 +157,7 @@
   "seller": "ALTERNATE",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.alternate.de/Apple/AirPods-Max-2-Mitternacht-Headset/html/product/100194385": {
   "site": "alternate_de",
@@ -166,14 +166,30 @@
   "price": "535.00",
   "currency": "EUR",
   "url": "https://www.alternate.de/Apple/AirPods-Max-2-Mitternacht-Headset/html/product/100194385",
-  "in_stock": null,
+  "in_stock": true,
   "model": "MHWK4ZM/A",
   "ean": "0195951039176",
   "brand": "Apple",
   "seller": "ALTERNATE",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
+ },
+ "https://www.alternate.de/Apple/AirPods-Max-2-Polarstern-Headset/html/product/100194386": {
+  "site": "alternate_de",
+  "country": "DE",
+  "name": "Apple AirPods Max 2 Polarstern, Headset beige",
+  "price": "536.00",
+  "currency": "EUR",
+  "url": "https://www.alternate.de/Apple/AirPods-Max-2-Polarstern-Headset/html/product/100194386",
+  "in_stock": true,
+  "model": "MHWL4ZM/A",
+  "ean": "0195951039299",
+  "brand": "Apple",
+  "seller": "ALTERNATE",
+  "is_official": true,
+  "condition": "new",
+  "last_seen": "2026-11-27"
  },
  "https://www.alternate.de/Apple/AirPods-Max-Orange-Generalüberholt-Kopfhörer/html/product/100173355": {
   "site": "alternate_de",
@@ -285,7 +301,7 @@
   "seller": "ALTERNATE",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.alternate.de/Audeze/Maxwell-2-ANC-Wireless-Gaming-Headset/html/product/100213370": {
   "site": "alternate_de",
@@ -301,7 +317,7 @@
   "seller": "ALTERNATE",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.alternate.de/Audeze/Maxwell-2-ANC-Wireless-Gaming-Headset/html/product/100213371": {
   "site": "alternate_de",
@@ -317,7 +333,7 @@
   "seller": "ALTERNATE",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.alternate.de/Audeze/Maxwell-2-Wireless-Gaming-Headset/html/product/100181119": {
   "site": "alternate_de",
@@ -326,14 +342,14 @@
   "price": "359.00",
   "currency": "EUR",
   "url": "https://www.alternate.de/Audeze/Maxwell-2-Wireless-Gaming-Headset/html/product/100181119",
-  "in_stock": null,
+  "in_stock": true,
   "model": null,
   "ean": "0819343015684",
   "brand": "Audeze",
   "seller": "ALTERNATE",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.alternate.de/Audeze/Maxwell-2-Wireless-Gaming-Headset/html/product/100181121": {
   "site": "alternate_de",
@@ -349,7 +365,7 @@
   "seller": "ALTERNATE",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.alternate.de/Audio-Technica/ATH-M20XBT-Kopfhörer/html/product/1873674": {
   "site": "alternate_de",
@@ -365,7 +381,7 @@
   "seller": "ALTERNATE",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.alternate.de/Audio-Technica/ATH-M20XBTWH-Kopfhörer/html/product/100043180": {
   "site": "alternate_de",
@@ -397,7 +413,7 @@
   "seller": "ALTERNATE",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-25"
+  "last_seen": "2026-11-27"
  },
  "https://www.alternate.de/Corsair/HS35-v3-Wireless-Gaming-Headset/html/product/100204248": {
   "site": "alternate_de",
@@ -413,7 +429,7 @@
   "seller": "ALTERNATE",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.alternate.de/Corsair/HS55-Wireless-Gaming-Headset/html/product/1896593": {
   "site": "alternate_de",
@@ -429,7 +445,7 @@
   "seller": "ALTERNATE",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.alternate.de/Corsair/Virtuoso-RGB-Wireless-XT-Gaming-Headset/html/product/1761075": {
   "site": "alternate_de",
@@ -445,7 +461,7 @@
   "seller": "ALTERNATE",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.alternate.de/Dell/WL3024-Headset/html/product/100035009": {
   "site": "alternate_de",
@@ -461,7 +477,7 @@
   "seller": "ALTERNATE",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.alternate.de/ENDORFY/VIRO-Infra-Wireless-Alt-Gray-Gaming-Headset/html/product/100219231": {
   "site": "alternate_de",
@@ -477,7 +493,7 @@
   "seller": "ALTERNATE",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.alternate.de/ENDORFY/VIRO-Infra-Wireless-Gaming-Headset/html/product/100219228": {
   "site": "alternate_de",
@@ -493,7 +509,7 @@
   "seller": "ALTERNATE",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.alternate.de/ENDORFY/VIRO-Infra-Wireless-Onyx-White-Gaming-Headset/html/product/100219229": {
   "site": "alternate_de",
@@ -509,7 +525,7 @@
   "seller": "ALTERNATE",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.alternate.de/ENDORFY/VIRO-Wireless-Alt-Gray-Gaming-Headset/html/product/100219233": {
   "site": "alternate_de",
@@ -525,7 +541,7 @@
   "seller": "ALTERNATE",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.alternate.de/ENDORFY/VIRO-Wireless-Gaming-Headset/html/product/100219232": {
   "site": "alternate_de",
@@ -541,7 +557,7 @@
   "seller": "ALTERNATE",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.alternate.de/ENDORFY/VIRO-Wireless-Onyx-White-Gaming-Headset/html/product/100219234": {
   "site": "alternate_de",
@@ -557,7 +573,7 @@
   "seller": "ALTERNATE",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.alternate.de/EPOS-Sennheiser/ADAPT-260-Headset/html/product/1749996": {
   "site": "alternate_de",
@@ -573,7 +589,7 @@
   "seller": "ALTERNATE",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.alternate.de/Fairphone/Fairbuds-2-Kopfhörer/html/product/100226886": {
   "site": "alternate_de",
@@ -621,7 +637,7 @@
   "seller": "ALTERNATE",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.alternate.de/Fairphone/Fairbuds-XL-2025-Forest-Green-Kopfhörer/html/product/100174314": {
   "site": "alternate_de",
@@ -637,7 +653,7 @@
   "seller": "ALTERNATE",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.alternate.de/Fairphone/Fairbuds-XL-2025-Horizon-Black-Kopfhörer/html/product/100174310": {
   "site": "alternate_de",
@@ -653,7 +669,7 @@
   "seller": "ALTERNATE",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.alternate.de/Fairphone/Fairbuds-XL-Kopfhörer/html/product/100012244": {
   "site": "alternate_de",
@@ -669,7 +685,7 @@
   "seller": "ALTERNATE",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.alternate.de/Fractal-Design/Scape-Light-Gaming-Headset/html/product/100096302": {
   "site": "alternate_de",
@@ -685,7 +701,7 @@
   "seller": "ALTERNATE",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.alternate.de/Google/Pixel-Buds-Pro-Kopfhörer/html/product/1860655": {
   "site": "alternate_de",
@@ -717,7 +733,7 @@
   "seller": "ALTERNATE",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.alternate.de/HP-Poly/Poly-Voyager-Focus-2-USB-C-C-Headset/html/product/100101083": {
   "site": "alternate_de",
@@ -733,7 +749,7 @@
   "seller": "ALTERNATE",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.alternate.de/HP/Poly-Voyager-4320-Headset/html/product/100096731": {
   "site": "alternate_de",
@@ -749,7 +765,7 @@
   "seller": "ALTERNATE",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.alternate.de/HP/Poly-Voyager-Focus-2-USB-C-C-Headset/html/product/100101057": {
   "site": "alternate_de",
@@ -774,14 +790,14 @@
   "price": "96.90",
   "currency": "EUR",
   "url": "https://www.alternate.de/Huawei/FreeClip-Kopfhörer/html/product/100034674",
-  "in_stock": null,
+  "in_stock": true,
   "model": null,
   "ean": "6942103112225",
   "brand": "Huawei",
   "seller": "ALTERNATE",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.alternate.de/Huawei/FreeClip-Kopfhörer/html/product/100113955": {
   "site": "alternate_de",
@@ -790,14 +806,14 @@
   "price": "99.90",
   "currency": "EUR",
   "url": "https://www.alternate.de/Huawei/FreeClip-Kopfhörer/html/product/100113955",
-  "in_stock": null,
+  "in_stock": true,
   "model": null,
   "ean": "6942103141577",
   "brand": "Huawei",
   "seller": "ALTERNATE",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.alternate.de/Intenso/Buds-Plus-T310AE-Headset/html/product/100066273": {
   "site": "alternate_de",
@@ -813,7 +829,7 @@
   "seller": "ALTERNATE",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.alternate.de/Intenso/Buds-Plus-T310AE-Headset/html/product/100066275": {
   "site": "alternate_de",
@@ -829,7 +845,7 @@
   "seller": "ALTERNATE",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-25"
+  "last_seen": "2026-11-27"
  },
  "https://www.alternate.de/Intenso/Buds-Pro-T500HAE-Headset/html/product/100066282": {
   "site": "alternate_de",
@@ -845,7 +861,7 @@
   "seller": "ALTERNATE",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.alternate.de/Intenso/Buds-T300A-Kopfhörer/html/product/100008663": {
   "site": "alternate_de",
@@ -877,7 +893,7 @@
   "seller": "ALTERNATE",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.alternate.de/Intenso/O400HA-Kopfhörer/html/product/100109896": {
   "site": "alternate_de",
@@ -893,7 +909,7 @@
   "seller": "ALTERNATE",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.alternate.de/JBL/TUNE-520BT-Kopfhörer/html/product/100218145": {
   "site": "alternate_de",
@@ -925,7 +941,7 @@
   "seller": "ALTERNATE",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.alternate.de/JBL/Tour-One-M3-Kopfhörer/html/product/100220856": {
   "site": "alternate_de",
@@ -941,7 +957,7 @@
   "seller": "ALTERNATE",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.alternate.de/JBL/Tune-680NC-Kopfhörer/html/product/100218147": {
   "site": "alternate_de",
@@ -957,7 +973,7 @@
   "seller": "ALTERNATE",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.alternate.de/Jabra/Evolve-65-TE-USB-A-MS-Stereo-Headset/html/product/100072907": {
   "site": "alternate_de",
@@ -973,7 +989,7 @@
   "seller": "ALTERNATE",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.alternate.de/Jabra/Evolve-65-TE-USB-A-UC-Stereo-Headset/html/product/100072911": {
   "site": "alternate_de",
@@ -989,7 +1005,7 @@
   "seller": "ALTERNATE",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.alternate.de/Jabra/Evolve-65-TE-USB-A-UC-Stereo-Headset/html/product/100072912": {
   "site": "alternate_de",
@@ -1005,7 +1021,7 @@
   "seller": "ALTERNATE",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.alternate.de/Jabra/Evolve2-Buds-Kopfhörer/html/product/1876686": {
   "site": "alternate_de",
@@ -1021,7 +1037,7 @@
   "seller": "ALTERNATE",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.alternate.de/Jabra/Evolve3-75-Headset/html/product/100188203": {
   "site": "alternate_de",
@@ -1037,7 +1053,7 @@
   "seller": "ALTERNATE",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.alternate.de/Jabra/Evolve3-75-Headset/html/product/100188679": {
   "site": "alternate_de",
@@ -1069,7 +1085,7 @@
   "seller": "ALTERNATE",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.alternate.de/Jabra/Evolve3-85-Headset/html/product/100186953": {
   "site": "alternate_de",
@@ -1085,7 +1101,7 @@
   "seller": "ALTERNATE",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.alternate.de/Jabra/Evolve3-85-Headset/html/product/100188207": {
   "site": "alternate_de",
@@ -1101,7 +1117,7 @@
   "seller": "ALTERNATE",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.alternate.de/Jabra/Evolve3-85-Headset/html/product/100188680": {
   "site": "alternate_de",
@@ -1133,7 +1149,7 @@
   "seller": "ALTERNATE",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.alternate.de/Jabra/Evolve3-85-Headset/html/product/100195384": {
   "site": "alternate_de",
@@ -1181,13 +1197,13 @@
   "seller": "ALTERNATE",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.alternate.de/Lindy/L118-Kabelloses-Büro-Headset-mit-Ladestation-20450-/html/product/100201720": {
   "site": "alternate_de",
   "country": "DE",
   "name": "Lindy L118 Kabelloses Büro-Headset mit Ladestation (20450) schwarz",
-  "price": "92.90",
+  "price": "91.90",
   "currency": "EUR",
   "url": "https://www.alternate.de/Lindy/L118-Kabelloses-Büro-Headset-mit-Ladestation-20450-/html/product/100201720",
   "in_stock": true,
@@ -1197,7 +1213,7 @@
   "seller": "ALTERNATE",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.alternate.de/Lindy/LH900XW-Kopfhörer/html/product/1786601": {
   "site": "alternate_de",
@@ -1213,7 +1229,7 @@
   "seller": "ALTERNATE",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.alternate.de/Logitech-Gaming/G435-LIGHTSPEED-Gaming-Headset/html/product/1782307": {
   "site": "alternate_de",
@@ -1229,7 +1245,7 @@
   "seller": "ALTERNATE",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-22"
+  "last_seen": "2026-11-27"
  },
  "https://www.alternate.de/Logitech/Zone-Vibe-100-Headset/html/product/1864119": {
   "site": "alternate_de",
@@ -1245,7 +1261,7 @@
   "seller": "ALTERNATE",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.alternate.de/Medion/Life-HE-1-Kids-Bluetooth-Kinderkopfhörer/html/product/100225741": {
   "site": "alternate_de",
@@ -1261,7 +1277,7 @@
   "seller": "ALTERNATE",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.alternate.de/Medion/Life-HE-1-Kids-Bluetooth-Kinderkopfhörer/html/product/100225744": {
   "site": "alternate_de",
@@ -1277,7 +1293,7 @@
   "seller": "ALTERNATE",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.alternate.de/Medion/Life-HE-1-Kids-Bluetooth-Kinderkopfhörer/html/product/100225748": {
   "site": "alternate_de",
@@ -1293,7 +1309,7 @@
   "seller": "ALTERNATE",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.alternate.de/Medion/Life-HX-1-Plus-ANC-Over-Ear-Kopfhörer/html/product/100225738": {
   "site": "alternate_de",
@@ -1309,7 +1325,7 @@
   "seller": "ALTERNATE",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.alternate.de/Medion/Life-HX1-Pure-Over-Ear-Kopfhörer/html/product/100225735": {
   "site": "alternate_de",
@@ -1325,7 +1341,7 @@
   "seller": "ALTERNATE",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.alternate.de/Monster/Compete-Kopfhörer/html/product/1899148": {
   "site": "alternate_de",
@@ -1357,7 +1373,7 @@
   "seller": "ALTERNATE",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.alternate.de/Motorola/moto-buds-2-Gray-Mist-Kopfhörer/html/product/100198596": {
   "site": "alternate_de",
@@ -1373,7 +1389,7 @@
   "seller": "ALTERNATE",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.alternate.de/Motorola/moto-buds-2-Violet-Ice-Kopfhörer/html/product/100198595": {
   "site": "alternate_de",
@@ -1405,7 +1421,7 @@
   "seller": "ALTERNATE",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.alternate.de/Motorola/moto-buds-2-plus-PANTONE-Silhouette-Kopfhörer/html/product/100198602": {
   "site": "alternate_de",
@@ -1430,14 +1446,14 @@
   "price": "25.89",
   "currency": "EUR",
   "url": "https://www.alternate.de/Motorola/moto-buds-Bass-Blue-Jewel-Kopfhörer/html/product/100177256",
-  "in_stock": null,
+  "in_stock": true,
   "model": "PG38C07950",
   "ean": "0840493607023",
   "brand": "Motorola",
   "seller": "ALTERNATE",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.alternate.de/Nothing/Ear-3-Kopfhörer/html/product/100166959": {
   "site": "alternate_de",
@@ -1484,7 +1500,7 @@
   "seller": "ALTERNATE",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.alternate.de/Nothing/Headphone-a-Headset/html/product/100198663": {
   "site": "alternate_de",
@@ -1500,7 +1516,7 @@
   "seller": "ALTERNATE",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.alternate.de/Razer/Barracuda-X-Chroma-Gaming-Headset/html/product/100082519": {
   "site": "alternate_de",
@@ -1532,7 +1548,7 @@
   "seller": "ALTERNATE",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.alternate.de/Razer/Barracuda-X-Chroma-Phantom-Green-Edition-Gaming-Headset/html/product/100137653": {
   "site": "alternate_de",
@@ -1548,7 +1564,7 @@
   "seller": "ALTERNATE",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.alternate.de/Razer/BlackShark-V2-HyperSpeed-Gaming-Headset/html/product/100144415": {
   "site": "alternate_de",
@@ -1564,7 +1580,7 @@
   "seller": "ALTERNATE",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.alternate.de/Razer/BlackShark-V2-Pro-2023-Gaming-Headset/html/product/1913260": {
   "site": "alternate_de",
@@ -1580,7 +1596,7 @@
   "seller": "ALTERNATE",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.alternate.de/Razer/BlackShark-V2-Pro-2023-Gaming-Headset/html/product/1913262": {
   "site": "alternate_de",
@@ -1596,7 +1612,7 @@
   "seller": "ALTERNATE",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.alternate.de/Razer/BlackShark-V2-Pro-für-Playstation-Gaming-Headset/html/product/100066547": {
   "site": "alternate_de",
@@ -1612,7 +1628,7 @@
   "seller": "ALTERNATE",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.alternate.de/Razer/BlackShark-V3-Pro-Counter-Strike-2-Edition-Gaming-Headset/html/product/100166616": {
   "site": "alternate_de",
@@ -1644,7 +1660,7 @@
   "seller": "ALTERNATE",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.alternate.de/Razer/Kraken-V4-Generalüberholt-Gaming-Headset/html/product/100193171": {
   "site": "alternate_de",
@@ -1676,7 +1692,7 @@
   "seller": "ALTERNATE",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.alternate.de/Samsung/Galaxy-Buds-4-Kopfhörer/html/product/100193914": {
   "site": "alternate_de",
@@ -1694,6 +1710,22 @@
   "condition": "new",
   "last_seen": "2026-11-26"
  },
+ "https://www.alternate.de/Samsung/Galaxy-Buds-4-Pro-Kopfhörer/html/product/100191816": {
+  "site": "alternate_de",
+  "country": "DE",
+  "name": "Samsung Galaxy Buds 4 Pro, Kopfhörer schwarz",
+  "price": "175.90",
+  "currency": "EUR",
+  "url": "https://www.alternate.de/Samsung/Galaxy-Buds-4-Pro-Kopfhörer/html/product/100191816",
+  "in_stock": true,
+  "model": "SM-R640NZKADBT",
+  "ean": "8806097984832",
+  "brand": "Samsung",
+  "seller": "ALTERNATE",
+  "is_official": true,
+  "condition": "new",
+  "last_seen": "2026-11-27"
+ },
  "https://www.alternate.de/Samsung/Galaxy-Buds-4-Pro-Kopfhörer/html/product/100207425": {
   "site": "alternate_de",
   "country": "DE",
@@ -1708,7 +1740,7 @@
   "seller": "ALTERNATE",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.alternate.de/Samsung/Galaxy-Buds-4-Pro-Kopfhörer/html/product/100207427": {
   "site": "alternate_de",
@@ -1724,7 +1756,7 @@
   "seller": "ALTERNATE",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.alternate.de/Sony/PlayStation-PULSE-Wireless-Headset-Gaming-Headset/html/product/100229249": {
   "site": "alternate_de",
@@ -1788,7 +1820,7 @@
   "seller": "ALTERNATE",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.alternate.de/Sony/WH-CH520-Kopfhörer/html/product/1906260": {
   "site": "alternate_de",
@@ -1804,7 +1836,7 @@
   "seller": "ALTERNATE",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.alternate.de/Sony/WH-CH520-Kopfhörer/html/product/1906261": {
   "site": "alternate_de",
@@ -1820,7 +1852,7 @@
   "seller": "ALTERNATE",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.alternate.de/Sony/WH-CH520-Kopfhörer/html/product/1906262": {
   "site": "alternate_de",
@@ -1836,7 +1868,7 @@
   "seller": "ALTERNATE",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.alternate.de/Sony/WH-ULT900NB-Headset/html/product/100060570": {
   "site": "alternate_de",
@@ -1852,7 +1884,7 @@
   "seller": "ALTERNATE",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.alternate.de/Sony/WI-C100L-Kopfhörer/html/product/1839752": {
   "site": "alternate_de",
@@ -1877,14 +1909,14 @@
   "price": "199.90",
   "currency": "EUR",
   "url": "https://www.alternate.de/SteelSeries/Arctis-GameBuds-für-PlayStation-Fortnite-Peely-Edition-Kopfhörer/html/product/100228922",
-  "in_stock": true,
+  "in_stock": null,
   "model": null,
   "ean": "5707119069571",
   "brand": "SteelSeries",
   "seller": "ALTERNATE",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.alternate.de/SteelSeries/Arctis-GameBuds-für-PlayStation-Matcha-Kopfhörer/html/product/100228930": {
   "site": "alternate_de",
@@ -1893,14 +1925,14 @@
   "price": "119.99",
   "currency": "EUR",
   "url": "https://www.alternate.de/SteelSeries/Arctis-GameBuds-für-PlayStation-Matcha-Kopfhörer/html/product/100228930",
-  "in_stock": true,
+  "in_stock": null,
   "model": null,
   "ean": "5707119069229",
   "brand": "SteelSeries",
   "seller": "ALTERNATE",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.alternate.de/SteelSeries/Arctis-GameBuds-für-PlayStation-Yuzu-Kopfhörer/html/product/100228940": {
   "site": "alternate_de",
@@ -1909,14 +1941,14 @@
   "price": "119.99",
   "currency": "EUR",
   "url": "https://www.alternate.de/SteelSeries/Arctis-GameBuds-für-PlayStation-Yuzu-Kopfhörer/html/product/100228940",
-  "in_stock": true,
+  "in_stock": null,
   "model": null,
   "ean": "5707119069243",
   "brand": "SteelSeries",
   "seller": "ALTERNATE",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.alternate.de/SteelSeries/Arctis-GameBuds-für-Playstation-Kopfhörer/html/product/100096587": {
   "site": "alternate_de",
@@ -1948,7 +1980,7 @@
   "seller": "ALTERNATE",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.alternate.de/SteelSeries/Arctis-GameBuds-für-Xbox-Matcha-Kopfhörer/html/product/100229001": {
   "site": "alternate_de",
@@ -1957,14 +1989,14 @@
   "price": "119.99",
   "currency": "EUR",
   "url": "https://www.alternate.de/SteelSeries/Arctis-GameBuds-für-Xbox-Matcha-Kopfhörer/html/product/100229001",
-  "in_stock": true,
+  "in_stock": null,
   "model": null,
   "ean": "5707119069281",
   "brand": "SteelSeries",
   "seller": "ALTERNATE",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.alternate.de/SteelSeries/Arctis-GameBuds-für-Xbox-Yuzu-Kopfhörer/html/product/100229002": {
   "site": "alternate_de",
@@ -1973,14 +2005,14 @@
   "price": "119.99",
   "currency": "EUR",
   "url": "https://www.alternate.de/SteelSeries/Arctis-GameBuds-für-Xbox-Yuzu-Kopfhörer/html/product/100229002",
-  "in_stock": true,
+  "in_stock": null,
   "model": null,
   "ean": "5707119069267",
   "brand": "SteelSeries",
   "seller": "ALTERNATE",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.alternate.de/SteelSeries/Arctis-Nova-3P-Wireless-Aqua-Gaming-Headset/html/product/100123890": {
   "site": "alternate_de",
@@ -1996,7 +2028,7 @@
   "seller": "ALTERNATE",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.alternate.de/SteelSeries/Arctis-Nova-3P-Wireless-Black-Gaming-Headset/html/product/100123891": {
   "site": "alternate_de",
@@ -2012,7 +2044,7 @@
   "seller": "ALTERNATE",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.alternate.de/SteelSeries/Arctis-Nova-3P-Wireless-White-Gaming-Headset/html/product/100123893": {
   "site": "alternate_de",
@@ -2028,7 +2060,7 @@
   "seller": "ALTERNATE",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.alternate.de/SteelSeries/Arctis-Nova-3X-Wireless-Aqua-Gaming-Headset/html/product/100123894": {
   "site": "alternate_de",
@@ -2044,7 +2076,7 @@
   "seller": "ALTERNATE",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.alternate.de/SteelSeries/Arctis-Nova-3X-Wireless-Black-Gaming-Headset/html/product/100123895": {
   "site": "alternate_de",
@@ -2060,7 +2092,7 @@
   "seller": "ALTERNATE",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.alternate.de/SteelSeries/Arctis-Nova-3X-Wireless-Lavender-Gaming-Headset/html/product/100123897": {
   "site": "alternate_de",
@@ -2091,7 +2123,7 @@
   "seller": "ALTERNATE",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.alternate.de/SteelSeries/Arctis-Nova-5-Wireless-Gaming-Headset/html/product/100048138": {
   "site": "alternate_de",
@@ -2107,7 +2139,7 @@
   "seller": "ALTERNATE",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.alternate.de/SteelSeries/Arctis-Nova-5-Wireless-Gaming-Headset/html/product/100076081": {
   "site": "alternate_de",
@@ -2123,7 +2155,7 @@
   "seller": "ALTERNATE",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.alternate.de/SteelSeries/Arctis-Nova-5-Wireless-Generalüberholt-Gaming-Headset/html/product/100193151": {
   "site": "alternate_de",
@@ -2139,7 +2171,7 @@
   "seller": "ALTERNATE",
   "is_official": true,
   "condition": "refurbished",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.alternate.de/SteelSeries/Arctis-Nova-5X-Wireless-Gaming-Headset/html/product/100048142": {
   "site": "alternate_de",
@@ -2171,7 +2203,7 @@
   "seller": "ALTERNATE",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.alternate.de/SteelSeries/Arctis-Nova-7-Wireless-Gen-2-Gaming-Headset/html/product/100156687": {
   "site": "alternate_de",
@@ -2187,7 +2219,7 @@
   "seller": "ALTERNATE",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.alternate.de/SteelSeries/Arctis-Nova-7-Wireless-Gen-2-Gaming-Headset/html/product/100156688": {
   "site": "alternate_de",
@@ -2203,7 +2235,7 @@
   "seller": "ALTERNATE",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.alternate.de/SteelSeries/Arctis-Nova-7-Wireless-Gen-2-Gaming-Headset/html/product/100156689": {
   "site": "alternate_de",
@@ -2219,7 +2251,7 @@
   "seller": "ALTERNATE",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.alternate.de/SteelSeries/Arctis-Nova-7P-Wireless-Gen-2-Gaming-Headset/html/product/100156691": {
   "site": "alternate_de",
@@ -2235,7 +2267,7 @@
   "seller": "ALTERNATE",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.alternate.de/SteelSeries/Arctis-Nova-7P-Wireless-Gen-2-Gaming-Headset/html/product/100156692": {
   "site": "alternate_de",
@@ -2251,7 +2283,7 @@
   "seller": "ALTERNATE",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.alternate.de/SteelSeries/Arctis-Nova-7P-Wireless-Gen-2-Gaming-Headset/html/product/100156693": {
   "site": "alternate_de",
@@ -2267,7 +2299,7 @@
   "seller": "ALTERNATE",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.alternate.de/SteelSeries/Arctis-Nova-7X-Generalüberholt-Gaming-Headset/html/product/100193142": {
   "site": "alternate_de",
@@ -2283,7 +2315,7 @@
   "seller": "ALTERNATE",
   "is_official": true,
   "condition": "refurbished",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.alternate.de/SteelSeries/Arctis-Nova-7X-Generalüberholt-Gaming-Headset/html/product/100193147": {
   "site": "alternate_de",
@@ -2299,7 +2331,7 @@
   "seller": "ALTERNATE",
   "is_official": true,
   "condition": "refurbished",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.alternate.de/SteelSeries/Arctis-Nova-7X-Wireless-Gen-2-Gaming-Headset/html/product/100156697": {
   "site": "alternate_de",
@@ -2308,14 +2340,14 @@
   "price": "149.99",
   "currency": "EUR",
   "url": "https://www.alternate.de/SteelSeries/Arctis-Nova-7X-Wireless-Gen-2-Gaming-Headset/html/product/100156697",
-  "in_stock": null,
+  "in_stock": true,
   "model": null,
   "ean": "5707119065719",
   "brand": "SteelSeries",
   "seller": "ALTERNATE",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.alternate.de/SteelSeries/Arctis-Nova-7X-Wireless-Gen-2-Gaming-Headset/html/product/100156705": {
   "site": "alternate_de",
@@ -2331,7 +2363,7 @@
   "seller": "ALTERNATE",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.alternate.de/SteelSeries/Arctis-Nova-Pro-Wireless-X-Generalüberholt-Gaming-Headset/html/product/100193161": {
   "site": "alternate_de",
@@ -2363,7 +2395,7 @@
   "seller": "ALTERNATE",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.alternate.de/Turtle-Beach/Stealth-700-Gen-3-Gaming-Headset/html/product/100098376": {
   "site": "alternate_de",
@@ -2379,7 +2411,7 @@
   "seller": "ALTERNATE",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.alternate.de/Xiaomi/Redmi-Buds-6-Night-Black-Kopfhörer/html/product/100119481": {
   "site": "alternate_de",
@@ -2411,7 +2443,7 @@
   "seller": "ALTERNATE",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-25"
+  "last_seen": "2026-11-27"
  },
  "https://www.alternate.de/Xiaomi/Redmi-Buds-8-Lite-Kopfhörer/html/product/100205909": {
   "site": "alternate_de",
@@ -2427,7 +2459,7 @@
   "seller": "ALTERNATE",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.alternate.de/Xiaomi/Redmi-Buds-8-Lite-Kopfhörer/html/product/100205910": {
   "site": "alternate_de",
@@ -2507,7 +2539,23 @@
   "seller": "ALTERNATE",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
+ },
+ "https://www.coolblue.nl/product/871043/pioneer-dj-hdj-cue1bt-zwart.html": {
+  "site": "coolblue",
+  "country": "NL",
+  "name": "Pioneer DJ HDJ-CUE1BT Zwart",
+  "price": "78",
+  "currency": "EUR",
+  "url": "https://www.coolblue.nl/product/871043/pioneer-dj-hdj-cue1bt-zwart.html",
+  "in_stock": true,
+  "model": "HCJ-CUE1BT-K",
+  "ean": null,
+  "brand": "Pioneer",
+  "seller": "Coolblue",
+  "is_official": true,
+  "condition": "new",
+  "last_seen": "2026-11-27"
  },
  "https://www.coolblue.nl/product/891664/audio-technica-ath-m50xbt2.html": {
   "site": "coolblue",
@@ -2523,7 +2571,7 @@
   "seller": "Coolblue",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.coolblue.nl/product/903790/sony-wi-c100-zwart.html": {
   "site": "coolblue",
@@ -2539,7 +2587,7 @@
   "seller": "Coolblue",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.coolblue.nl/product/905648/sony-wh-1000xm5-zwart.html": {
   "site": "coolblue",
@@ -2555,7 +2603,7 @@
   "seller": "Coolblue",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.coolblue.nl/product/905649/sony-wh-1000xm5-zilver.html": {
   "site": "coolblue",
@@ -2571,7 +2619,7 @@
   "seller": "Coolblue",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.coolblue.nl/product/911912/sennheiser-momentum-4-wireless-zwart.html": {
   "site": "coolblue",
@@ -2587,7 +2635,7 @@
   "seller": "Coolblue",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.coolblue.nl/product/911913/sennheiser-momentum-4-wireless-wit.html": {
   "site": "coolblue",
@@ -2603,7 +2651,7 @@
   "seller": "Coolblue",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.coolblue.nl/product/917585/bowers-wilkins-px8-zwart.html": {
   "site": "coolblue",
@@ -2619,7 +2667,7 @@
   "seller": "Coolblue",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.coolblue.nl/product/917586/bowers-wilkins-px8-bruin.html": {
   "site": "coolblue",
@@ -2635,7 +2683,7 @@
   "seller": "Coolblue",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.coolblue.nl/product/923501/sony-wh-ch720n-zwart.html": {
   "site": "coolblue",
@@ -2651,7 +2699,7 @@
   "seller": "Coolblue",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.coolblue.nl/product/923506/sony-wh-ch720n-blauw.html": {
   "site": "coolblue",
@@ -2667,7 +2715,7 @@
   "seller": "Coolblue",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.coolblue.nl/product/923507/sony-wh-ch720n-wit.html": {
   "site": "coolblue",
@@ -2699,7 +2747,7 @@
   "seller": "Coolblue",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.coolblue.nl/product/924585/sony-wh-1000xm5-blauw.html": {
   "site": "coolblue",
@@ -2715,7 +2763,7 @@
   "seller": "Coolblue",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.coolblue.nl/product/930309/jbl-tune-770nc-zwart.html": {
   "site": "coolblue",
@@ -2731,7 +2779,7 @@
   "seller": "Coolblue",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.coolblue.nl/product/930335/sony-wf-1000xm5-zwart.html": {
   "site": "coolblue",
@@ -2747,7 +2795,7 @@
   "seller": "Coolblue",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.coolblue.nl/product/930336/sony-wf-1000xm5-zilver.html": {
   "site": "coolblue",
@@ -2763,7 +2811,7 @@
   "seller": "Coolblue",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.coolblue.nl/product/934400/jbl-live-770nc-zwart.html": {
   "site": "coolblue",
@@ -2779,7 +2827,7 @@
   "seller": "Coolblue",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.coolblue.nl/product/935496/bowers-wilkins-px8-mclaren.html": {
   "site": "coolblue",
@@ -2827,7 +2875,7 @@
   "seller": "Coolblue",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.coolblue.nl/product/936049/bose-quietcomfort-headphones-wit.html": {
   "site": "coolblue",
@@ -2843,13 +2891,13 @@
   "seller": "Coolblue",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.coolblue.nl/product/936374/sennheiser-accentum-wireless-zwart.html": {
   "site": "coolblue",
   "country": "NL",
   "name": "Sennheiser Accentum Wireless Zwart",
-  "price": "105",
+  "price": "95",
   "currency": "EUR",
   "url": "https://www.coolblue.nl/product/936374/sennheiser-accentum-wireless-zwart.html",
   "in_stock": true,
@@ -2859,7 +2907,7 @@
   "seller": "Coolblue",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.coolblue.nl/product/936948/bowers-wilkins-px7-s2e-zwart.html": {
   "site": "coolblue",
@@ -2875,7 +2923,7 @@
   "seller": "Coolblue",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.coolblue.nl/product/936949/bowers-wilkins-px7-s2e-blauw.html": {
   "site": "coolblue",
@@ -2955,7 +3003,7 @@
   "seller": "Coolblue",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.coolblue.nl/product/945516/jbl-tour-pro-3-tws-zwart.html": {
   "site": "coolblue",
@@ -2971,7 +3019,7 @@
   "seller": "Coolblue",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.coolblue.nl/product/945517/jbl-tour-pro-3-tws-creme.html": {
   "site": "coolblue",
@@ -3018,7 +3066,7 @@
   "seller": "Coolblue",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.coolblue.nl/product/946494/sony-ult-wear-groen.html": {
   "site": "coolblue",
@@ -3034,7 +3082,7 @@
   "seller": "Coolblue",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.coolblue.nl/product/946495/sony-ult-wear-wit.html": {
   "site": "coolblue",
@@ -3050,7 +3098,7 @@
   "seller": "Coolblue",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.coolblue.nl/product/947607/soundcore-space-one-zwart.html": {
   "site": "coolblue",
@@ -3066,7 +3114,7 @@
   "seller": "Coolblue",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.coolblue.nl/product/947608/soundcore-space-one-creme.html": {
   "site": "coolblue",
@@ -3082,7 +3130,7 @@
   "seller": "Coolblue",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.coolblue.nl/product/947615/soundcore-liberty-4-nc-zwart.html": {
   "site": "coolblue",
@@ -3098,7 +3146,7 @@
   "seller": "Coolblue",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.coolblue.nl/product/947616/soundcore-liberty-4-nc-wit.html": {
   "site": "coolblue",
@@ -3114,7 +3162,7 @@
   "seller": "Coolblue",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-25"
+  "last_seen": "2026-11-27"
  },
  "https://www.coolblue.nl/product/947617/soundcore-liberty-4-nc-blauw.html": {
   "site": "coolblue",
@@ -3130,7 +3178,7 @@
   "seller": "Coolblue",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.coolblue.nl/product/947990/nothing-ear-zwart.html": {
   "site": "coolblue",
@@ -3146,7 +3194,7 @@
   "seller": "Coolblue",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.coolblue.nl/product/947991/nothing-ear-wit.html": {
   "site": "coolblue",
@@ -3177,7 +3225,7 @@
   "seller": "Coolblue",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.coolblue.nl/product/947993/nothing-ear-a-wit.html": {
   "site": "coolblue",
@@ -3257,7 +3305,7 @@
   "seller": "Coolblue",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.coolblue.nl/product/951360/jlab-jbuds-lux-anc-roze.html": {
   "site": "coolblue",
@@ -3289,7 +3337,7 @@
   "seller": "Coolblue",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.coolblue.nl/product/952360/sony-wh-1000xm5-roze.html": {
   "site": "coolblue",
@@ -3305,7 +3353,7 @@
   "seller": "Coolblue",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.coolblue.nl/product/952361/sony-wf-1000xm5-roze.html": {
   "site": "coolblue",
@@ -3321,7 +3369,7 @@
   "seller": "Coolblue",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.coolblue.nl/product/952362/shokz-openrun-pro-2-oranje.html": {
   "site": "coolblue",
@@ -3337,7 +3385,7 @@
   "seller": "Coolblue",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.coolblue.nl/product/952363/shokz-openrun-pro-2-zwart.html": {
   "site": "coolblue",
@@ -3353,7 +3401,7 @@
   "seller": "Coolblue",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.coolblue.nl/product/952364/shokz-openrun-pro-2-mini-oranje.html": {
   "site": "coolblue",
@@ -3369,7 +3417,7 @@
   "seller": "Coolblue",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.coolblue.nl/product/952365/shokz-openrun-pro-2-mini-zwart.html": {
   "site": "coolblue",
@@ -3385,7 +3433,7 @@
   "seller": "Coolblue",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.coolblue.nl/product/952366/shokz-openrun-usb-c-blauw.html": {
   "site": "coolblue",
@@ -3401,7 +3449,7 @@
   "seller": "Coolblue",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.coolblue.nl/product/952367/shokz-openrun-usb-c-zwart.html": {
   "site": "coolblue",
@@ -3417,7 +3465,7 @@
   "seller": "Coolblue",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.coolblue.nl/product/952368/shokz-openrun-mini-usb-c-zwart.html": {
   "site": "coolblue",
@@ -3433,7 +3481,7 @@
   "seller": "Coolblue",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.coolblue.nl/product/952559/bowers-wilkins-pi6-zwart.html": {
   "site": "coolblue",
@@ -3465,7 +3513,7 @@
   "seller": "Coolblue",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.coolblue.nl/product/952564/bowers-wilkins-pi8-wit.html": {
   "site": "coolblue",
@@ -3481,7 +3529,7 @@
   "seller": "Coolblue",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.coolblue.nl/product/952566/bowers-wilkins-pi8-blauw.html": {
   "site": "coolblue",
@@ -3497,7 +3545,7 @@
   "seller": "Coolblue",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.coolblue.nl/product/952761/sony-wf-c510-zwart.html": {
   "site": "coolblue",
@@ -3513,7 +3561,7 @@
   "seller": "Coolblue",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.coolblue.nl/product/953322/soundcore-sport-x20-zwart.html": {
   "site": "coolblue",
@@ -3529,7 +3577,7 @@
   "seller": "Coolblue",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.coolblue.nl/product/953323/soundcore-sport-x20-wit.html": {
   "site": "coolblue",
@@ -3545,7 +3593,7 @@
   "seller": "Coolblue",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-25"
+  "last_seen": "2026-11-27"
  },
  "https://www.coolblue.nl/product/953325/soundcore-sport-x20-groen.html": {
   "site": "coolblue",
@@ -3561,7 +3609,7 @@
   "seller": "Coolblue",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.coolblue.nl/product/953327/soundcore-aerofit-pro-zwart.html": {
   "site": "coolblue",
@@ -3593,7 +3641,7 @@
   "seller": "Coolblue",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.coolblue.nl/product/953954/bose-quietcomfort-earbuds-zwart.html": {
   "site": "coolblue",
@@ -3609,7 +3657,23 @@
   "seller": "Coolblue",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
+ },
+ "https://www.coolblue.nl/product/953955/bose-quietcomfort-earbuds-creme.html": {
+  "site": "coolblue",
+  "country": "NL",
+  "name": "Bose QuietComfort Earbuds Crème",
+  "price": "109",
+  "currency": "EUR",
+  "url": "https://www.coolblue.nl/product/953955/bose-quietcomfort-earbuds-creme.html",
+  "in_stock": true,
+  "model": "888507-0200",
+  "ean": null,
+  "brand": "Bose",
+  "seller": "Coolblue",
+  "is_official": true,
+  "condition": "new",
+  "last_seen": "2026-11-27"
  },
  "https://www.coolblue.nl/product/954346/apple-airpods-4-active-noise-cancellation.html": {
   "site": "coolblue",
@@ -3657,7 +3721,7 @@
   "seller": "Coolblue",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.coolblue.nl/product/955104/bowers-wilkins-px8-groen.html": {
   "site": "coolblue",
@@ -3673,7 +3737,7 @@
   "seller": "Coolblue",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.coolblue.nl/product/955351/jbl-tune-flex-2-zwart.html": {
   "site": "coolblue",
@@ -3705,7 +3769,7 @@
   "seller": "Coolblue",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.coolblue.nl/product/955367/jbl-tune-beam-2-wit.html": {
   "site": "coolblue",
@@ -3721,7 +3785,7 @@
   "seller": "Coolblue",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.coolblue.nl/product/955368/jbl-tune-buds-2-zwart.html": {
   "site": "coolblue",
@@ -3737,7 +3801,7 @@
   "seller": "Coolblue",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.coolblue.nl/product/955410/jbl-jr470nc-blauw.html": {
   "site": "coolblue",
@@ -3759,7 +3823,7 @@
   "site": "coolblue",
   "country": "NL",
   "name": "JBL JR470NC Roze",
-  "price": "73",
+  "price": "63",
   "currency": "EUR",
   "url": "https://www.coolblue.nl/product/955411/jbl-jr470nc-roze.html",
   "in_stock": true,
@@ -3768,13 +3832,14 @@
   "brand": "JBL",
   "seller": "Coolblue",
   "is_official": true,
-  "last_seen": "2026-11-10"
+  "condition": "new",
+  "last_seen": "2026-11-27"
  },
  "https://www.coolblue.nl/product/955412/jbl-jr470nc-wit.html": {
   "site": "coolblue",
   "country": "NL",
   "name": "JBL JR470NC Wit",
-  "price": "63",
+  "price": "60",
   "currency": "EUR",
   "url": "https://www.coolblue.nl/product/955412/jbl-jr470nc-wit.html",
   "in_stock": true,
@@ -3784,7 +3849,7 @@
   "seller": "Coolblue",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.coolblue.nl/product/956282/marshall-motif-ii-tw-anc-zwart.html": {
   "site": "coolblue",
@@ -3800,7 +3865,7 @@
   "seller": "Coolblue",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.coolblue.nl/product/956285/marshall-major-v-bruin.html": {
   "site": "coolblue",
@@ -3816,7 +3881,7 @@
   "seller": "Coolblue",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.coolblue.nl/product/958548/marshall-monitor-iii-anc-zwart.html": {
   "site": "coolblue",
@@ -3832,7 +3897,7 @@
   "seller": "Coolblue",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.coolblue.nl/product/959896/jbl-tour-one-m3-zwart.html": {
   "site": "coolblue",
@@ -3848,7 +3913,7 @@
   "seller": "Coolblue",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.coolblue.nl/product/959897/jbl-tour-one-m3-goud.html": {
   "site": "coolblue",
@@ -3944,7 +4009,7 @@
   "seller": "Coolblue",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.coolblue.nl/product/962044/sony-wf-c710n-zwart.html": {
   "site": "coolblue",
@@ -3960,7 +4025,7 @@
   "seller": "Coolblue",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.coolblue.nl/product/962046/sony-wf-c710n-blauw.html": {
   "site": "coolblue",
@@ -3976,7 +4041,7 @@
   "seller": "Coolblue",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.coolblue.nl/product/962047/sony-wf-c710n-roze.html": {
   "site": "coolblue",
@@ -3992,7 +4057,7 @@
   "seller": "Coolblue",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.coolblue.nl/product/962048/sony-wf-c710n-wit.html": {
   "site": "coolblue",
@@ -4008,7 +4073,7 @@
   "seller": "Coolblue",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.coolblue.nl/product/962240/soundcore-liberty-4-pro-wit.html": {
   "site": "coolblue",
@@ -4056,7 +4121,7 @@
   "seller": "Coolblue",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.coolblue.nl/product/962722/sony-wh-1000xm6-zwart.html": {
   "site": "coolblue",
@@ -4072,7 +4137,7 @@
   "seller": "Coolblue",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.coolblue.nl/product/962724/sony-wh-1000xm6-blauw.html": {
   "site": "coolblue",
@@ -4088,7 +4153,7 @@
   "seller": "Coolblue",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.coolblue.nl/product/962725/sony-wh-1000xm6-zilver.html": {
   "site": "coolblue",
@@ -4104,7 +4169,7 @@
   "seller": "Coolblue",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.coolblue.nl/product/963644/bowers-wilkins-px7-s3-zwart.html": {
   "site": "coolblue",
@@ -4120,7 +4185,7 @@
   "seller": "Coolblue",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.coolblue.nl/product/964476/soundcore-space-one-roze.html": {
   "site": "coolblue",
@@ -4136,7 +4201,7 @@
   "seller": "Coolblue",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.coolblue.nl/product/964771/soundcore-liberty-5-zwart.html": {
   "site": "coolblue",
@@ -4152,7 +4217,7 @@
   "seller": "Coolblue",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.coolblue.nl/product/964772/soundcore-liberty-5-wit.html": {
   "site": "coolblue",
@@ -4168,7 +4233,7 @@
   "seller": "Coolblue",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.coolblue.nl/product/964773/soundcore-liberty-5-blauw.html": {
   "site": "coolblue",
@@ -4184,7 +4249,7 @@
   "seller": "Coolblue",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.coolblue.nl/product/964774/soundcore-liberty-5-roze.html": {
   "site": "coolblue",
@@ -4200,7 +4265,7 @@
   "seller": "Coolblue",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.coolblue.nl/product/964871/jbl-sense-lite-zwart.html": {
   "site": "coolblue",
@@ -4237,7 +4302,7 @@
   "site": "coolblue",
   "country": "NL",
   "name": "JBL Endurance Peak 4 Grijs",
-  "price": "100",
+  "price": "106",
   "currency": "EUR",
   "url": "https://www.coolblue.nl/product/964885/jbl-endurance-peak-4-grijs.html",
   "in_stock": true,
@@ -4247,7 +4312,7 @@
   "seller": "Coolblue",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-25"
+  "last_seen": "2026-11-27"
  },
  "https://www.coolblue.nl/product/964888/jbl-endurance-peak-4-blauw.html": {
   "site": "coolblue",
@@ -4295,7 +4360,7 @@
   "seller": "Coolblue",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.coolblue.nl/product/965463/shokz-openfit-2-zwart.html": {
   "site": "coolblue",
@@ -4311,7 +4376,7 @@
   "seller": "Coolblue",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.coolblue.nl/product/965464/shokz-openfit-2-grijs.html": {
   "site": "coolblue",
@@ -4327,7 +4392,7 @@
   "seller": "Coolblue",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.coolblue.nl/product/965472/bose-quietcomfort-ultra-earbuds-2e-gen-zwart.html": {
   "site": "coolblue",
@@ -4343,7 +4408,7 @@
   "seller": "Coolblue",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.coolblue.nl/product/965473/bose-quietcomfort-ultra-earbuds-2e-gen-wit.html": {
   "site": "coolblue",
@@ -4359,7 +4424,7 @@
   "seller": "Coolblue",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.coolblue.nl/product/965474/bose-quietcomfort-ultra-earbuds-2e-gen-rood.html": {
   "site": "coolblue",
@@ -4391,7 +4456,7 @@
   "seller": "Coolblue",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.coolblue.nl/product/965594/jlab-epic-open-sport-zwart.html": {
   "site": "coolblue",
@@ -4407,7 +4472,7 @@
   "seller": "Coolblue",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.coolblue.nl/product/966502/nothing-headphone-1-wit.html": {
   "site": "coolblue",
@@ -4423,7 +4488,7 @@
   "seller": "Coolblue",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.coolblue.nl/product/966503/nothing-headphone-1-zwart.html": {
   "site": "coolblue",
@@ -4439,7 +4504,7 @@
   "seller": "Coolblue",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.coolblue.nl/product/968190/samsung-galaxy-buds3-fe-grijs.html": {
   "site": "coolblue",
@@ -4471,7 +4536,7 @@
   "seller": "Coolblue",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.coolblue.nl/product/968677/bose-quietcomfort-ultra-headphones-2e-gen-zwart.html": {
   "site": "coolblue",
@@ -4487,7 +4552,7 @@
   "seller": "Coolblue",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.coolblue.nl/product/968678/bose-quietcomfort-ultra-headphones-2e-gen-wit.html": {
   "site": "coolblue",
@@ -4503,7 +4568,7 @@
   "seller": "Coolblue",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.coolblue.nl/product/968679/bose-quietcomfort-ultra-headphones-2e-gen-goud.html": {
   "site": "coolblue",
@@ -4535,7 +4600,7 @@
   "seller": "Coolblue",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.coolblue.nl/product/969274/bowers-wilkins-px8-s2-zwart.html": {
   "site": "coolblue",
@@ -4551,7 +4616,7 @@
   "seller": "Coolblue",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.coolblue.nl/product/969276/bowers-wilkins-px8-s2-beige.html": {
   "site": "coolblue",
@@ -4567,7 +4632,7 @@
   "seller": "Coolblue",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.coolblue.nl/product/969402/bose-quietcomfort-ultra-earbuds-2nd-gen-paars.html": {
   "site": "coolblue",
@@ -4599,13 +4664,13 @@
   "seller": "Coolblue",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.coolblue.nl/product/970023/shokz-openswim-pro-usb-c-grijs.html": {
   "site": "coolblue",
   "country": "NL",
   "name": "Shokz OpenSwim Pro USB-C Grijs",
-  "price": "194",
+  "price": "185",
   "currency": "EUR",
   "url": "https://www.coolblue.nl/product/970023/shokz-openswim-pro-usb-c-grijs.html",
   "in_stock": true,
@@ -4615,7 +4680,7 @@
   "seller": "Coolblue",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.coolblue.nl/product/970024/shokz-openswim-pro-usb-c-rood.html": {
   "site": "coolblue",
@@ -4647,13 +4712,13 @@
   "seller": "Coolblue",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.coolblue.nl/product/970592/nothing-ear-3-wit.html": {
   "site": "coolblue",
   "country": "NL",
   "name": "Nothing Ear (3) Wit",
-  "price": "148",
+  "price": "109",
   "currency": "EUR",
   "url": "https://www.coolblue.nl/product/970592/nothing-ear-3-wit.html",
   "in_stock": true,
@@ -4662,7 +4727,8 @@
   "brand": "Nothing Tech",
   "seller": "Coolblue",
   "is_official": true,
-  "last_seen": "2026-11-10"
+  "condition": "new",
+  "last_seen": "2026-11-27"
  },
  "https://www.coolblue.nl/product/972171/jbl-tune-780nc-zwart.html": {
   "site": "coolblue",
@@ -4742,7 +4808,7 @@
   "seller": "Coolblue",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.coolblue.nl/product/973132/fairphone-fairbuds-xl-zwart.html": {
   "site": "coolblue",
@@ -4758,7 +4824,7 @@
   "seller": "Coolblue",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.coolblue.nl/product/973133/fairphone-fairbuds-xl-groen.html": {
   "site": "coolblue",
@@ -4774,7 +4840,7 @@
   "seller": "Coolblue",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-21"
+  "last_seen": "2026-11-27"
  },
  "https://www.coolblue.nl/product/974609/jbl-tune-255nc-tws-zwart.html": {
   "site": "coolblue",
@@ -4822,7 +4888,7 @@
   "seller": "Coolblue",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.coolblue.nl/product/974813/shokz-openfit-pro-wit.html": {
   "site": "coolblue",
@@ -4854,7 +4920,7 @@
   "seller": "Coolblue",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.coolblue.nl/product/975198/sony-wf-1000xm6-zilver.html": {
   "site": "coolblue",
@@ -4870,7 +4936,7 @@
   "seller": "Coolblue",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.coolblue.nl/product/975218/bowers-wilkins-px7-s3-rood.html": {
   "site": "coolblue",
@@ -4886,7 +4952,7 @@
   "seller": "Coolblue",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.coolblue.nl/product/975220/jlab-epic-pods-anc-zwart.html": {
   "site": "coolblue",
@@ -4918,7 +4984,7 @@
   "seller": "Coolblue",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.coolblue.nl/product/975598/samsung-galaxy-buds4-pro-zwart.html": {
   "site": "coolblue",
@@ -4934,7 +5000,7 @@
   "seller": "Coolblue",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.coolblue.nl/product/975599/samsung-galaxy-buds4-pro-wit.html": {
   "site": "coolblue",
@@ -4950,7 +5016,7 @@
   "seller": "Coolblue",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.coolblue.nl/product/975600/samsung-galaxy-buds4-zwart.html": {
   "site": "coolblue",
@@ -4966,7 +5032,7 @@
   "seller": "Coolblue",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.coolblue.nl/product/975601/samsung-galaxy-buds4-wit.html": {
   "site": "coolblue",
@@ -4982,7 +5048,7 @@
   "seller": "Coolblue",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-24"
+  "last_seen": "2026-11-27"
  },
  "https://www.coolblue.nl/product/975936/sennheiser-rs275.html": {
   "site": "coolblue",
@@ -5030,7 +5096,7 @@
   "seller": "Coolblue",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.coolblue.nl/product/976266/nothing-headphone-a-zwart.html": {
   "site": "coolblue",
@@ -5046,7 +5112,7 @@
   "seller": "Coolblue",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.coolblue.nl/product/976267/nothing-headphone-a-geel.html": {
   "site": "coolblue",
@@ -5094,7 +5160,7 @@
   "seller": "Coolblue",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.coolblue.nl/product/977402/bowers-wilkins-px8-s2-pearl-blue.html": {
   "site": "coolblue",
@@ -5126,7 +5192,7 @@
   "seller": "Coolblue",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.coolblue.nl/product/977430/apple-airpods-max-2-middernacht.html": {
   "site": "coolblue",
@@ -5142,7 +5208,7 @@
   "seller": "Coolblue",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.coolblue.nl/product/977431/apple-airpods-max-2-sterrenlicht.html": {
   "site": "coolblue",
@@ -5158,7 +5224,7 @@
   "seller": "Coolblue",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.coolblue.nl/product/977432/apple-airpods-max-2-blauw.html": {
   "site": "coolblue",
@@ -5174,7 +5240,7 @@
   "seller": "Coolblue",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.coolblue.nl/product/977434/apple-airpods-max-2-paars.html": {
   "site": "coolblue",
@@ -5190,7 +5256,7 @@
   "seller": "Coolblue",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.coolblue.nl/product/978813/soundcore-aerofit-2-pro-blauw.html": {
   "site": "coolblue",
@@ -5206,7 +5272,23 @@
   "seller": "Coolblue",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
+ },
+ "https://www.coolblue.nl/product/978814/soundcore-aerofit-2-pro-paars.html": {
+  "site": "coolblue",
+  "country": "NL",
+  "name": "Soundcore AeroFit 2 Pro Paars",
+  "price": "129",
+  "currency": "EUR",
+  "url": "https://www.coolblue.nl/product/978814/soundcore-aerofit-2-pro-paars.html",
+  "in_stock": true,
+  "model": "A3875GQ1",
+  "ean": null,
+  "brand": "Soundcore by Anker",
+  "seller": "Coolblue",
+  "is_official": true,
+  "condition": "new",
+  "last_seen": "2026-11-27"
  },
  "https://www.coolblue.nl/product/979274/jbl-live-680nc-zwart.html": {
   "site": "coolblue",
@@ -5238,7 +5320,7 @@
   "seller": "Coolblue",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.coolblue.nl/product/979279/jbl-live-780nc-blauw.html": {
   "site": "coolblue",
@@ -5254,13 +5336,13 @@
   "seller": "Coolblue",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.coolblue.nl/product/979280/jbl-live-780nc-champagne.html": {
   "site": "coolblue",
   "country": "NL",
   "name": "JBL Live 780NC Champagne",
-  "price": "129",
+  "price": "132",
   "currency": "EUR",
   "url": "https://www.coolblue.nl/product/979280/jbl-live-780nc-champagne.html",
   "in_stock": true,
@@ -5270,7 +5352,7 @@
   "seller": "Coolblue",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-18"
+  "last_seen": "2026-11-27"
  },
  "https://www.coolblue.nl/product/979281/jbl-live-780nc-wit.html": {
   "site": "coolblue",
@@ -5302,7 +5384,7 @@
   "seller": "Coolblue",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.coolblue.nl/product/979284/jbl-live-flex-4-champagne.html": {
   "site": "coolblue",
@@ -5350,7 +5432,7 @@
   "seller": "Coolblue",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.coolblue.nl/product/979288/jbl-live-buds-4-champagne.html": {
   "site": "coolblue",
@@ -5404,7 +5486,7 @@
   "site": "coolblue",
   "country": "NL",
   "name": "JBL Live Beam 4 Blauw",
-  "price": "135",
+  "price": "136",
   "currency": "EUR",
   "url": "https://www.coolblue.nl/product/979291/jbl-live-beam-4-blauw.html",
   "in_stock": true,
@@ -5414,7 +5496,7 @@
   "seller": "Coolblue",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.coolblue.nl/product/979292/jbl-live-beam-4-champagne.html": {
   "site": "coolblue",
@@ -5430,7 +5512,7 @@
   "seller": "Coolblue",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.coolblue.nl/product/979293/jbl-live-beam-4-zilver.html": {
   "site": "coolblue",
@@ -5462,7 +5544,7 @@
   "seller": "Coolblue",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.coolblue.nl/product/979733/sony-1000x-the-collexion-platinum.html": {
   "site": "coolblue",
@@ -5478,7 +5560,7 @@
   "seller": "Coolblue",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.coolblue.nl/product/979822/soundcore-liberty-5-pro-zwart.html": {
   "site": "coolblue",
@@ -5494,7 +5576,7 @@
   "seller": "Coolblue",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.coolblue.nl/product/979823/soundcore-liberty-5-pro-wit.html": {
   "site": "coolblue",
@@ -5510,7 +5592,7 @@
   "seller": "Coolblue",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.coolblue.nl/product/979824/soundcore-liberty-5-pro-blauw.html": {
   "site": "coolblue",
@@ -5526,7 +5608,7 @@
   "seller": "Coolblue",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.coolblue.nl/product/979825/soundcore-liberty-5-pro-roze.html": {
   "site": "coolblue",
@@ -5542,7 +5624,7 @@
   "seller": "Coolblue",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.coolblue.nl/product/979932/soundcore-liberty-5-pro-max-zwart.html": {
   "site": "coolblue",
@@ -5558,7 +5640,7 @@
   "seller": "Coolblue",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.coolblue.nl/product/979933/soundcore-liberty-5-pro-max-goud.html": {
   "site": "coolblue",
@@ -5590,7 +5672,7 @@
   "seller": "Coolblue",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.coolblue.nl/product/980277/jbl-live-780nc-oranje.html": {
   "site": "coolblue",
@@ -5638,7 +5720,7 @@
   "seller": "Coolblue",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-24"
+  "last_seen": "2026-11-27"
  },
  "https://www.coolblue.nl/product/980348/soundcore-space-2-groen.html": {
   "site": "coolblue",
@@ -5654,13 +5736,13 @@
   "seller": "Coolblue",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-21"
+  "last_seen": "2026-11-27"
  },
  "https://www.coolblue.nl/product/980828/sennheiser-momentum-5-zwart.html": {
   "site": "coolblue",
   "country": "NL",
   "name": "Sennheiser Momentum 5 Zwart",
-  "price": "399",
+  "price": "349",
   "currency": "EUR",
   "url": "https://www.coolblue.nl/product/980828/sennheiser-momentum-5-zwart.html",
   "in_stock": true,
@@ -5670,7 +5752,7 @@
   "seller": "Coolblue",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.coolblue.nl/product/980829/sennheiser-momentum-5-wit.html": {
   "site": "coolblue",
@@ -5692,7 +5774,7 @@
   "site": "coolblue",
   "country": "NL",
   "name": "Sennheiser Momentum 5 Blauw",
-  "price": "399",
+  "price": "369",
   "currency": "EUR",
   "url": "https://www.coolblue.nl/product/980830/sennheiser-momentum-5-blauw.html",
   "in_stock": true,
@@ -5702,7 +5784,7 @@
   "seller": "Coolblue",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.coolblue.nl/product/980879/marshall-milton-anc.html": {
   "site": "coolblue",
@@ -5718,7 +5800,7 @@
   "seller": "Coolblue",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-22"
+  "last_seen": "2026-11-27"
  },
  "https://www.coolblue.nl/product/980941/nothing-ear-3a-zwart.html": {
   "site": "coolblue",
@@ -5734,7 +5816,7 @@
   "seller": "Coolblue",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.coolblue.nl/product/980942/nothing-ear-3a-wit.html": {
   "site": "coolblue",
@@ -5766,7 +5848,7 @@
   "seller": "Coolblue",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.coolblue.nl/product/981731/jbl-live-780nc-groen.html": {
   "site": "coolblue",
@@ -5798,7 +5880,7 @@
   "seller": "Coolblue",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.coolblue.nl/product/983309/bose-quietcomfort-headphones-2nd-gen-paars.html": {
   "site": "coolblue",
@@ -5830,7 +5912,7 @@
   "seller": "Coolblue",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.coolblue.nl/product/983374/sony-wh1000xm6-groen.html": {
   "site": "coolblue",
@@ -5846,7 +5928,7 @@
   "seller": "Coolblue",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.coolblue.nl/product/984102/shokz-openfit-air-2-blauw.html": {
   "site": "coolblue",
@@ -5894,7 +5976,7 @@
   "seller": "Coolblue",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.coolblue.nl/product/984492/sonos-ace-ultra-zwart.html": {
   "site": "coolblue",
@@ -5910,7 +5992,7 @@
   "seller": "Coolblue",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.coolblue.nl/product/984495/jbl-tune-flex-3-zwart.html": {
   "site": "coolblue",
@@ -5942,7 +6024,7 @@
   "seller": "Coolblue",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-25"
+  "last_seen": "2026-11-27"
  },
  "https://www.coolblue.nl/product/985301/sony-wh-ch735n-zwart.html": {
   "site": "coolblue",
@@ -5958,7 +6040,7 @@
   "seller": "Coolblue",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.coolblue.nl/product/985303/sony-wh-ch735n-blauw.html": {
   "site": "coolblue",
@@ -6006,7 +6088,7 @@
   "seller": "Coolblue",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.coolblue.nl/product/985306/sony-wh-1000xm4c-zwart.html": {
   "site": "coolblue",
@@ -6022,7 +6104,7 @@
   "seller": "Coolblue",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.coolblue.nl/product/985307/sony-wh-1000xm4c-zilver.html": {
   "site": "coolblue",
@@ -6038,7 +6120,7 @@
   "seller": "Coolblue",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.coolblue.nl/product/985308/sony-wh-1000xm4c-paars.html": {
   "site": "coolblue",
@@ -6054,7 +6136,7 @@
   "seller": "Coolblue",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.coolblue.nl/product/985424/sennheiser-momentum-true-wireless-5-grijs.html": {
   "site": "coolblue",
@@ -6070,7 +6152,7 @@
   "seller": "Coolblue",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.coolblue.nl/product/985425/sennheiser-momentum-true-wireless-5-creme.html": {
   "site": "coolblue",
@@ -6086,13 +6168,13 @@
   "seller": "Coolblue",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.coolblue.nl/product/985426/sennheiser-momentum-true-wireless-5-koper.html": {
   "site": "coolblue",
   "country": "NL",
   "name": "Sennheiser Momentum True Wireless 5 Koper",
-  "price": "286",
+  "price": "300",
   "currency": "EUR",
   "url": "https://www.coolblue.nl/product/985426/sennheiser-momentum-true-wireless-5-koper.html",
   "in_stock": true,
@@ -6102,7 +6184,7 @@
   "seller": "Coolblue",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-13"
+  "last_seen": "2026-11-27"
  },
  "https://www.coolblue.nl/product/985427/sennheiser-momentum-true-wireless-5-blauw.html": {
   "site": "coolblue",
@@ -6118,13 +6200,13 @@
   "seller": "Coolblue",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.coolblue.nl/product/985428/sennheiser-momentum-true-wireless-5-paars.html": {
   "site": "coolblue",
   "country": "NL",
   "name": "Sennheiser Momentum True Wireless 5 Paars",
-  "price": "287",
+  "price": "288",
   "currency": "EUR",
   "url": "https://www.coolblue.nl/product/985428/sennheiser-momentum-true-wireless-5-paars.html",
   "in_stock": true,
@@ -6134,7 +6216,7 @@
   "seller": "Coolblue",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.coolblue.nl/product/985554/marshall-milton-anc-bruin.html": {
   "site": "coolblue",
@@ -6150,7 +6232,7 @@
   "seller": "Coolblue",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.coolblue.nl/product/986177/apple-airpods-5.html": {
   "site": "coolblue",
@@ -6166,7 +6248,7 @@
   "seller": "Coolblue",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.coolblue.nl/product/986178/apple-airpods-5-met-draadloze-oplaadcase.html": {
   "site": "coolblue",
@@ -6182,7 +6264,7 @@
   "seller": "Coolblue",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.coolblue.nl/product/986818/bose-ultra-open-earbuds-2e-gen-donkerrood.html": {
   "site": "coolblue",
@@ -6198,7 +6280,7 @@
   "seller": "Coolblue",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.coolblue.nl/product/986819/bose-ultra-open-earbuds-2e-gen-wit.html": {
   "site": "coolblue",
@@ -6245,7 +6327,7 @@
   "seller": "Coolblue",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.coolblue.nl/product/986822/nothing-headphone-1-pro-wit.html": {
   "site": "coolblue",
@@ -6267,7 +6349,7 @@
   "site": "coolblue",
   "country": "NL",
   "name": "Sennheiser Momentum 5 Lavender",
-  "price": "399",
+  "price": "384",
   "currency": "EUR",
   "url": "https://www.coolblue.nl/product/986871/sennheiser-momentum-5-lavender.html",
   "in_stock": true,
@@ -6277,7 +6359,7 @@
   "seller": "Coolblue",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-24"
+  "last_seen": "2026-11-27"
  },
  "https://www.coolblue.nl/product/986872/sennheiser-momentum-5-copper.html": {
   "site": "coolblue",
@@ -6293,7 +6375,7 @@
   "seller": "Coolblue",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.coolblue.nl/product/986905/sennheiser-hdb-630-zilver.html": {
   "site": "coolblue",
@@ -6309,7 +6391,7 @@
   "seller": "Coolblue",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.coolblue.nl/product/987210/soundcore-aeroclip-2-zwart.html": {
   "site": "coolblue",
@@ -6325,7 +6407,7 @@
   "seller": "Coolblue",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.coolblue.nl/product/987211/soundcore-aeroclip-2-wit.html": {
   "site": "coolblue",
@@ -6341,7 +6423,7 @@
   "seller": "Coolblue",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.coolblue.nl/product/987212/soundcore-aeroclip-2-blauw.html": {
   "site": "coolblue",
@@ -6357,7 +6439,7 @@
   "seller": "Coolblue",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.coolblue.nl/product/987213/soundcore-aeroclip-2-rood.html": {
   "site": "coolblue",
@@ -6373,7 +6455,7 @@
   "seller": "Coolblue",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.coolblue.nl/product/987271/anker-soundcore-space-2-pro-zwart.html": {
   "site": "coolblue",
@@ -6389,7 +6471,7 @@
   "seller": "Coolblue",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.coolblue.nl/product/987288/anker-soundcore-space-2-pro-grijs.html": {
   "site": "coolblue",
@@ -6405,7 +6487,7 @@
   "seller": "Coolblue",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.coolblue.nl/product/987289/anker-soundcore-liberty-buds-2-zwart.html": {
   "site": "coolblue",
@@ -6437,7 +6519,7 @@
   "seller": "Coolblue",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.coolblue.nl/product/987375/skullcandy-crusher-1080-zwart.html": {
   "site": "coolblue",
@@ -6453,7 +6535,7 @@
   "seller": "Coolblue",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.coolblue.nl/product/987994/fairphone-fairbuds-2-zwart.html": {
   "site": "coolblue",
@@ -6533,7 +6615,7 @@
   "seller": "LDLC",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.ldlc.com/fiche/PB00234304.html": {
   "site": "ldlc",
@@ -6581,7 +6663,7 @@
   "seller": "LDLC",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.ldlc.com/fiche/PB00315152.html": {
   "site": "ldlc",
@@ -6597,7 +6679,7 @@
   "seller": "LDLC Marketplace partner",
   "is_official": false,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.ldlc.com/fiche/PB00315153.html": {
   "site": "ldlc",
@@ -6613,7 +6695,7 @@
   "seller": "LDLC Marketplace partner",
   "is_official": false,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.ldlc.com/fiche/PB00315156.html": {
   "site": "ldlc",
@@ -6629,7 +6711,7 @@
   "seller": "LDLC Marketplace partner",
   "is_official": false,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.ldlc.com/fiche/PB00315157.html": {
   "site": "ldlc",
@@ -6645,7 +6727,7 @@
   "seller": "LDLC Marketplace partner",
   "is_official": false,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.ldlc.com/fiche/PB00315159.html": {
   "site": "ldlc",
@@ -6661,7 +6743,7 @@
   "seller": "LDLC Marketplace partner",
   "is_official": false,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.ldlc.com/fiche/PB00336044.html": {
   "site": "ldlc",
@@ -6677,7 +6759,7 @@
   "seller": "LDLC Marketplace partner",
   "is_official": false,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.ldlc.com/fiche/PB00336045.html": {
   "site": "ldlc",
@@ -6709,7 +6791,7 @@
   "seller": "LDLC",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.ldlc.com/fiche/PB00424219.html": {
   "site": "ldlc",
@@ -6725,7 +6807,7 @@
   "seller": "LDLC",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.ldlc.com/fiche/PB00458440.html": {
   "site": "ldlc",
@@ -6741,7 +6823,7 @@
   "seller": "LDLC",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.ldlc.com/fiche/PB00459153.html": {
   "site": "ldlc",
@@ -6757,7 +6839,7 @@
   "seller": "LDLC",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.ldlc.com/fiche/PB00471244.html": {
   "site": "ldlc",
@@ -6789,7 +6871,7 @@
   "seller": "LDLC",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.ldlc.com/fiche/PB00534819.html": {
   "site": "ldlc",
@@ -6805,7 +6887,7 @@
   "seller": "LDLC Marketplace partner",
   "is_official": false,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.ldlc.com/fiche/PB00534820.html": {
   "site": "ldlc",
@@ -6821,7 +6903,7 @@
   "seller": "LDLC Marketplace partner",
   "is_official": false,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.ldlc.com/fiche/PB00547878.html": {
   "site": "ldlc",
@@ -6837,7 +6919,7 @@
   "seller": "LDLC",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.ldlc.com/fiche/PB00547881.html": {
   "site": "ldlc",
@@ -6853,7 +6935,7 @@
   "seller": "LDLC",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.ldlc.com/fiche/PB00547882.html": {
   "site": "ldlc",
@@ -6869,7 +6951,7 @@
   "seller": "LDLC",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.ldlc.com/fiche/PB00548462.html": {
   "site": "ldlc",
@@ -6885,7 +6967,7 @@
   "seller": "LDLC",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.ldlc.com/fiche/PB00557804.html": {
   "site": "ldlc",
@@ -6901,7 +6983,7 @@
   "seller": "LDLC",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.ldlc.com/fiche/PB00557806.html": {
   "site": "ldlc",
@@ -6917,7 +6999,7 @@
   "seller": "LDLC",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.ldlc.com/fiche/PB00557810.html": {
   "site": "ldlc",
@@ -6965,7 +7047,7 @@
   "seller": "LDLC",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.ldlc.com/fiche/PB00562074.html": {
   "site": "ldlc",
@@ -6981,7 +7063,7 @@
   "seller": "LDLC",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.ldlc.com/fiche/PB00562076.html": {
   "site": "ldlc",
@@ -6997,7 +7079,7 @@
   "seller": "LDLC",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.ldlc.com/fiche/PB00562101.html": {
   "site": "ldlc",
@@ -7013,7 +7095,7 @@
   "seller": "LDLC",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.ldlc.com/fiche/PB00562114.html": {
   "site": "ldlc",
@@ -7029,7 +7111,7 @@
   "seller": "LDLC",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.ldlc.com/fiche/PB00562282.html": {
   "site": "ldlc",
@@ -7045,7 +7127,7 @@
   "seller": "LDLC",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.ldlc.com/fiche/PB00562285.html": {
   "site": "ldlc",
@@ -7077,7 +7159,7 @@
   "seller": "LDLC",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.ldlc.com/fiche/PB00571619.html": {
   "site": "ldlc",
@@ -7093,7 +7175,7 @@
   "seller": "LDLC",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.ldlc.com/fiche/PB00572188.html": {
   "site": "ldlc",
@@ -7109,7 +7191,7 @@
   "seller": "LDLC",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.ldlc.com/fiche/PB00579446.html": {
   "site": "ldlc",
@@ -7125,7 +7207,7 @@
   "seller": "LDLC",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.ldlc.com/fiche/PB00579447.html": {
   "site": "ldlc",
@@ -7141,7 +7223,7 @@
   "seller": "LDLC",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.ldlc.com/fiche/PB00584279.html": {
   "site": "ldlc",
@@ -7157,7 +7239,7 @@
   "seller": "LDLC",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.ldlc.com/fiche/PB00584780.html": {
   "site": "ldlc",
@@ -7173,7 +7255,7 @@
   "seller": "LDLC",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.ldlc.com/fiche/PB00584785.html": {
   "site": "ldlc",
@@ -7189,7 +7271,7 @@
   "seller": "LDLC",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.ldlc.com/fiche/PB00584786.html": {
   "site": "ldlc",
@@ -7205,7 +7287,7 @@
   "seller": "LDLC",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.ldlc.com/fiche/PB00584787.html": {
   "site": "ldlc",
@@ -7221,7 +7303,7 @@
   "seller": "LDLC",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.ldlc.com/fiche/PB00611418.html": {
   "site": "ldlc",
@@ -7269,7 +7351,7 @@
   "seller": "LDLC",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.ldlc.com/fiche/PB00613204.html": {
   "site": "ldlc",
@@ -7285,7 +7367,7 @@
   "seller": "LDLC",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.ldlc.com/fiche/PB00614876.html": {
   "site": "ldlc",
@@ -7301,7 +7383,7 @@
   "seller": "LDLC Marketplace partner",
   "is_official": false,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.ldlc.com/fiche/PB00615639.html": {
   "site": "ldlc",
@@ -7317,7 +7399,7 @@
   "seller": "LDLC",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.ldlc.com/fiche/PB00627204.html": {
   "site": "ldlc",
@@ -7333,7 +7415,7 @@
   "seller": "LDLC",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.ldlc.com/fiche/PB00627206.html": {
   "site": "ldlc",
@@ -7349,7 +7431,7 @@
   "seller": "LDLC",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.ldlc.com/fiche/PB00628447.html": {
   "site": "ldlc",
@@ -7365,7 +7447,7 @@
   "seller": "LDLC",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.ldlc.com/fiche/PB00639906.html": {
   "site": "ldlc",
@@ -7381,7 +7463,7 @@
   "seller": "LDLC",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.ldlc.com/fiche/PB00639921.html": {
   "site": "ldlc",
@@ -7397,7 +7479,7 @@
   "seller": "LDLC",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.ldlc.com/fiche/PB00642661.html": {
   "site": "ldlc",
@@ -7413,7 +7495,7 @@
   "seller": "LDLC",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.ldlc.com/fiche/PB00642663.html": {
   "site": "ldlc",
@@ -7429,13 +7511,13 @@
   "seller": "LDLC",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.ldlc.com/fiche/PB00642665.html": {
   "site": "ldlc",
   "country": "FR",
   "name": "Apple AirPods Max Minuit - Reconditionné",
-  "price": "419.00",
+  "price": "399.99",
   "currency": "EUR",
   "url": "https://www.ldlc.com/fiche/PB00642665.html",
   "in_stock": true,
@@ -7445,7 +7527,7 @@
   "seller": "LDLC",
   "is_official": true,
   "condition": "refurbished",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.ldlc.com/fiche/PB00642666.html": {
   "site": "ldlc",
@@ -7461,13 +7543,13 @@
   "seller": "LDLC",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.ldlc.com/fiche/PB00642667.html": {
   "site": "ldlc",
   "country": "FR",
-  "name": "Apple AirPods Max Bleu",
-  "price": "399.00",
+  "name": "Apple AirPods Max Bleu - Reconditionné",
+  "price": "409.99",
   "currency": "EUR",
   "url": "https://www.ldlc.com/fiche/PB00642667.html",
   "in_stock": true,
@@ -7476,8 +7558,8 @@
   "brand": "Apple",
   "seller": "LDLC",
   "is_official": true,
-  "condition": "new",
-  "last_seen": "2026-11-26"
+  "condition": "refurbished",
+  "last_seen": "2026-11-27"
  },
  "https://www.ldlc.com/fiche/PB00642668.html": {
   "site": "ldlc",
@@ -7493,7 +7575,7 @@
   "seller": "LDLC",
   "is_official": true,
   "condition": "refurbished",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.ldlc.com/fiche/PB00642669.html": {
   "site": "ldlc",
@@ -7509,7 +7591,7 @@
   "seller": "LDLC",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.ldlc.com/fiche/PB00646372.html": {
   "site": "ldlc",
@@ -7525,7 +7607,7 @@
   "seller": "LDLC Marketplace partner",
   "is_official": false,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.ldlc.com/fiche/PB00647580.html": {
   "site": "ldlc",
@@ -7541,7 +7623,7 @@
   "seller": "LDLC",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.ldlc.com/fiche/PB00649057.html": {
   "site": "ldlc",
@@ -7557,7 +7639,7 @@
   "seller": "LDLC",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.ldlc.com/fiche/PB00649058.html": {
   "site": "ldlc",
@@ -7573,7 +7655,7 @@
   "seller": "LDLC",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.ldlc.com/fiche/PB00649518.html": {
   "site": "ldlc",
@@ -7589,7 +7671,7 @@
   "seller": "LDLC",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.ldlc.com/fiche/PB00649519.html": {
   "site": "ldlc",
@@ -7605,7 +7687,7 @@
   "seller": "LDLC",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.ldlc.com/fiche/PB00649575.html": {
   "site": "ldlc",
@@ -7621,7 +7703,7 @@
   "seller": "LDLC",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.ldlc.com/fiche/PB00650365.html": {
   "site": "ldlc",
@@ -7637,7 +7719,7 @@
   "seller": "LDLC",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.ldlc.com/fiche/PB00653388.html": {
   "site": "ldlc",
@@ -7653,7 +7735,7 @@
   "seller": "LDLC Marketplace partner",
   "is_official": false,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.ldlc.com/fiche/PB00654115.html": {
   "site": "ldlc",
@@ -7669,7 +7751,7 @@
   "seller": "LDLC Marketplace partner",
   "is_official": false,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.ldlc.com/fiche/PB00654235.html": {
   "site": "ldlc",
@@ -7685,7 +7767,7 @@
   "seller": "LDLC",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.ldlc.com/fiche/PB00654237.html": {
   "site": "ldlc",
@@ -7701,7 +7783,7 @@
   "seller": "LDLC",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.ldlc.com/fiche/PB00654360.html": {
   "site": "ldlc",
@@ -7717,7 +7799,7 @@
   "seller": "LDLC",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.ldlc.com/fiche/PB00655488.html": {
   "site": "ldlc",
@@ -7733,7 +7815,7 @@
   "seller": "LDLC",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.ldlc.com/fiche/PB00655491.html": {
   "site": "ldlc",
@@ -7749,7 +7831,7 @@
   "seller": "LDLC",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.ldlc.com/fiche/PB00656400.html": {
   "site": "ldlc",
@@ -7781,7 +7863,7 @@
   "seller": "LDLC",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.ldlc.com/fiche/PB00658973.html": {
   "site": "ldlc",
@@ -7797,7 +7879,7 @@
   "seller": "LDLC",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.ldlc.com/fiche/PB00658976.html": {
   "site": "ldlc",
@@ -7813,7 +7895,7 @@
   "seller": "LDLC",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.ldlc.com/fiche/PB00658979.html": {
   "site": "ldlc",
@@ -7829,7 +7911,7 @@
   "seller": "LDLC",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.ldlc.com/fiche/PB00658980.html": {
   "site": "ldlc",
@@ -7845,7 +7927,7 @@
   "seller": "LDLC",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.ldlc.com/fiche/PB00658983.html": {
   "site": "ldlc",
@@ -7861,7 +7943,7 @@
   "seller": "LDLC",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.ldlc.com/fiche/PB00658984.html": {
   "site": "ldlc",
@@ -7877,7 +7959,7 @@
   "seller": "LDLC",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.ldlc.com/fiche/PB00658985.html": {
   "site": "ldlc",
@@ -7893,7 +7975,7 @@
   "seller": "LDLC",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.ldlc.com/fiche/PB00658986.html": {
   "site": "ldlc",
@@ -7909,7 +7991,7 @@
   "seller": "LDLC",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.ldlc.com/fiche/PB00659028.html": {
   "site": "ldlc",
@@ -7925,7 +8007,7 @@
   "seller": "LDLC",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.ldlc.com/fiche/PB00659030.html": {
   "site": "ldlc",
@@ -7957,7 +8039,7 @@
   "seller": "LDLC",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.ldlc.com/fiche/PB00659035.html": {
   "site": "ldlc",
@@ -7973,7 +8055,7 @@
   "seller": "LDLC",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.ldlc.com/fiche/PB00659037.html": {
   "site": "ldlc",
@@ -7989,7 +8071,7 @@
   "seller": "LDLC",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.ldlc.com/fiche/PB00659040.html": {
   "site": "ldlc",
@@ -8005,7 +8087,7 @@
   "seller": "LDLC",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.ldlc.com/fiche/PB00659102.html": {
   "site": "ldlc",
@@ -8021,7 +8103,7 @@
   "seller": "LDLC",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.ldlc.com/fiche/PB00659103.html": {
   "site": "ldlc",
@@ -8037,7 +8119,7 @@
   "seller": "LDLC",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.ldlc.com/fiche/PB00660884.html": {
   "site": "ldlc",
@@ -8053,7 +8135,7 @@
   "seller": "LDLC",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.ldlc.com/fiche/PB00662038.html": {
   "site": "ldlc",
@@ -8069,7 +8151,7 @@
   "seller": "LDLC Marketplace partner",
   "is_official": false,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.ldlc.com/fiche/PB00662052.html": {
   "site": "ldlc",
@@ -8117,7 +8199,7 @@
   "seller": "LDLC",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.ldlc.com/fiche/PB00664320.html": {
   "site": "ldlc",
@@ -8133,7 +8215,7 @@
   "seller": "LDLC",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.ldlc.com/fiche/PB00664322.html": {
   "site": "ldlc",
@@ -8149,7 +8231,7 @@
   "seller": "LDLC",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.ldlc.com/fiche/PB00664374.html": {
   "site": "ldlc",
@@ -8165,7 +8247,7 @@
   "seller": "LDLC",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.ldlc.com/fiche/PB00664375.html": {
   "site": "ldlc",
@@ -8181,7 +8263,7 @@
   "seller": "LDLC",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.ldlc.com/fiche/PB00664376.html": {
   "site": "ldlc",
@@ -8197,7 +8279,7 @@
   "seller": "LDLC",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.ldlc.com/fiche/PB00664992.html": {
   "site": "ldlc",
@@ -8213,7 +8295,7 @@
   "seller": "LDLC",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.ldlc.com/fiche/PB00664993.html": {
   "site": "ldlc",
@@ -8229,7 +8311,7 @@
   "seller": "LDLC",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.ldlc.com/fiche/PB00665000.html": {
   "site": "ldlc",
@@ -8245,7 +8327,7 @@
   "seller": "LDLC",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.ldlc.com/fiche/PB00665052.html": {
   "site": "ldlc",
@@ -8254,14 +8336,14 @@
   "price": "129.00",
   "currency": "EUR",
   "url": "https://www.ldlc.com/fiche/PB00665052.html",
-  "in_stock": true,
+  "in_stock": false,
   "model": "AKGN5HYBRIDBLK",
   "ean": "1200130008368",
   "brand": "AKG",
   "seller": "LDLC",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.ldlc.com/fiche/PB00665055.html": {
   "site": "ldlc",
@@ -8277,7 +8359,7 @@
   "seller": "LDLC",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.ldlc.com/fiche/PB00665062.html": {
   "site": "ldlc",
@@ -8293,7 +8375,7 @@
   "seller": "LDLC",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.ldlc.com/fiche/PB00665063.html": {
   "site": "ldlc",
@@ -8309,7 +8391,7 @@
   "seller": "LDLC",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.ldlc.com/fiche/PB00666762.html": {
   "site": "ldlc",
@@ -8325,7 +8407,7 @@
   "seller": "LDLC",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.ldlc.com/fiche/PB00668583.html": {
   "site": "ldlc",
@@ -8341,7 +8423,7 @@
   "seller": "LDLC",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.ldlc.com/fiche/PB00668584.html": {
   "site": "ldlc",
@@ -8357,7 +8439,7 @@
   "seller": "LDLC",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.ldlc.com/fiche/PB00673433.html": {
   "site": "ldlc",
@@ -8373,7 +8455,7 @@
   "seller": "LDLC Marketplace partner",
   "is_official": false,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.ldlc.com/fiche/PB00673443.html": {
   "site": "ldlc",
@@ -8389,7 +8471,7 @@
   "seller": "LDLC Marketplace partner",
   "is_official": false,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.ldlc.com/fiche/PB00673452.html": {
   "site": "ldlc",
@@ -8405,7 +8487,7 @@
   "seller": "LDLC Marketplace partner",
   "is_official": false,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.ldlc.com/fiche/PB00673472.html": {
   "site": "ldlc",
@@ -8421,7 +8503,7 @@
   "seller": "LDLC Marketplace partner",
   "is_official": false,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.ldlc.com/fiche/PB00673502.html": {
   "site": "ldlc",
@@ -8437,7 +8519,7 @@
   "seller": "LDLC Marketplace partner",
   "is_official": false,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.ldlc.com/fiche/PB00673525.html": {
   "site": "ldlc",
@@ -8453,7 +8535,7 @@
   "seller": "LDLC Marketplace partner",
   "is_official": false,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.ldlc.com/fiche/PB00675504.html": {
   "site": "ldlc",
@@ -8469,7 +8551,7 @@
   "seller": "LDLC",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.ldlc.com/fiche/PB00677455.html": {
   "site": "ldlc",
@@ -8485,7 +8567,7 @@
   "seller": "LDLC",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.ldlc.com/fiche/PB00677456.html": {
   "site": "ldlc",
@@ -8501,7 +8583,7 @@
   "seller": "LDLC",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.ldlc.com/fiche/PB00677458.html": {
   "site": "ldlc",
@@ -8517,7 +8599,7 @@
   "seller": "LDLC",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.ldlc.com/fiche/PB00684928.html": {
   "site": "ldlc",
@@ -8533,7 +8615,7 @@
   "seller": "LDLC",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.ldlc.com/fiche/PB00684929.html": {
   "site": "ldlc",
@@ -8549,7 +8631,7 @@
   "seller": "LDLC",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.ldlc.com/fiche/PB00684930.html": {
   "site": "ldlc",
@@ -8565,7 +8647,7 @@
   "seller": "LDLC",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.ldlc.com/fiche/PB00684931.html": {
   "site": "ldlc",
@@ -8581,7 +8663,7 @@
   "seller": "LDLC",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.ldlc.com/fiche/PB00687596.html": {
   "site": "ldlc",
@@ -8597,7 +8679,7 @@
   "seller": "LDLC Marketplace partner",
   "is_official": false,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.ldlc.com/fiche/PB00689849.html": {
   "site": "ldlc",
@@ -8613,7 +8695,7 @@
   "seller": "LDLC Marketplace partner",
   "is_official": false,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.ldlc.com/fiche/PB00689864.html": {
   "site": "ldlc",
@@ -8629,7 +8711,7 @@
   "seller": "LDLC Marketplace partner",
   "is_official": false,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.ldlc.com/fiche/PB00689875.html": {
   "site": "ldlc",
@@ -8645,7 +8727,7 @@
   "seller": "LDLC Marketplace partner",
   "is_official": false,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.ldlc.com/fiche/PB00691573.html": {
   "site": "ldlc",
@@ -8661,7 +8743,7 @@
   "seller": "LDLC",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.ldlc.com/fiche/PB00692184.html": {
   "site": "ldlc",
@@ -8677,7 +8759,7 @@
   "seller": "LDLC",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-16"
+  "last_seen": "2026-11-27"
  },
  "https://www.ldlc.com/fiche/PB00692185.html": {
   "site": "ldlc",
@@ -8693,7 +8775,7 @@
   "seller": "LDLC",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.ldlc.com/fiche/PB00692198.html": {
   "site": "ldlc",
@@ -8709,7 +8791,7 @@
   "seller": "LDLC",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.ldlc.com/fiche/PB00699157.html": {
   "site": "ldlc",
@@ -8725,7 +8807,7 @@
   "seller": "LDLC",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.ldlc.com/fiche/PB00699158.html": {
   "site": "ldlc",
@@ -8741,7 +8823,7 @@
   "seller": "LDLC",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.ldlc.com/fiche/PB00699159.html": {
   "site": "ldlc",
@@ -8757,7 +8839,7 @@
   "seller": "LDLC",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.ldlc.com/fiche/PB00699219.html": {
   "site": "ldlc",
@@ -8773,7 +8855,7 @@
   "seller": "LDLC",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.ldlc.com/fiche/PB00700694.html": {
   "site": "ldlc",
@@ -8789,7 +8871,7 @@
   "seller": "LDLC Marketplace partner",
   "is_official": false,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.ldlc.com/fiche/PB00702613.html": {
   "site": "ldlc",
@@ -8805,7 +8887,7 @@
   "seller": "LDLC",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.ldlc.com/fiche/PB00702615.html": {
   "site": "ldlc",
@@ -8821,7 +8903,7 @@
   "seller": "LDLC",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.ldlc.com/fiche/PB00702618.html": {
   "site": "ldlc",
@@ -8837,7 +8919,7 @@
   "seller": "LDLC",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.ldlc.com/fiche/PB00702842.html": {
   "site": "ldlc",
@@ -8853,7 +8935,7 @@
   "seller": "LDLC",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.ldlc.com/fiche/PB00703261.html": {
   "site": "ldlc",
@@ -8869,7 +8951,7 @@
   "seller": "LDLC",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.ldlc.com/fiche/PB00703262.html": {
   "site": "ldlc",
@@ -8885,7 +8967,7 @@
   "seller": "LDLC",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.ldlc.com/fiche/PB00706787.html": {
   "site": "ldlc",
@@ -8901,7 +8983,7 @@
   "seller": "LDLC",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.ldlc.com/fiche/PB00706788.html": {
   "site": "ldlc",
@@ -8917,7 +8999,7 @@
   "seller": "LDLC",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.ldlc.com/fiche/PB00706790.html": {
   "site": "ldlc",
@@ -8933,7 +9015,7 @@
   "seller": "LDLC",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.ldlc.com/fiche/PB00706791.html": {
   "site": "ldlc",
@@ -8949,7 +9031,7 @@
   "seller": "LDLC",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.ldlc.com/fiche/PB00707338.html": {
   "site": "ldlc",
@@ -8965,7 +9047,7 @@
   "seller": "LDLC",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.ldlc.com/fiche/PB00707471.html": {
   "site": "ldlc",
@@ -8981,7 +9063,7 @@
   "seller": "LDLC",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.ldlc.com/fiche/PB00707472.html": {
   "site": "ldlc",
@@ -8997,7 +9079,7 @@
   "seller": "LDLC",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.ldlc.com/fiche/PB00707474.html": {
   "site": "ldlc",
@@ -9013,7 +9095,7 @@
   "seller": "LDLC",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.ldlc.com/fiche/PB00708298.html": {
   "site": "ldlc",
@@ -9045,7 +9127,7 @@
   "seller": "LDLC",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.ldlc.com/fiche/PB00708869.html": {
   "site": "ldlc",
@@ -9061,7 +9143,7 @@
   "seller": "LDLC",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.ldlc.com/fiche/PB00708883.html": {
   "site": "ldlc",
@@ -9077,7 +9159,7 @@
   "seller": "LDLC",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.ldlc.com/fiche/PB00709216.html": {
   "site": "ldlc",
@@ -9093,7 +9175,7 @@
   "seller": "LDLC",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.ldlc.com/fiche/PB00709218.html": {
   "site": "ldlc",
@@ -9109,7 +9191,7 @@
   "seller": "LDLC",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.ldlc.com/fiche/PB00709321.html": {
   "site": "ldlc",
@@ -9125,7 +9207,7 @@
   "seller": "LDLC",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.ldlc.com/fiche/PB00709322.html": {
   "site": "ldlc",
@@ -9141,7 +9223,7 @@
   "seller": "LDLC",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.ldlc.com/fiche/PB00711098.html": {
   "site": "ldlc",
@@ -9157,7 +9239,7 @@
   "seller": "LDLC",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.ldlc.com/fiche/PB00711100.html": {
   "site": "ldlc",
@@ -9173,7 +9255,7 @@
   "seller": "LDLC",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.ldlc.com/fiche/PB00713106.html": {
   "site": "ldlc",
@@ -9189,7 +9271,7 @@
   "seller": "LDLC",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.ldlc.com/fiche/PB00713597.html": {
   "site": "ldlc",
@@ -9205,13 +9287,13 @@
   "seller": "LDLC",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.ldlc.com/fiche/PB00713600.html": {
   "site": "ldlc",
   "country": "FR",
   "name": "B&W Px8 S2 Beige",
-  "price": "729.00",
+  "price": "729",
   "currency": "EUR",
   "url": "https://www.ldlc.com/fiche/PB00713600.html",
   "in_stock": true,
@@ -9221,7 +9303,7 @@
   "seller": "LDLC",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.ldlc.com/fiche/PB00715810.html": {
   "site": "ldlc",
@@ -9237,7 +9319,7 @@
   "seller": "LDLC Marketplace partner",
   "is_official": false,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.ldlc.com/fiche/PB00715880.html": {
   "site": "ldlc",
@@ -9253,7 +9335,7 @@
   "seller": "LDLC Marketplace partner",
   "is_official": false,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.ldlc.com/fiche/PB00715912.html": {
   "site": "ldlc",
@@ -9269,7 +9351,7 @@
   "seller": "LDLC Marketplace partner",
   "is_official": false,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.ldlc.com/fiche/PB00717230.html": {
   "site": "ldlc",
@@ -9285,7 +9367,7 @@
   "seller": "LDLC",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.ldlc.com/fiche/PB00717302.html": {
   "site": "ldlc",
@@ -9301,7 +9383,7 @@
   "seller": "LDLC",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.ldlc.com/fiche/PB00723307.html": {
   "site": "ldlc",
@@ -9317,7 +9399,7 @@
   "seller": "LDLC",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.ldlc.com/fiche/PB00723308.html": {
   "site": "ldlc",
@@ -9333,7 +9415,7 @@
   "seller": "LDLC",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.ldlc.com/fiche/PB00723327.html": {
   "site": "ldlc",
@@ -9349,7 +9431,7 @@
   "seller": "LDLC",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.ldlc.com/fiche/PB00723342.html": {
   "site": "ldlc",
@@ -9365,7 +9447,7 @@
   "seller": "LDLC",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.ldlc.com/fiche/PB00723592.html": {
   "site": "ldlc",
@@ -9381,7 +9463,7 @@
   "seller": "LDLC",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.ldlc.com/fiche/PB00723593.html": {
   "site": "ldlc",
@@ -9397,7 +9479,7 @@
   "seller": "LDLC",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.ldlc.com/fiche/PB00723594.html": {
   "site": "ldlc",
@@ -9413,7 +9495,7 @@
   "seller": "LDLC",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.ldlc.com/fiche/PB00723595.html": {
   "site": "ldlc",
@@ -9429,7 +9511,7 @@
   "seller": "LDLC",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.ldlc.com/fiche/PB00723616.html": {
   "site": "ldlc",
@@ -9445,7 +9527,7 @@
   "seller": "LDLC",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.ldlc.com/fiche/PB00723617.html": {
   "site": "ldlc",
@@ -9461,7 +9543,7 @@
   "seller": "LDLC",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.ldlc.com/fiche/PB00723619.html": {
   "site": "ldlc",
@@ -9477,7 +9559,7 @@
   "seller": "LDLC",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.ldlc.com/fiche/PB00723620.html": {
   "site": "ldlc",
@@ -9493,7 +9575,7 @@
   "seller": "LDLC",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.ldlc.com/fiche/PB00725141.html": {
   "site": "ldlc",
@@ -9509,7 +9591,7 @@
   "seller": "LDLC",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.ldlc.com/fiche/PB00725159.html": {
   "site": "ldlc",
@@ -9525,7 +9607,7 @@
   "seller": "LDLC",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.ldlc.com/fiche/PB00725190.html": {
   "site": "ldlc",
@@ -9541,7 +9623,7 @@
   "seller": "LDLC",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.ldlc.com/fiche/PB00726432.html": {
   "site": "ldlc",
@@ -9557,7 +9639,7 @@
   "seller": "LDLC",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.ldlc.com/fiche/PB00726435.html": {
   "site": "ldlc",
@@ -9573,7 +9655,7 @@
   "seller": "LDLC",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.ldlc.com/fiche/PB00726702.html": {
   "site": "ldlc",
@@ -9589,7 +9671,7 @@
   "seller": "LDLC",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.ldlc.com/fiche/PB00732435.html": {
   "site": "ldlc",
@@ -9605,7 +9687,7 @@
   "seller": "LDLC",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.ldlc.com/fiche/PB00732437.html": {
   "site": "ldlc",
@@ -9621,7 +9703,7 @@
   "seller": "LDLC",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.ldlc.com/fiche/PB00732438.html": {
   "site": "ldlc",
@@ -9637,7 +9719,7 @@
   "seller": "LDLC",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.ldlc.com/fiche/PB00732439.html": {
   "site": "ldlc",
@@ -9653,7 +9735,7 @@
   "seller": "LDLC",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.ldlc.com/fiche/PB00732440.html": {
   "site": "ldlc",
@@ -9669,7 +9751,7 @@
   "seller": "LDLC",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.ldlc.com/fiche/PB00733978.html": {
   "site": "ldlc",
@@ -9685,7 +9767,7 @@
   "seller": "LDLC Marketplace partner",
   "is_official": false,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.ldlc.com/fiche/PB00733993.html": {
   "site": "ldlc",
@@ -9701,7 +9783,7 @@
   "seller": "LDLC Marketplace partner",
   "is_official": false,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.ldlc.com/fiche/PB00733998.html": {
   "site": "ldlc",
@@ -9717,7 +9799,7 @@
   "seller": "LDLC Marketplace partner",
   "is_official": false,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.ldlc.com/fiche/PB00740505.html": {
   "site": "ldlc",
@@ -9733,7 +9815,7 @@
   "seller": "LDLC",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.ldlc.com/fiche/PB00740864.html": {
   "site": "ldlc",
@@ -9749,7 +9831,7 @@
   "seller": "LDLC Marketplace partner",
   "is_official": false,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.ldlc.com/fiche/PB00741414.html": {
   "site": "ldlc",
@@ -9765,7 +9847,7 @@
   "seller": "LDLC Marketplace partner",
   "is_official": false,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.ldlc.com/fiche/PB00741481.html": {
   "site": "ldlc",
@@ -9781,7 +9863,7 @@
   "seller": "LDLC Marketplace partner",
   "is_official": false,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.ldlc.com/fiche/PB00741930.html": {
   "site": "ldlc",
@@ -9797,7 +9879,7 @@
   "seller": "LDLC",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.ldlc.com/fiche/PB00741931.html": {
   "site": "ldlc",
@@ -9813,7 +9895,7 @@
   "seller": "LDLC",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.ldlc.com/fiche/PB00742024.html": {
   "site": "ldlc",
@@ -9829,7 +9911,7 @@
   "seller": "LDLC",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.ldlc.com/fiche/PB00742025.html": {
   "site": "ldlc",
@@ -9845,7 +9927,7 @@
   "seller": "LDLC",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.ldlc.com/fiche/PB00744364.html": {
   "site": "ldlc",
@@ -9861,7 +9943,7 @@
   "seller": "LDLC",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.ldlc.com/fiche/PB00745807.html": {
   "site": "ldlc",
@@ -9877,7 +9959,7 @@
   "seller": "LDLC",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.ldlc.com/fiche/PB00745808.html": {
   "site": "ldlc",
@@ -9893,7 +9975,7 @@
   "seller": "LDLC",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.ldlc.com/fiche/PB00745809.html": {
   "site": "ldlc",
@@ -9909,7 +9991,7 @@
   "seller": "LDLC",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.ldlc.com/fiche/PB00745810.html": {
   "site": "ldlc",
@@ -9925,7 +10007,7 @@
   "seller": "LDLC",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.ldlc.com/fiche/PB00747324.html": {
   "site": "ldlc",
@@ -9941,7 +10023,7 @@
   "seller": "LDLC",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.ldlc.com/fiche/PB00747499.html": {
   "site": "ldlc",
@@ -9989,7 +10071,7 @@
   "seller": "LDLC",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.ldlc.com/fiche/PB00748214.html": {
   "site": "ldlc",
@@ -10005,7 +10087,7 @@
   "seller": "LDLC",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.ldlc.com/fiche/PB00748215.html": {
   "site": "ldlc",
@@ -10021,7 +10103,7 @@
   "seller": "LDLC",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.ldlc.com/fiche/PB00748220.html": {
   "site": "ldlc",
@@ -10037,7 +10119,7 @@
   "seller": "LDLC",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.ldlc.com/fiche/PB00748221.html": {
   "site": "ldlc",
@@ -10053,7 +10135,7 @@
   "seller": "LDLC",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.ldlc.com/fiche/PB00748223.html": {
   "site": "ldlc",
@@ -10069,7 +10151,7 @@
   "seller": "LDLC",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.ldlc.com/fiche/PB00748224.html": {
   "site": "ldlc",
@@ -10085,7 +10167,7 @@
   "seller": "LDLC",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.ldlc.com/fiche/PB00748225.html": {
   "site": "ldlc",
@@ -10101,7 +10183,7 @@
   "seller": "LDLC",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.ldlc.com/fiche/PB00748831.html": {
   "site": "ldlc",
@@ -10117,7 +10199,7 @@
   "seller": "LDLC Marketplace partner",
   "is_official": false,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.ldlc.com/fiche/PB00748918.html": {
   "site": "ldlc",
@@ -10133,7 +10215,7 @@
   "seller": "LDLC",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.ldlc.com/fiche/PB00748919.html": {
   "site": "ldlc",
@@ -10149,7 +10231,7 @@
   "seller": "LDLC",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.ldlc.com/fiche/PB00748920.html": {
   "site": "ldlc",
@@ -10165,7 +10247,7 @@
   "seller": "LDLC",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.ldlc.com/fiche/PB00748921.html": {
   "site": "ldlc",
@@ -10181,7 +10263,7 @@
   "seller": "LDLC",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.ldlc.com/fiche/PB00748923.html": {
   "site": "ldlc",
@@ -10197,7 +10279,7 @@
   "seller": "LDLC",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.ldlc.com/fiche/PB00748924.html": {
   "site": "ldlc",
@@ -10213,7 +10295,7 @@
   "seller": "LDLC",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.ldlc.com/fiche/PB00748987.html": {
   "site": "ldlc",
@@ -10229,7 +10311,7 @@
   "seller": "LDLC Marketplace partner",
   "is_official": false,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.ldlc.com/fiche/PB00748997.html": {
   "site": "ldlc",
@@ -10245,7 +10327,7 @@
   "seller": "LDLC Marketplace partner",
   "is_official": false,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.ldlc.com/fiche/PB00749019.html": {
   "site": "ldlc",
@@ -10261,7 +10343,7 @@
   "seller": "LDLC",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.ldlc.com/fiche/PB00749020.html": {
   "site": "ldlc",
@@ -10277,7 +10359,7 @@
   "seller": "LDLC",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.ldlc.com/fiche/PB00749021.html": {
   "site": "ldlc",
@@ -10293,7 +10375,7 @@
   "seller": "LDLC",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.ldlc.com/fiche/PB00750488.html": {
   "site": "ldlc",
@@ -10309,7 +10391,7 @@
   "seller": "LDLC Marketplace partner",
   "is_official": false,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.ldlc.com/fiche/PB00750490.html": {
   "site": "ldlc",
@@ -10325,7 +10407,7 @@
   "seller": "LDLC Marketplace partner",
   "is_official": false,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.ldlc.com/fiche/PB00752090.html": {
   "site": "ldlc",
@@ -10341,7 +10423,7 @@
   "seller": "LDLC",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.ldlc.com/fiche/PB00752092.html": {
   "site": "ldlc",
@@ -10357,7 +10439,7 @@
   "seller": "LDLC",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.ldlc.com/fiche/PB00752094.html": {
   "site": "ldlc",
@@ -10373,7 +10455,7 @@
   "seller": "LDLC",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.ldlc.com/fiche/PB00752844.html": {
   "site": "ldlc",
@@ -10389,7 +10471,7 @@
   "seller": "LDLC",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.ldlc.com/fiche/PB00752845.html": {
   "site": "ldlc",
@@ -10405,7 +10487,7 @@
   "seller": "LDLC",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.ldlc.com/fiche/PB00753257.html": {
   "site": "ldlc",
@@ -10421,7 +10503,7 @@
   "seller": "LDLC",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.ldlc.com/fiche/PB00753740.html": {
   "site": "ldlc",
@@ -10437,7 +10519,7 @@
   "seller": "LDLC",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.ldlc.com/fiche/PB00754731.html": {
   "site": "ldlc",
@@ -10453,7 +10535,7 @@
   "seller": "LDLC Marketplace partner",
   "is_official": false,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.ldlc.com/fiche/PB00760804.html": {
   "site": "ldlc",
@@ -10469,7 +10551,7 @@
   "seller": "LDLC",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.ldlc.com/fiche/PB00760805.html": {
   "site": "ldlc",
@@ -10485,7 +10567,7 @@
   "seller": "LDLC",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.ldlc.com/fiche/PB00762742.html": {
   "site": "ldlc",
@@ -10501,7 +10583,7 @@
   "seller": "LDLC",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.ldlc.com/fiche/PB00762743.html": {
   "site": "ldlc",
@@ -10517,7 +10599,7 @@
   "seller": "LDLC",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.ldlc.com/fiche/PB00762798.html": {
   "site": "ldlc",
@@ -10533,7 +10615,7 @@
   "seller": "LDLC",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.ldlc.com/fiche/PB00762800.html": {
   "site": "ldlc",
@@ -10542,14 +10624,14 @@
   "price": "429.95",
   "currency": "EUR",
   "url": "https://www.ldlc.com/fiche/PB00762800.html",
-  "in_stock": false,
+  "in_stock": true,
   "model": "FP46612",
   "ean": null,
   "brand": "B&W",
   "seller": "LDLC",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.ldlc.com/fiche/PB00763679.html": {
   "site": "ldlc",
@@ -10565,7 +10647,7 @@
   "seller": "LDLC Marketplace partner",
   "is_official": false,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.ldlc.com/fiche/PB00763680.html": {
   "site": "ldlc",
@@ -10581,7 +10663,7 @@
   "seller": "LDLC Marketplace partner",
   "is_official": false,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.ldlc.com/fiche/PB00763681.html": {
   "site": "ldlc",
@@ -10597,7 +10679,7 @@
   "seller": "LDLC Marketplace partner",
   "is_official": false,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.ldlc.com/fiche/PB00764891.html": {
   "site": "ldlc",
@@ -10613,7 +10695,7 @@
   "seller": "LDLC",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.mironet.cz/aiwa-ebtw150wt-bila-bezdratova-sluchatka-mikrofon-bluetooth-50+dp1015458/": {
   "site": "mironet",
@@ -12335,7 +12417,7 @@
   "site": "morele",
   "country": "PL",
   "name": "Słuchawki Anker Soundcore Liberty 4 NC czarne (A3947G11)",
-  "price": "321.39",
+  "price": "320.47",
   "currency": "PLN",
   "url": "https://www.morele.net/sluchawki-anker-soundcore-liberty-4-nc-czarne-a3947g11-13151260/",
   "in_stock": true,
@@ -12345,7 +12427,7 @@
   "seller": "NET-S",
   "is_official": false,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.morele.net/sluchawki-anker-soundcore-liberty-4-pro-biale-a3954g21-14893774/": {
   "site": "morele",
@@ -12367,39 +12449,39 @@
   "site": "morele",
   "country": "PL",
   "name": "Słuchawki Anker Soundcore Liberty 4 Pro czarne (A3954G11)",
-  "price": "350.99",
+  "price": "452.32",
   "currency": "PLN",
   "url": "https://www.morele.net/sluchawki-anker-soundcore-liberty-4-pro-czarne-a3954g11-14782990/",
   "in_stock": true,
   "model": "A3954G11",
   "ean": "0194644294250",
   "brand": "Anker",
-  "seller": "SuperTech",
-  "is_official": false,
+  "seller": "Morele.net",
+  "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.morele.net/sluchawki-anker-soundcore-liberty-5-a3957g11-14935708/": {
   "site": "morele",
   "country": "PL",
   "name": "Słuchawki Anker Soundcore Liberty 5 (A3957G11)",
-  "price": "209.00",
+  "price": "329.00",
   "currency": "PLN",
   "url": "https://www.morele.net/sluchawki-anker-soundcore-liberty-5-a3957g11-14935708/",
   "in_stock": true,
   "model": "A3957G11",
   "ean": "1946442913340",
   "brand": "Anker",
-  "seller": "Morele.net",
-  "is_official": true,
+  "seller": "duogsm",
+  "is_official": false,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.morele.net/sluchawki-anker-soundcore-liberty-5-pro-czarne-d1203g11-600407521/": {
   "site": "morele",
   "country": "PL",
   "name": "Słuchawki Anker Soundcore Liberty 5 Pro czarne (D1203G11)",
-  "price": "519.99",
+  "price": "632.99",
   "currency": "PLN",
   "url": "https://www.morele.net/sluchawki-anker-soundcore-liberty-5-pro-czarne-d1203g11-600407521/",
   "in_stock": true,
@@ -12409,7 +12491,7 @@
   "seller": "Morele.net",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.morele.net/sluchawki-anker-soundcore-liberty-5-pro-max-biale-d1203g21-600407523/": {
   "site": "morele",
@@ -12425,29 +12507,29 @@
   "seller": "Morele.net",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.morele.net/sluchawki-anker-soundcore-liberty-5-pro-max-czarne-d1204g11-600407522/": {
   "site": "morele",
   "country": "PL",
   "name": "Słuchawki Anker Soundcore Liberty 5 Pro Max czarne (D1204G11)",
-  "price": "688.99",
+  "price": "756.43",
   "currency": "PLN",
   "url": "https://www.morele.net/sluchawki-anker-soundcore-liberty-5-pro-max-czarne-d1204g11-600407522/",
   "in_stock": true,
   "model": "D1204G11",
   "ean": "0194644307981",
   "brand": "Anker",
-  "seller": "SuperTech",
-  "is_official": false,
+  "seller": "Morele.net",
+  "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.morele.net/sluchawki-anker-soundcore-liberty-5-pro-max-zlote-d1204gb1-600189436/": {
   "site": "morele",
   "country": "PL",
   "name": "Słuchawki Anker Soundcore Liberty 5 Pro Max złote (D1204GB1)",
-  "price": "677.00",
+  "price": "841.66",
   "currency": "PLN",
   "url": "https://www.morele.net/sluchawki-anker-soundcore-liberty-5-pro-max-zlote-d1204gb1-600189436/",
   "in_stock": true,
@@ -12457,13 +12539,13 @@
   "seller": "Morele.net",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.morele.net/sluchawki-anker-soundcore-liberty-5-pro-rozowe-d1203g51-600738608/": {
   "site": "morele",
   "country": "PL",
   "name": "Słuchawki Anker Soundcore Liberty 5 Pro różowe (D1203G51)",
-  "price": "578.42",
+  "price": "588.58",
   "currency": "PLN",
   "url": "https://www.morele.net/sluchawki-anker-soundcore-liberty-5-pro-rozowe-d1203g51-600738608/",
   "in_stock": true,
@@ -12473,7 +12555,7 @@
   "seller": "Morele.net",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.morele.net/sluchawki-anker-soundcore-life-q30-v2-czarne-a3028313-13749938/": {
   "site": "morele",
@@ -12489,7 +12571,7 @@
   "seller": "Morele.net",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.morele.net/sluchawki-anker-soundcore-q20i-a3004g11-13128898/": {
   "site": "morele",
@@ -12505,7 +12587,7 @@
   "seller": "Morele.net",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.morele.net/sluchawki-anker-soundcore-r60i-czarne-15759859/": {
   "site": "morele",
@@ -12585,13 +12667,13 @@
   "seller": "Melofone",
   "is_official": false,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.morele.net/sluchawki-apple-airpods-5-mkft4zm-a-600478437/": {
   "site": "morele",
   "country": "PL",
   "name": "Słuchawki Apple AirPods 5 (MKFT4ZM/A)",
-  "price": "706.99",
+  "price": "673.99",
   "currency": "PLN",
   "url": "https://www.morele.net/sluchawki-apple-airpods-5-mkft4zm-a-600478437/",
   "in_stock": true,
@@ -12601,7 +12683,7 @@
   "seller": "Morele.net",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.morele.net/sluchawki-apple-airpods-5-mkfw4zm-a-600465787/": {
   "site": "morele",
@@ -12617,7 +12699,7 @@
   "seller": "Morele.net",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.morele.net/sluchawki-apple-airpods-pro-3-mfhp4zm-a-15519326/": {
   "site": "morele",
@@ -12633,7 +12715,7 @@
   "seller": "Lantre | Autoryzowany Sprzedawca Apple",
   "is_official": false,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.morele.net/sluchawki-apple-airpods-pro-gen-2-mtjv3hn-a-16245249/": {
   "site": "morele",
@@ -12649,7 +12731,7 @@
   "seller": "kubartech",
   "is_official": false,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.morele.net/sluchawki-apple-phb086-czarne-14740085/": {
   "site": "morele",
@@ -12665,7 +12747,7 @@
   "seller": "Morele.net",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.morele.net/sluchawki-baseus-bass-15-clip-ows-biale-a00079500223-00-14830724/": {
   "site": "morele",
@@ -12697,7 +12779,7 @@
   "seller": "Morele.net",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.morele.net/sluchawki-baseus-bass-bc1-czarne-15896191/": {
   "site": "morele",
@@ -12713,7 +12795,7 @@
   "seller": "HurtowniaPrzemyslowa",
   "is_official": false,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.morele.net/sluchawki-baseus-bass-bc1-open-ear-biale-a0102401-15912176/": {
   "site": "morele",
@@ -12729,7 +12811,7 @@
   "seller": "Morele.net",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.morele.net/sluchawki-baseus-bass-bp1-pro-biale-a0010505-15782015/": {
   "site": "morele",
@@ -12745,7 +12827,7 @@
   "seller": "Morele.net",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.morele.net/sluchawki-baseus-bass-bs1-nc-czarne-600139577/": {
   "site": "morele",
@@ -12761,7 +12843,7 @@
   "seller": "Morele.net",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.morele.net/sluchawki-baseus-bass-bs2-lite-rozowe-15843486/": {
   "site": "morele",
@@ -12777,7 +12859,7 @@
   "seller": "HurtowniaPrzemyslowa",
   "is_official": false,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.morele.net/sluchawki-baseus-bass-ep10-anc-czarne-600383546/": {
   "site": "morele",
@@ -12809,7 +12891,7 @@
   "seller": "Morele.net",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.morele.net/sluchawki-baseus-bowie-e18-fioletowe-13232669/": {
   "site": "morele",
@@ -12825,7 +12907,7 @@
   "seller": "krainagsm",
   "is_official": false,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.morele.net/sluchawki-baseus-bowie-e19-czarne-14204755/": {
   "site": "morele",
@@ -12873,7 +12955,7 @@
   "seller": "Morele.net",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.morele.net/sluchawki-baseus-eli-2i-fit-ows-czarne-15843493/": {
   "site": "morele",
@@ -12905,7 +12987,7 @@
   "seller": "Morele.net",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.morele.net/sluchawki-blow-bte200-32-818-9553833/": {
   "site": "morele",
@@ -12953,7 +13035,7 @@
   "seller": "Morele.net",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.morele.net/sluchawki-bose-quietcomfort-czarne-884367-0100-13141222/": {
   "site": "morele",
@@ -12975,23 +13057,23 @@
   "site": "morele",
   "country": "PL",
   "name": "Słuchawki Bose QuietComfort Earbuds 2 czarne (888507-0100)",
-  "price": "659.00",
+  "price": "565.98",
   "currency": "PLN",
   "url": "https://www.morele.net/sluchawki-bose-quietcomfort-earbuds-2-czarne-888507-0100-14406344/",
   "in_stock": true,
   "model": "888507-0100",
   "ean": "4049531251105",
   "brand": "Bose",
-  "seller": "TeKaPi",
-  "is_official": false,
+  "seller": "Morele.net",
+  "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.morele.net/sluchawki-bose-quietcomfort-ultra-czarne-880066-0100-13141221/": {
   "site": "morele",
   "country": "PL",
   "name": "Słuchawki Bose QuietComfort Ultra Czarne (880066-0100)",
-  "price": "1420.66",
+  "price": "1417.56",
   "currency": "PLN",
   "url": "https://www.morele.net/sluchawki-bose-quietcomfort-ultra-czarne-880066-0100-13141221/",
   "in_stock": true,
@@ -13001,7 +13083,7 @@
   "seller": "Morele.net",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.morele.net/sluchawki-bose-quietcomfort-ultra-earbuds-bialy-882826-0020-13178023/": {
   "site": "morele",
@@ -13017,7 +13099,7 @@
   "seller": "Morele.net",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.morele.net/sluchawki-bose-quietcomfort-ultra-gen-2-czarne-890101-0100-15590565/": {
   "site": "morele",
@@ -13033,13 +13115,13 @@
   "seller": "Morele.net",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.morele.net/sluchawki-bose-quietcomfort-ultra-gen2-biale-890101-0200-15596011/": {
   "site": "morele",
   "country": "PL",
   "name": "Słuchawki Bose QuietComfort Ultra Gen2 białe (890101-0200)",
-  "price": "1454.99",
+  "price": "1357.99",
   "currency": "PLN",
   "url": "https://www.morele.net/sluchawki-bose-quietcomfort-ultra-gen2-biale-890101-0200-15596011/",
   "in_stock": true,
@@ -13049,7 +13131,7 @@
   "seller": "Morele.net",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.morele.net/sluchawki-bose-quietcomfort-ultra-gen2-czarne-890101-0400-15648449/": {
   "site": "morele",
@@ -13065,7 +13147,7 @@
   "seller": "Morele.net",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.morele.net/sluchawki-creative-aurvana-ace-2-czarne-51ef1160aa000-13185533/": {
   "site": "morele",
@@ -13081,7 +13163,7 @@
   "seller": "Morele.net",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.morele.net/sluchawki-creative-outlier-free-pro-czarne-51ef1081aa001-13094676/": {
   "site": "morele",
@@ -13097,7 +13179,7 @@
   "seller": "Primepc",
   "is_official": false,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.morele.net/sluchawki-creative-sb-jam-v2-51ef0950aa000-8851743/": {
   "site": "morele",
@@ -13113,7 +13195,7 @@
   "seller": "Morele.net",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.morele.net/sluchawki-creative-sensemore-air-51ef1020aa000-12593764/": {
   "site": "morele",
@@ -13145,7 +13227,7 @@
   "seller": "Morele.net",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.morele.net/sluchawki-creative-zen-hybrid-gen-2-czarne-51ef1220aa000-15133736/": {
   "site": "morele",
@@ -13161,7 +13243,7 @@
   "seller": "Morele.net",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.morele.net/sluchawki-creative-zen-hybrid-pro-czarne-51ef1040aa001-13185530/": {
   "site": "morele",
@@ -13199,7 +13281,7 @@
   "site": "morele",
   "country": "PL",
   "name": "Słuchawki Dewalt EarBuds (DXMA190-2097-DWG)",
-  "price": "560.99",
+  "price": "577.99",
   "currency": "PLN",
   "url": "https://www.morele.net/sluchawki-dewalt-earbuds-dxma190-2097-dwg-15495024/",
   "in_stock": true,
@@ -13209,7 +13291,7 @@
   "seller": "Morele.net",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.morele.net/sluchawki-dewalt-earbuds-pro-44h-dxma190-2096-dwg-600075429/": {
   "site": "morele",
@@ -13225,7 +13307,7 @@
   "seller": "Morele.net",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.morele.net/sluchawki-dewalt-jobsite-pro-dxma190-2091-dwg-15495017/": {
   "site": "morele",
@@ -13241,7 +13323,23 @@
   "seller": "Morele.net",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
+ },
+ "https://www.morele.net/sluchawki-dewalt-jobsite-pro-max-dxma190-2093-dwg-15495025/": {
+  "site": "morele",
+  "country": "PL",
+  "name": "Słuchawki Dewalt Jobsite Pro Max (DXMA190-2093-DWG)",
+  "price": "449.00",
+  "currency": "PLN",
+  "url": "https://www.morele.net/sluchawki-dewalt-jobsite-pro-max-dxma190-2093-dwg-15495025/",
+  "in_stock": true,
+  "model": "DXMA190-2093-DWG",
+  "ean": "0826341052054",
+  "brand": "Dewalt",
+  "seller": "Morele.net",
+  "is_official": true,
+  "condition": "new",
+  "last_seen": "2026-11-27"
  },
  "https://www.morele.net/sluchawki-dudao-u20-biale-15521043/": {
   "site": "morele",
@@ -13273,7 +13371,7 @@
   "seller": "Morele.net",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-25"
+  "last_seen": "2026-11-27"
  },
  "https://www.morele.net/sluchawki-earfun-air-pro-3-tw500b-12808004/": {
   "site": "morele",
@@ -13305,7 +13403,7 @@
   "seller": "Morele.net",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.morele.net/sluchawki-earfun-air-pro-4-anc-niebieski-tw700e-600011147/": {
   "site": "morele",
@@ -13337,7 +13435,7 @@
   "seller": "GearGod",
   "is_official": false,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.morele.net/sluchawki-earfun-open-jump-czarne-ow100b-14780264/": {
   "site": "morele",
@@ -13417,7 +13515,7 @@
   "seller": "Morele.net",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.morele.net/sluchawki-huawei-freebuds-se-2-czarne-13847729/": {
   "site": "morele",
@@ -13433,13 +13531,13 @@
   "seller": "Morele.net",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-25"
+  "last_seen": "2026-11-27"
  },
  "https://www.morele.net/sluchawki-huawei-freebuds-se-3-bezowe-14470616/": {
   "site": "morele",
   "country": "PL",
   "name": "Słuchawki Huawei Freebuds SE 3 beżowe",
-  "price": "190.56",
+  "price": "191.40",
   "currency": "PLN",
   "url": "https://www.morele.net/sluchawki-huawei-freebuds-se-3-bezowe-14470616/",
   "in_stock": true,
@@ -13449,7 +13547,7 @@
   "seller": "Morele.net",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.morele.net/sluchawki-huawei-freebuds-se-3-czarne-14523862/": {
   "site": "morele",
@@ -13465,13 +13563,13 @@
   "seller": "Morele.net",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.morele.net/sluchawki-huawei-freeclip-2-fioletowe-55038906-16222874/": {
   "site": "morele",
   "country": "PL",
   "name": "Słuchawki Huawei FreeClip 2 fioletowe (55038906)",
-  "price": "804.78",
+  "price": "808.21",
   "currency": "PLN",
   "url": "https://www.morele.net/sluchawki-huawei-freeclip-2-fioletowe-55038906-16222874/",
   "in_stock": true,
@@ -13481,13 +13579,13 @@
   "seller": "Morele.net",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.morele.net/sluchawki-huawei-freeclip-2-niebieskie-55038690-15759548/": {
   "site": "morele",
   "country": "PL",
   "name": "Słuchawki Huawei FreeClip 2 niebieskie (55038690)",
-  "price": "761.64",
+  "price": "764.64",
   "currency": "PLN",
   "url": "https://www.morele.net/sluchawki-huawei-freeclip-2-niebieskie-55038690-15759548/",
   "in_stock": true,
@@ -13497,13 +13595,13 @@
   "seller": "Morele.net",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.morele.net/sluchawki-huawei-freeclip-2-rozowe-15800652/": {
   "site": "morele",
   "country": "PL",
   "name": "Słuchawki Huawei FreeClip 2 różowe",
-  "price": "949.13",
+  "price": "948.99",
   "currency": "PLN",
   "url": "https://www.morele.net/sluchawki-huawei-freeclip-2-rozowe-15800652/",
   "in_stock": true,
@@ -13513,7 +13611,7 @@
   "seller": "kubartech",
   "is_official": false,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.morele.net/sluchawki-infinix-xbuds-nc-xe28-czarne-15562282/": {
   "site": "morele",
@@ -13561,7 +13659,7 @@
   "seller": "Morele.net",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.morele.net/sluchawki-jbl-tune-235-czarne-jblt235btblk-15539174/": {
   "site": "morele",
@@ -13577,7 +13675,7 @@
   "seller": "Morele.net",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.morele.net/sluchawki-jbl-tune-235bt-biale-jblt235btwht-15600639/": {
   "site": "morele",
@@ -13593,13 +13691,13 @@
   "seller": "Morele.net",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.morele.net/sluchawki-jbl-tune-510bt-czarne-8290533/": {
   "site": "morele",
   "country": "PL",
   "name": "Słuchawki JBL Tune 510BT Czarne",
-  "price": "161.87",
+  "price": "161.95",
   "currency": "PLN",
   "url": "https://www.morele.net/sluchawki-jbl-tune-510bt-czarne-8290533/",
   "in_stock": true,
@@ -13609,7 +13707,7 @@
   "seller": "NET-S",
   "is_official": false,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.morele.net/sluchawki-jbl-tune-520-bt-czarne-t520btblack-12892116/": {
   "site": "morele",
@@ -13625,7 +13723,7 @@
   "seller": "SuperTech",
   "is_official": false,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.morele.net/sluchawki-jbl-tune-520-bt-niebieskie-jblt520btblueu-12920331/": {
   "site": "morele",
@@ -13657,7 +13755,7 @@
   "seller": "Morele.net",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.morele.net/sluchawki-jbl-tune-530bt-czarne-jblt530btblkeu-15705289/": {
   "site": "morele",
@@ -13673,7 +13771,7 @@
   "seller": "Morele.net",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.morele.net/sluchawki-jbl-tune-530bt-fioletowe-jblt530btlaveu-15775287/": {
   "site": "morele",
@@ -13689,7 +13787,7 @@
   "seller": "Morele.net",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.morele.net/sluchawki-jbl-tune-530bt-niebieskie-jblt530btblueu-15700744/": {
   "site": "morele",
@@ -13705,13 +13803,13 @@
   "seller": "Morele.net",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.morele.net/sluchawki-jbl-tune-680nc-czarne-jblt680ncblk-15794801/": {
   "site": "morele",
   "country": "PL",
   "name": "Słuchawki JBL Tune 680NC czarne (JBLT680NCBLK)",
-  "price": "208.00",
+  "price": "214.00",
   "currency": "PLN",
   "url": "https://www.morele.net/sluchawki-jbl-tune-680nc-czarne-jblt680ncblk-15794801/",
   "in_stock": true,
@@ -13721,13 +13819,13 @@
   "seller": "Morele.net",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.morele.net/sluchawki-jbl-tune-730bt-bezowe-jblt730btbeg-15700746/": {
   "site": "morele",
   "country": "PL",
   "name": "Słuchawki JBL Tune 730BT beżowe (JBLT730BTBEG)",
-  "price": "172.84",
+  "price": "169.99",
   "currency": "PLN",
   "url": "https://www.morele.net/sluchawki-jbl-tune-730bt-bezowe-jblt730btbeg-15700746/",
   "in_stock": true,
@@ -13737,7 +13835,7 @@
   "seller": "Morele.net",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.morele.net/sluchawki-jbl-tune-730bt-biale-jblt730btwht-15700742/": {
   "site": "morele",
@@ -13753,7 +13851,7 @@
   "seller": "Morele.net",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.morele.net/sluchawki-jbl-tune-730bt-czarne-jblt730btblk-15700740/": {
   "site": "morele",
@@ -13769,7 +13867,7 @@
   "seller": "Morele.net",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.morele.net/sluchawki-jbl-tune-730bt-fioletowe-jblt730btlav-600406950/": {
   "site": "morele",
@@ -13785,7 +13883,7 @@
   "seller": "Morele.net",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.morele.net/sluchawki-jbl-tune-730bt-niebieskie-jblt730btblu-15743105/": {
   "site": "morele",
@@ -13801,7 +13899,7 @@
   "seller": "Morele.net",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.morele.net/sluchawki-jbl-tune-780nc-bezowe-jblt780ncbeg-15794802/": {
   "site": "morele",
@@ -13817,7 +13915,7 @@
   "seller": "Morele.net",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.morele.net/sluchawki-jbl-tune-780nc-biale-t780ncwht-15766171/": {
   "site": "morele",
@@ -13833,7 +13931,7 @@
   "seller": "Morele.net",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.morele.net/sluchawki-jbl-tune-780nc-czarne-jblt780ncblk-15766172/": {
   "site": "morele",
@@ -13849,13 +13947,13 @@
   "seller": "Morele.net",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.morele.net/sluchawki-jbl-tune-780nc-niebieskie-jblt780ncblu-15759566/": {
   "site": "morele",
   "country": "PL",
   "name": "Słuchawki JBL Tune 780NC niebieskie (JBLT780NCBLU)",
-  "price": "265.98",
+  "price": "265.90",
   "currency": "PLN",
   "url": "https://www.morele.net/sluchawki-jbl-tune-780nc-niebieskie-jblt780ncblu-15759566/",
   "in_stock": true,
@@ -13865,7 +13963,7 @@
   "seller": "Morele.net",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.morele.net/sluchawki-jbl-tune-beam-2-biale-jbltbeam2wht-14509549/": {
   "site": "morele",
@@ -13881,23 +13979,23 @@
   "seller": "Morele.net",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.morele.net/sluchawki-jbl-tune-beam-2-czarne-jbltbeam2blk-14509548/": {
   "site": "morele",
   "country": "PL",
   "name": "Słuchawki JBL Tune Beam 2 czarne (JBLTBEAM2BLK)",
-  "price": "296.58",
+  "price": "254.40",
   "currency": "PLN",
   "url": "https://www.morele.net/sluchawki-jbl-tune-beam-2-czarne-jbltbeam2blk-14509548/",
   "in_stock": true,
   "model": "JBLTBEAM2BLK",
   "ean": "1200130016479",
   "brand": "JBL",
-  "seller": "NET-S",
-  "is_official": false,
+  "seller": "Morele.net",
+  "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.morele.net/sluchawki-jbl-tune-beam-2-turkusowe-jbltbeam2tqe-14875549/": {
   "site": "morele",
@@ -13929,7 +14027,7 @@
   "seller": "KazelaTrade",
   "is_official": false,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.morele.net/sluchawki-jbl-tune-flex-2-ghost-edition-czarne-jbltflex2gblk-14875550/": {
   "site": "morele",
@@ -13951,7 +14049,7 @@
   "site": "morele",
   "country": "PL",
   "name": "Słuchawki JBL Wave Buds 2 czarna (JBLWBUDS2BLK)",
-  "price": "207.34",
+  "price": "189.89",
   "currency": "PLN",
   "url": "https://www.morele.net/sluchawki-jbl-wave-buds-2-czarna-jblwbuds2blk-14405993/",
   "in_stock": true,
@@ -13961,7 +14059,7 @@
   "seller": "Morele.net",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.morele.net/sluchawki-jlab-audio-go-air-sport-zielone-ieuebgairsprtrtel124-13093753/": {
   "site": "morele",
@@ -13977,7 +14075,7 @@
   "seller": "Morele.net",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.morele.net/sluchawki-lenovo-wireless-stereo-headset-4xd1q30302-14173044/": {
   "site": "morele",
@@ -13993,23 +14091,23 @@
   "seller": "FIRIT",
   "is_official": false,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.morele.net/sluchawki-logitech-zone-305-981-001458-15092905/": {
   "site": "morele",
   "country": "PL",
   "name": "Słuchawki Logitech Zone 305 (981-001458)",
-  "price": "288.76",
+  "price": "288.40",
   "currency": "PLN",
   "url": "https://www.morele.net/sluchawki-logitech-zone-305-981-001458-15092905/",
   "in_stock": true,
   "model": "981-001458",
   "ean": "0199251514647",
   "brand": "Logitech",
-  "seller": "NET-S",
+  "seller": "Primepc",
   "is_official": false,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.morele.net/sluchawki-marshall-major-iv-brazowy-217416-10154640/": {
   "site": "morele",
@@ -14031,7 +14129,7 @@
   "site": "morele",
   "country": "PL",
   "name": "Słuchawki Marshall Major IV Czarny (001922580000)",
-  "price": "377.00",
+  "price": "298.10",
   "currency": "PLN",
   "url": "https://www.morele.net/sluchawki-marshall-major-iv-czarny-001922580000-8375295/",
   "in_stock": true,
@@ -14041,7 +14139,7 @@
   "seller": "Morele.net",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.morele.net/sluchawki-marshall-major-v-brazowe-14699874/": {
   "site": "morele",
@@ -14057,7 +14155,7 @@
   "seller": "Morele.net",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.morele.net/sluchawki-marshall-major-v-czarne-13342060/": {
   "site": "morele",
@@ -14073,23 +14171,23 @@
   "seller": "Morele.net",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.morele.net/sluchawki-marshall-major-v-granatowe-15748992/": {
   "site": "morele",
   "country": "PL",
   "name": "Słuchawki Marshall Major V granatowe",
-  "price": "329.80",
+  "price": "360.00",
   "currency": "PLN",
   "url": "https://www.morele.net/sluchawki-marshall-major-v-granatowe-15748992/",
   "in_stock": true,
   "model": null,
   "ean": "7340055408479",
   "brand": "Marshall",
-  "seller": "Morele.net",
-  "is_official": true,
+  "seller": "Tridis",
+  "is_official": false,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.morele.net/sluchawki-marshall-major-v-kremowe-14742305/": {
   "site": "morele",
@@ -14105,7 +14203,7 @@
   "seller": "Morele.net",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.morele.net/sluchawki-marshall-major-v-kremowy-14742305/": {
   "site": "morele",
@@ -14127,23 +14225,23 @@
   "site": "morele",
   "country": "PL",
   "name": "Słuchawki Marshall Minor IV TWS czarne",
-  "price": "449.00",
+  "price": "529.99",
   "currency": "PLN",
   "url": "https://www.morele.net/sluchawki-marshall-minor-iv-tws-czarne-13672413/",
   "in_stock": true,
   "model": null,
   "ean": "7340055398251",
   "brand": "Marshall",
-  "seller": "LUM",
-  "is_official": false,
+  "seller": "Morele.net",
+  "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.morele.net/sluchawki-moondrop-space-travel-2-biale-15475136/": {
   "site": "morele",
   "country": "PL",
   "name": "Słuchawki Moondrop Space Travel 2 białe",
-  "price": "161.29",
+  "price": "159.53",
   "currency": "PLN",
   "url": "https://www.morele.net/sluchawki-moondrop-space-travel-2-biale-15475136/",
   "in_stock": true,
@@ -14153,13 +14251,13 @@
   "seller": "Morele.net",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.morele.net/sluchawki-moondrop-space-travel-2-czarne-15475137/": {
   "site": "morele",
   "country": "PL",
   "name": "Słuchawki Moondrop Space Travel 2 czarne",
-  "price": "164.27",
+  "price": "163.50",
   "currency": "PLN",
   "url": "https://www.morele.net/sluchawki-moondrop-space-travel-2-czarne-15475137/",
   "in_stock": true,
@@ -14169,7 +14267,7 @@
   "seller": "Morele.net",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.morele.net/sluchawki-motorola-moto-buds-2-plus-silhouette-pg38c08061-600349862/": {
   "site": "morele",
@@ -14201,7 +14299,7 @@
   "seller": "duogsm",
   "is_official": false,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.morele.net/sluchawki-nothing-cmf-buds-2-plus-jasnoszare-600170927/": {
   "site": "morele",
@@ -14239,17 +14337,17 @@
   "site": "morele",
   "country": "PL",
   "name": "Słuchawki Nothing CMF Buds 2 szare (A10600098)",
-  "price": "225.64",
+  "price": "196.54",
   "currency": "PLN",
   "url": "https://www.morele.net/sluchawki-nothing-cmf-buds-2-szare-a10600098-14897491/",
   "in_stock": true,
   "model": "A10600098",
   "ean": "6974434225077",
   "brand": "Nothing",
-  "seller": "KazelaTrade",
-  "is_official": false,
+  "seller": "Morele.net",
+  "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.morele.net/sluchawki-nothing-cmf-buds-2-zielone-a10600099-14897494/": {
   "site": "morele",
@@ -14271,17 +14369,17 @@
   "site": "morele",
   "country": "PL",
   "name": "Słuchawki Nothing CMF Pro ciemnoszare",
-  "price": "271.22",
+  "price": "340.00",
   "currency": "PLN",
   "url": "https://www.morele.net/sluchawki-nothing-cmf-pro-ciemnoszare-15613255/",
   "in_stock": true,
   "model": "A11300008",
   "ean": "6974434226722",
   "brand": "Nothing",
-  "seller": "KazelaTrade",
+  "seller": "Entuzjasta-PC",
   "is_official": false,
   "condition": "new",
-  "last_seen": "2026-11-25"
+  "last_seen": "2026-11-27"
  },
  "https://www.morele.net/sluchawki-nothing-ear-2024-czarne-13247000/": {
   "site": "morele",
@@ -14297,7 +14395,7 @@
   "seller": "x-planet",
   "is_official": false,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.morele.net/sluchawki-oppo-enco-air5s-biale-600459205/": {
   "site": "morele",
@@ -14313,7 +14411,7 @@
   "seller": "Morele.net",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.morele.net/sluchawki-oppo-enco-air5s-czarne-600459206/": {
   "site": "morele",
@@ -14345,7 +14443,7 @@
   "seller": "Morele.net",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.morele.net/sluchawki-philips-tak5500rt-15649438/": {
   "site": "morele",
@@ -14361,7 +14459,7 @@
   "seller": "Morele.net",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.morele.net/sluchawki-philips-tat1209-czarne-tat1209bk-00-13267965/": {
   "site": "morele",
@@ -14377,7 +14475,7 @@
   "seller": "Morele.net",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.morele.net/sluchawki-philips-tat1209-rozowe-tat1209pk-00-13331013/": {
   "site": "morele",
@@ -14393,7 +14491,7 @@
   "seller": "Morele.net",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.morele.net/sluchawki-philips-tat1300-czarne-tat1300bk-00-600075455/": {
   "site": "morele",
@@ -14409,13 +14507,13 @@
   "seller": "Morele.net",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.morele.net/sluchawki-philips-tat2139bk-00-13331014/": {
   "site": "morele",
   "country": "PL",
   "name": "Słuchawki Philips TAT2139BK/00",
-  "price": "108.25",
+  "price": "119.58",
   "currency": "PLN",
   "url": "https://www.morele.net/sluchawki-philips-tat2139bk-00-13331014/",
   "in_stock": true,
@@ -14425,13 +14523,13 @@
   "seller": "Morele.net",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.morele.net/sluchawki-pixel-buds-pro-2-porcelain-ga05760-eu-14133718/": {
   "site": "morele",
   "country": "PL",
   "name": "Słuchawki Pixel Buds Pro 2 Porcelain (GA05760-EU)",
-  "price": "1099.00",
+  "price": "1089.00",
   "currency": "PLN",
   "url": "https://www.morele.net/sluchawki-pixel-buds-pro-2-porcelain-ga05760-eu-14133718/",
   "in_stock": true,
@@ -14441,13 +14539,13 @@
   "seller": "TeKaPi",
   "is_official": false,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.morele.net/sluchawki-pixel-buds-pro-ga03201-de-11812859/": {
   "site": "morele",
   "country": "PL",
   "name": "Słuchawki Pixel Buds Pro (GA03201-DE)",
-  "price": "466.31",
+  "price": "466.23",
   "currency": "PLN",
   "url": "https://www.morele.net/sluchawki-pixel-buds-pro-ga03201-de-11812859/",
   "in_stock": true,
@@ -14457,7 +14555,7 @@
   "seller": "Morele.net",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.morele.net/sluchawki-poly-voyager-surround-85-uc-stand-czarne-8g7t7aa-13670757/": {
   "site": "morele",
@@ -14479,7 +14577,7 @@
   "site": "morele",
   "country": "PL",
   "name": "Słuchawki QCY H3S białe",
-  "price": "275.99",
+  "price": "285.99",
   "currency": "PLN",
   "url": "https://www.morele.net/sluchawki-qcy-h3s-biale-600077293/",
   "in_stock": true,
@@ -14489,7 +14587,7 @@
   "seller": "Morele.net",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.morele.net/sluchawki-samsung-buds-core-biale-sm-r410-15752504/": {
   "site": "morele",
@@ -14511,7 +14609,7 @@
   "site": "morele",
   "country": "PL",
   "name": "Słuchawki Samsung Galaxy Buds3 FE czarne (SM-R420NZK)",
-  "price": "462.98",
+  "price": "419.00",
   "currency": "PLN",
   "url": "https://www.morele.net/sluchawki-samsung-galaxy-buds3-fe-czarne-sm-r420nzk-15494779/",
   "in_stock": true,
@@ -14521,29 +14619,29 @@
   "seller": "Morele.net",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.morele.net/sluchawki-samsung-galaxy-buds3-pro-srebrne-sm-r630nza-13269230/": {
   "site": "morele",
   "country": "PL",
   "name": "Słuchawki Samsung Galaxy Buds3 Pro Srebrne (SM-R630NZA)",
-  "price": "949.00",
+  "price": "659.00",
   "currency": "PLN",
   "url": "https://www.morele.net/sluchawki-samsung-galaxy-buds3-pro-srebrne-sm-r630nza-13269230/",
   "in_stock": true,
   "model": "SM-R630NZA",
   "ean": "8806095661513",
   "brand": "Samsung",
-  "seller": "VOBIS",
+  "seller": "x-planet",
   "is_official": false,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.morele.net/sluchawki-samsung-galaxy-buds3-srebrne-sm-r530-13266259/": {
   "site": "morele",
   "country": "PL",
   "name": "Słuchawki Samsung Galaxy Buds3 srebrne (SM-R530)",
-  "price": "479.00",
+  "price": "478.49",
   "currency": "PLN",
   "url": "https://www.morele.net/sluchawki-samsung-galaxy-buds3-srebrne-sm-r530-13266259/",
   "in_stock": true,
@@ -14553,29 +14651,29 @@
   "seller": "Morele.net",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.morele.net/sluchawki-samsung-galaxy-buds4-biale-sm-r540nzwaeue-15841390/": {
   "site": "morele",
   "country": "PL",
   "name": "Słuchawki Samsung Galaxy Buds4 białe (SM-R540NZWAEUE)",
-  "price": "540.19",
+  "price": "566.99",
   "currency": "PLN",
   "url": "https://www.morele.net/sluchawki-samsung-galaxy-buds4-biale-sm-r540nzwaeue-15841390/",
   "in_stock": true,
   "model": "SM-R540NZWAEUE",
   "ean": "8806097998167",
   "brand": "Samsung",
-  "seller": "Morele.net",
-  "is_official": true,
+  "seller": "SuperTech",
+  "is_official": false,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.morele.net/sluchawki-samsung-galaxy-buds4-czarne-sm-r540nzk-600170401/": {
   "site": "morele",
   "country": "PL",
   "name": "Słuchawki Samsung Galaxy Buds4 czarne (SM-R540NZK)",
-  "price": "520.62",
+  "price": "495.99",
   "currency": "PLN",
   "url": "https://www.morele.net/sluchawki-samsung-galaxy-buds4-czarne-sm-r540nzk-600170401/",
   "in_stock": true,
@@ -14585,7 +14683,7 @@
   "seller": "Morele.net",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.morele.net/sluchawki-samsung-galaxy-buds4-pro-biala-sm-r640nzwaeue-15841420/": {
   "site": "morele",
@@ -14601,13 +14699,13 @@
   "seller": "Morele.net",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.morele.net/sluchawki-samsung-galaxy-buds4-pro-czarna-sm-r640nzkaeub-15854150/": {
   "site": "morele",
   "country": "PL",
   "name": "Słuchawki Samsung Galaxy Buds4 Pro czarna (SM-R640NZKAEUB)",
-  "price": "715.00",
+  "price": "751.99",
   "currency": "PLN",
   "url": "https://www.morele.net/sluchawki-samsung-galaxy-buds4-pro-czarna-sm-r640nzkaeub-15854150/",
   "in_stock": true,
@@ -14617,7 +14715,7 @@
   "seller": "Morele.net",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.morele.net/sluchawki-samsung-galaxy-buds4-r540-czarne-sm-r540nzkaxef-600249299/": {
   "site": "morele",
@@ -14648,7 +14746,7 @@
   "seller": "Morele.net",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.morele.net/sluchawki-sennheiser-momentum-4-biale-srebrne-13219775/": {
   "site": "morele",
@@ -14680,7 +14778,7 @@
   "seller": "KazelaTrade",
   "is_official": false,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.morele.net/sluchawki-sennheiser-momentum-4-grafitowe-13987650/": {
   "site": "morele",
@@ -14696,7 +14794,7 @@
   "seller": "Morele.net",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.morele.net/sluchawki-sennheiser-momentum-true-wireless-5-grafitowe-600561465/": {
   "site": "morele",
@@ -14712,7 +14810,7 @@
   "seller": "Morele.net",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.morele.net/sluchawki-sennheiser-momentum-true-wireless-5-kremowe-600561462/": {
   "site": "morele",
@@ -14728,7 +14826,7 @@
   "seller": "Morele.net",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.morele.net/sluchawki-shokz-openrun-pro-2-czarne-s820-st-bk-14504312/": {
   "site": "morele",
@@ -14750,17 +14848,17 @@
   "site": "morele",
   "country": "PL",
   "name": "Słuchawki Skullcandy Crusher Evo (S6EVW-N740)",
-  "price": "582.00",
+  "price": "674.66",
   "currency": "PLN",
   "url": "https://www.morele.net/sluchawki-skullcandy-crusher-evo-s6evw-n740-7291588/",
   "in_stock": true,
   "model": "S6EVW-N740",
   "ean": "0810015587249",
   "brand": "Skullcandy",
-  "seller": "Morele.net",
-  "is_official": true,
+  "seller": "Primepc",
+  "is_official": false,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.morele.net/sluchawki-sony-sluchawki-bluetooth-wh-ch520-12892033/": {
   "site": "morele",
@@ -14792,7 +14890,7 @@
   "seller": "KazelaTrade",
   "is_official": false,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.morele.net/sluchawki-sony-ult-wear-czarne-whult900nb-ce7-13226908/": {
   "site": "morele",
@@ -14808,7 +14906,7 @@
   "seller": "KazelaTrade",
   "is_official": false,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.morele.net/sluchawki-sony-ult-wear-zielone-13225562/": {
   "site": "morele",
@@ -14872,7 +14970,7 @@
   "seller": "X-SKLEP",
   "is_official": false,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.morele.net/sluchawki-sony-wh-1000xm5-czarne-10818330/": {
   "site": "morele",
@@ -14888,7 +14986,7 @@
   "seller": "ZgarnijOkazje",
   "is_official": false,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.morele.net/sluchawki-sony-wh-1000xm6-czarne-15251031/": {
   "site": "morele",
@@ -14904,13 +15002,13 @@
   "seller": "KazelaTrade",
   "is_official": false,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.morele.net/sluchawki-sony-wh-1000xm6-niebieskie-wh1000xm6l-ce7-eu-15846166/": {
   "site": "morele",
   "country": "PL",
   "name": "Słuchawki Sony WH-1000XM6 niebieskie (WH1000XM6L.CE7/EU)",
-  "price": "1299.00",
+  "price": "1651.46",
   "currency": "PLN",
   "url": "https://www.morele.net/sluchawki-sony-wh-1000xm6-niebieskie-wh1000xm6l-ce7-eu-15846166/",
   "in_stock": true,
@@ -14920,13 +15018,13 @@
   "seller": "Morele.net",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.morele.net/sluchawki-sony-wh-ch520-biale-whch520w-ce7-12809599/": {
   "site": "morele",
   "country": "PL",
   "name": "Słuchawki Sony WH-CH520 białe (WHCH520W.CE7)",
-  "price": "145.64",
+  "price": "139.45",
   "currency": "PLN",
   "url": "https://www.morele.net/sluchawki-sony-wh-ch520-biale-whch520w-ce7-12809599/",
   "in_stock": true,
@@ -14936,13 +15034,13 @@
   "seller": "Morele.net",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.morele.net/sluchawki-sony-wh-ch520-czarne-whch520b-ce7-12809614/": {
   "site": "morele",
   "country": "PL",
   "name": "Słuchawki Sony WH-CH520 czarne (WHCH520B.CE7)",
-  "price": "153.01",
+  "price": "152.66",
   "currency": "PLN",
   "url": "https://www.morele.net/sluchawki-sony-wh-ch520-czarne-whch520b-ce7-12809614/",
   "in_stock": true,
@@ -14952,13 +15050,13 @@
   "seller": "NET-S",
   "is_official": false,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.morele.net/sluchawki-sony-wh-ch520-niebieskie-whch520l-ce7-12805157/": {
   "site": "morele",
   "country": "PL",
   "name": "Słuchawki Sony WH-CH520 niebieskie (WHCH520L.CE7)",
-  "price": "131.09",
+  "price": "143.73",
   "currency": "PLN",
   "url": "https://www.morele.net/sluchawki-sony-wh-ch520-niebieskie-whch520l-ce7-12805157/",
   "in_stock": true,
@@ -14968,7 +15066,7 @@
   "seller": "Morele.net",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.morele.net/sluchawki-sony-wh-ch720-rozowe-whch720np-ce7-14946312/": {
   "site": "morele",
@@ -15000,7 +15098,7 @@
   "seller": "Morele.net",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.morele.net/sluchawki-sony-whch720-niebieskie-whch720nl-ce7-12805159/": {
   "site": "morele",
@@ -15038,7 +15136,7 @@
   "site": "morele",
   "country": "PL",
   "name": "Słuchawki Soundcore Sleep A20 białe (A6611G21)",
-  "price": "511.05",
+  "price": "504.39",
   "currency": "PLN",
   "url": "https://www.morele.net/sluchawki-soundcore-sleep-a20-biale-a6611g21-14206380/",
   "in_stock": true,
@@ -15048,29 +15146,29 @@
   "seller": "Morele.net",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.morele.net/sluchawki-soundcore-sport-x20-czarne-a3968g11-13260466/": {
   "site": "morele",
   "country": "PL",
   "name": "Słuchawki Soundcore Sport X20 czarne (A3968G11)",
-  "price": "382.95",
+  "price": "372.45",
   "currency": "PLN",
   "url": "https://www.morele.net/sluchawki-soundcore-sport-x20-czarne-a3968g11-13260466/",
   "in_stock": true,
   "model": "A3968G11",
   "ean": "0194644187019",
   "brand": "Soundcore",
-  "seller": "NET-S",
+  "seller": "kubartech",
   "is_official": false,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.morele.net/sluchawki-technics-eah-az100-czarne-eah-az100e-k-14509556/": {
   "site": "morele",
   "country": "PL",
   "name": "Słuchawki Technics EAH-AZ100 czarne (EAH-AZ100E-K)",
-  "price": "1362.42",
+  "price": "1261.78",
   "currency": "PLN",
   "url": "https://www.morele.net/sluchawki-technics-eah-az100-czarne-eah-az100e-k-14509556/",
   "in_stock": true,
@@ -15080,7 +15178,7 @@
   "seller": "Morele.net",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.morele.net/sluchawki-technics-eah-az100-srebrne-eah-az100e-s-14509557/": {
   "site": "morele",
@@ -15096,7 +15194,7 @@
   "seller": "Morele.net",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.morele.net/sluchawki-truthhear-pure-1dd-3ba-15482350/": {
   "site": "morele",
@@ -15112,7 +15210,7 @@
   "seller": "Morele.net",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.morele.net/sluchawki-ugreen-fitbuds-ws213-czarne-ugr5766-15624805/": {
   "site": "morele",
@@ -15144,13 +15242,13 @@
   "seller": "Morele.net",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.morele.net/sluchawki-ugreen-hitune-max-5c-czarne-13302750/": {
   "site": "morele",
   "country": "PL",
   "name": "Słuchawki Ugreen HiTune Max 5C czarne",
-  "price": "149.99",
+  "price": "106.72",
   "currency": "PLN",
   "url": "https://www.morele.net/sluchawki-ugreen-hitune-max-5c-czarne-13302750/",
   "in_stock": true,
@@ -15160,7 +15258,7 @@
   "seller": "Morele.net",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.morele.net/sluchawki-ugreen-hitune-s3-ws209-biale-14758385/": {
   "site": "morele",
@@ -15176,7 +15274,7 @@
   "seller": "Morele.net",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.morele.net/sluchawki-ugreen-hitune-s3-ws209-czarne-1027544-14758387/": {
   "site": "morele",
@@ -15192,7 +15290,7 @@
   "seller": "Morele.net",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.morele.net/sluchawki-ugreen-hp206-studio-pro-czarne-15414502/": {
   "site": "morele",
@@ -15208,7 +15306,7 @@
   "seller": "Morele.net",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.morele.net/sluchawki-urbanista-lisbon-midnight-black-9540614/": {
   "site": "morele",
@@ -15224,7 +15322,7 @@
   "seller": "Morele.net",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.morele.net/sluchawki-xiaomi-buds-5-czarne-bhr8118gl-14167034/": {
   "site": "morele",
@@ -15288,7 +15386,7 @@
   "seller": "Morele.net",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.morele.net/sluchawki-xiaomi-redmi-buds-6-biale-bhr9250gl-14508149/": {
   "site": "morele",
@@ -15304,7 +15402,7 @@
   "seller": "GeekStore",
   "is_official": false,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.morele.net/sluchawki-xiaomi-redmi-buds-6-czarne-bhr9251gl-14508150/": {
   "site": "morele",
@@ -15320,7 +15418,7 @@
   "seller": "DDW LOGISTICS",
   "is_official": false,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.morele.net/sluchawki-xiaomi-redmi-buds-6-play-biale-bhr8773gl-13993593/": {
   "site": "morele",
@@ -15336,23 +15434,23 @@
   "seller": "Morele.net",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.morele.net/sluchawki-xiaomi-redmi-buds-6-play-czarne-bhr8776gl-13993596/": {
   "site": "morele",
   "country": "PL",
   "name": "Słuchawki Xiaomi Redmi Buds 6 Play czarne (BHR8776GL)",
-  "price": "49.00",
+  "price": "42.00",
   "currency": "PLN",
   "url": "https://www.morele.net/sluchawki-xiaomi-redmi-buds-6-play-czarne-bhr8776gl-13993596/",
   "in_stock": true,
   "model": "BHR8776GL",
   "ean": "6941812791240",
   "brand": "Xiaomi",
-  "seller": "GeekStore",
-  "is_official": false,
+  "seller": "Morele.net",
+  "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.morele.net/sluchawki-xiaomi-redmi-buds-6-play-niebieskie-bhr9283gl-14406624/": {
   "site": "morele",
@@ -15368,7 +15466,7 @@
   "seller": "GeekStore",
   "is_official": false,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.morele.net/sluchawki-xiaomi-redmi-buds-6-play-rozowe-bhr8775gl-14406623/": {
   "site": "morele",
@@ -15384,7 +15482,7 @@
   "seller": "GeekStore",
   "is_official": false,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.morele.net/sluchawki-xiaomi-redmi-buds-8-active-biale-15901940/": {
   "site": "morele",
@@ -15400,23 +15498,23 @@
   "seller": "GeekStore",
   "is_official": false,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.morele.net/sluchawki-xiaomi-redmi-buds-8-active-czarne-15901944/": {
   "site": "morele",
   "country": "PL",
   "name": "Słuchawki Xiaomi Redmi Buds 8 Active czarne",
-  "price": "79.00",
+  "price": "71.99",
   "currency": "PLN",
   "url": "https://www.morele.net/sluchawki-xiaomi-redmi-buds-8-active-czarne-15901944/",
   "in_stock": true,
   "model": null,
   "ean": "6932554464233",
   "brand": "Xiaomi",
-  "seller": "GeekStore",
-  "is_official": false,
+  "seller": "Morele.net",
+  "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.morele.net/sluchawki-xiaomi-redmi-buds-8-biale-bhr08uhgl-600162932/": {
   "site": "morele",
@@ -15448,7 +15546,7 @@
   "seller": "GeekStore",
   "is_official": false,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.morele.net/sluchawki-xiaomi-redmi-buds-8-lite-czarne-15790502/": {
   "site": "morele",
@@ -15464,7 +15562,7 @@
   "seller": "GeekStore",
   "is_official": false,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.morele.net/sluchawki-xiaomi-redmi-buds-8-lite-niebieskie-bhr08ojgl-15808035/": {
   "site": "morele",
@@ -15480,7 +15578,7 @@
   "seller": "GeekStore",
   "is_official": false,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.morele.net/sluchawki-xiaomi-redmi-buds-8-pro-czarne-15859874/": {
   "site": "morele",
@@ -15512,7 +15610,7 @@
   "seller": "Morele.net",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.morele.net/sluchawki-xiaomi-redmi-buds-essential-czarne-bhr6606gl-12511561/": {
   "site": "morele",
@@ -15544,7 +15642,7 @@
   "seller": "Morele.net",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.morele.net/sluchawki-xo-x33-czarne-13273261/": {
   "site": "morele",
@@ -15576,7 +15674,7 @@
   "seller": "MARTECH GROUP",
   "is_official": false,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.morele.net/sluchawkiplatinetslim-style-szare-phb912ganc-14931680/": {
   "site": "morele",
@@ -15592,7 +15690,7 @@
   "seller": "Morele.net",
   "is_official": true,
   "condition": "new",
-  "last_seen": "2026-11-26"
+  "last_seen": "2026-11-27"
  },
  "https://www.planeo.cz/aiwa-whf-930d-tv-sluchatka": {
   "site": "planeo",
