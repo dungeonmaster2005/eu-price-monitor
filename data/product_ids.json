@@ -969,6 +969,11 @@
   "model": "A3035G21",
   "brand": "Soundcore by Anker"
  },
+ "https://www.coolblue.nl/product/947609/soundcore-space-one-blauw.html": {
+  "ean": null,
+  "model": "A3035G31",
+  "brand": "Soundcore by Anker"
+ },
  "https://www.coolblue.nl/product/947615/soundcore-liberty-4-nc-zwart.html": {
   "ean": null,
   "model": "A3947G11",
@@ -1272,6 +1277,11 @@
  "https://www.coolblue.nl/product/962241/soundcore-liberty-4-pro-zwart.html": {
   "ean": null,
   "model": "A3954GF1",
+  "brand": "Soundcore by Anker"
+ },
+ "https://www.coolblue.nl/product/962242/soundcore-liberty-4-pro-lichtblauw.html": {
+  "ean": null,
+  "model": "A3954GG1",
   "brand": "Soundcore by Anker"
  },
  "https://www.coolblue.nl/product/962253/beats-powerbeats-pro-2-creme.html": {
@@ -1634,6 +1644,11 @@
   "model": "MHWP4ZM/A",
   "brand": "Apple"
  },
+ "https://www.coolblue.nl/product/978811/soundcore-aerofit-2-pro-zwart.html": {
+  "ean": null,
+  "model": "A3875G11",
+  "brand": "Soundcore by Anker"
+ },
  "https://www.coolblue.nl/product/978813/soundcore-aerofit-2-pro-blauw.html": {
   "ean": null,
   "model": "A3875G31",
@@ -1939,6 +1954,11 @@
   "model": null,
   "brand": "Marshall"
  },
+ "https://www.coolblue.nl/product/985556/marshall-milton-anc-creme.html": {
+  "ean": null,
+  "model": null,
+  "brand": "Marshall"
+ },
  "https://www.coolblue.nl/product/986177/apple-airpods-5.html": {
   "ean": null,
   "model": "MKFW4ZM/A",
@@ -2028,6 +2048,11 @@
   "ean": null,
   "model": "D1206GQ1",
   "brand": "Soundcore"
+ },
+ "https://www.coolblue.nl/product/987373/skullcandy-crusher-1080-grijs.html": {
+  "ean": null,
+  "model": "S6CNW-U993",
+  "brand": "Skullcandy"
  },
  "https://www.coolblue.nl/product/987375/skullcandy-crusher-1080-zwart.html": {
   "ean": null,
@@ -3334,6 +3359,11 @@
   "model": "5504ADCY",
   "brand": "Honor"
  },
+ "https://www.ldlc.com/fiche/PB00765683.html": {
+  "ean": "6941030727045",
+  "model": "EAR9581",
+  "brand": "Linq"
+ },
  "https://www.mironet.cz/aiwa-ebtw150wt-bila-bezdratova-sluchatka-mikrofon-bluetooth-50+dp1015458/": {
   "ean": null,
   "model": null,
@@ -4009,6 +4039,11 @@
   "model": null,
   "brand": "Baseus"
  },
+ "https://www.morele.net/sluchawki-baseus-bass-bs2-lite-pomaranczowe-15880251/": {
+  "ean": "6942521200450",
+  "model": null,
+  "brand": "Baseus"
+ },
  "https://www.morele.net/sluchawki-baseus-bass-bs2-lite-rozowe-15843486/": {
   "ean": "6942521200375",
   "model": null,
@@ -4103,6 +4138,11 @@
   "ean": "0017817859516",
   "model": "890101-0400",
   "brand": "Bose"
+ },
+ "https://www.morele.net/sluchawki-cmf-buds-clip-pro-ciemnoszare-a11200013-600585912/": {
+  "ean": "6974434228832",
+  "model": "A11200013",
+  "brand": "CMF"
  },
  "https://www.morele.net/sluchawki-creative-aurvana-ace-2-czarne-51ef1160aa000-13185533/": {
   "ean": "5390660196034",
@@ -4494,6 +4534,11 @@
   "model": "S7835597",
   "brand": "Nothing"
  },
+ "https://www.morele.net/sluchawki-oneplus-nord-buds-4-pro-czarne-opnb4pblk-16219414/": {
+  "ean": "6921815631309",
+  "model": "OPNB4PBLK",
+  "brand": "OnePlus"
+ },
  "https://www.morele.net/sluchawki-oppo-enco-air5s-biale-600459205/": {
   "ean": "6932169389082",
   "model": null,
@@ -4507,6 +4552,11 @@
  "https://www.morele.net/sluchawki-philips-tah3209bg-00-13293236/": {
   "ean": "4895229140622",
   "model": "TAH3209BG/00",
+  "brand": "Philips"
+ },
+ "https://www.morele.net/sluchawki-philips-tak4200ct-15372993/": {
+  "ean": "4895229158962",
+  "model": "TAK4200CT/00",
   "brand": "Philips"
  },
  "https://www.morele.net/sluchawki-philips-tak5500rt-15649438/": {
@@ -4772,6 +4822,11 @@
  "https://www.morele.net/sluchawki-ugreen-hitune-s3-ws209-czarne-1027544-14758387/": {
   "ean": "6941876247851",
   "model": null,
+  "brand": "Ugreen"
+ },
+ "https://www.morele.net/sluchawki-ugreen-hp206-studio-pro-biale-15561797/": {
+  "ean": "6941876256143",
+  "model": "54484-0",
   "brand": "Ugreen"
  },
  "https://www.morele.net/sluchawki-ugreen-hp206-studio-pro-czarne-15414502/": {
